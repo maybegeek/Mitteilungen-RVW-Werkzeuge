@@ -1,2 +1,3 @@
 # Mitteilungen-RVW-Bibliografie
-Verzeichnis der Einzelbeiträge der Mitteilungen des Regensburger Verbunds für Werbeforschung - RVW
+
+Verzeichnis der Einzelbeiträge der Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW
