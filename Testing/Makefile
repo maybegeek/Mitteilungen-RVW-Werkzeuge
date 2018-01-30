@@ -1,48 +1,16 @@
 MEXT  := md
 SRC   := $(wildcard RVW.$(MEXT))
 BIB   := ../mitteilungen-rvw-bibliografie.bib
-# BIB   := ../r-v-w.bib
-CSL   := https://cdn.rawgit.com/maybegeek/rvw-mitteilungen-csl/8dda1de5/rvw-mitteilungen.csl
-# CSL   := rvw-mitteilungen.csl
-# CSL   := referenz-geisteswissenschaften-heilmann.csl
+
+CSL   := https://cdn.rawgit.com/maybegeek/rvw-mitteilungen-csl/master/rvw-mitteilungen.csl
+# CSL   := http://www.tillheilmann.info/code/referenz-geisteswissenschaften-heilmann.csl
 
 PDFS=$(SRC:.md=.pdf)
-# HTML=$(SRC:.md=.html)
-# TEX=$(SRC:.md=.tex)
-# ODTS=$(SRC:.md=.odt)
 TEXT=$(SRC:.md=.txt)
 
-# all:	$(HTML) $(ODTS) $(TEXT)
-all:	$(TEXT)
-
-pdf: clean $(PDFS)
-# html:	clean $(HTML)
-# tex:	clean $(TEX)
-# odt:	clean $(ODTS)
-txt:	clean $(TEXT)
-
-# %.html:	%.md
-# 	pandoc -w html5 -s \
-# 	--filter pandoc-citeproc \
-# 	--csl=$(CSL) \
-# 	--bibliography=$(BIB) \
-# 	-o Test-$@ $<
-#
-# %.tex:	%.md
-# 	pandoc -s \
-# 	-w latex \
-# 	--pdf-engine=xelatex \
-# 	--filter pandoc-citeproc \
-# 	--csl=$(CSL) \
-# 	--bibliography=$(BIB) \
-# 	-o Test-$@ $<
-#
-# %.odt:	%.md
-# 	pandoc \
-# 	--filter pandoc-citeproc \
-# 	--csl=$(CSL) \
-# 	--bibliography=$(BIB) \
-# 	-o Test-$@ $<
+all:	cleantxt $(TEXT)
+pdf: cleanpdf $(PDFS)
+txt:	cleantxt $(TEXT)
 
 %.pdf:	%.md
 	pandoc -s -f markdown+smart \
@@ -61,7 +29,8 @@ txt:	clean $(TEXT)
 	--bibliography=$(BIB) \
 	-o $@ $<
 
+cleantxt:
+	rm -f *.txt
 
-clean:
-	rm -f *.txt *.pdf
-	# rm -f *.html *.tex *.odt *.txt
+cleanpdf:
+	rm -f *.pdf

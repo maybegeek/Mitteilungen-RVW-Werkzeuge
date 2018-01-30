@@ -1,23 +1,27 @@
+\usepackage{tabu}
+\DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ }
+%
 \deffootnote[2em]{2em}{2.2em}{\thefootnotemark\ }
 %
 \renewcommand*{\sectionmarkformat}{}
-
+%
 \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-
+%
 \setmainfont[%
-%  RawFeature=-calt,%disable Q.long + contextual alternatives
   Path=./layout/,%
   UprightFont=Vollkorn-Regular.ttf,%
-  BoldFont=Vollkorn-Bold.ttf,%
+  BoldFont=Vollkorn-Semibold.ttf,%
   ItalicFont=Vollkorn-Italic.ttf,%
-  BoldItalicFont=Vollkorn-BoldItalic.ttf%
+  BoldItalicFont=Vollkorn-SemiboldItalic.ttf%
 ]{Vollkorn}
-
+%
 \setsansfont[%
-%  RawFeature=-calt,%disable Q.long + contextual alternatives
   Path=./layout/,%
   UprightFont=Vollkorn-Regular.ttf,%
-  BoldFont=Vollkorn-Bold.ttf,%
+  BoldFont=Vollkorn-Semibold.ttf,%
   ItalicFont=Vollkorn-Italic.ttf,%
-  BoldItalicFont=Vollkorn-BoldItalic.ttf%
+  BoldItalicFont=Vollkorn-SemiboldItalic.ttf%
 ]{Vollkorn}
+%
+\clubpenalty=10000
+\widowpenalty=10000
