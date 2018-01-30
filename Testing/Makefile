@@ -1,7 +1,9 @@
 MEXT  := md
 SRC   := $(wildcard RVW.$(MEXT))
 BIB   := ../mitteilungen-rvw-bibliografie.bib
-CSL   := rvw-mitteilungen.csl
+# BIB   := ../r-v-w.bib
+CSL   := https://cdn.rawgit.com/maybegeek/rvw-mitteilungen-csl/8dda1de5/rvw-mitteilungen.csl
+# CSL   := rvw-mitteilungen.csl
 # CSL   := referenz-geisteswissenschaften-heilmann.csl
 
 PDFS=$(SRC:.md=.pdf)
@@ -43,10 +45,10 @@ txt:	clean $(TEXT)
 # 	-o Test-$@ $<
 
 %.pdf:	%.md
-	pandoc -s -f markdown-smart \
+	pandoc -s -f markdown+smart \
 	--pdf-engine=xelatex \
 	--filter pandoc-citeproc \
-	--number-sections \
+	--include-in-header=layout/options.tex \
 	--csl=$(CSL) \
 	--bibliography=$(BIB) \
 -o $@ $<
