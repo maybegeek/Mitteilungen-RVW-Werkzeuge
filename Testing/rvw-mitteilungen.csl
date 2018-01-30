@@ -52,8 +52,8 @@
 
 <macro name="secondary-contributors">
 <choose>
-<if type="chapter paper-conference article-journal" match="none">
-  <names variable="editor translator" delimiter=", " prefix=" (XXXXXX" suffix=")">
+<if type="chapter paper-conference" match="none">
+  <names variable="editor translator" delimiter=", " prefix=" (" suffix=")">
     <name and="symbol" initialize="false" delimiter=", " delimiter-precedes-last="never"/>
     <label form="short" prefix=", " text-case="capitalize-first"/>
   </names>
