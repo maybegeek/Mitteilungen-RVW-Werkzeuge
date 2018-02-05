@@ -32,7 +32,7 @@ header.visual {
   -webkit-border-radius: 18px;
      -moz-border-radius: 18px;
           border-radius: 18px;
-  background-image: url("http://www.werbeforschung.org/wp-content/themes/rvw2016/inc/rvw-visual-links.png"), url("http://www.werbeforschung.org/wp-content/themes/rvw2016/inc/rvw-visual-rechts.png");
+  background-image: url("rvw-visual-links.png"), url("rvw-visual-rechts.png");
   background-position: 3% 90%, 100% 50%;
   background-repeat: no-repeat, no-repeat;
   margin-bottom: 32px;
@@ -52,16 +52,32 @@ main {
   border-bottom-right-radius: 18px;
   border-top-left-radius: 18px;
   border-top-right-radius: 18px;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(200px, 1fr) );
+  grid-gap: 42px;
 }
 
-
-main h2 {
+h2.main-title {
+  grid-column-start: 1;
+  grid-column-end: -1;
   font-weight:700;
   font-size:1.8em;
 }
 
 
-main.wf-content strong {
+.item {
+  margin: 0;
+  background-color: white;
+  border-radius: 2px;
+  transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.item:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+main strong {
   font-weight:700;
 }
 
