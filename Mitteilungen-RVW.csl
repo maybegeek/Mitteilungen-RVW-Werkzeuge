@@ -4,9 +4,9 @@
   <info>
     <title>Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW</title>
     <title-short>Mitteilungen des RVW</title-short>
-    <id>https://github.com/maybegeek/rvw-mitteilungen-csl</id>
-    <link href="https://github.com/maybegeek/rvw-mitteilungen-csl" rel="self"/>
-    <link href="https://github.com/maybegeek/rvw-mitteilungen-csl/README.md" rel="documentation"/>
+    <id>https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge</id>
+    <link href="https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge" rel="self"/>
+    <link href="https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/README.md" rel="documentation"/>
     <author>
       <name>Christoph Pfeiffer</name>
       <email>christoph.pfeiffer@ur.de</email>
@@ -21,7 +21,7 @@
     <category field="generic-base" />
     <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
     <issn>2198-0500</issn>
-    <updated>2018-01-30T16:18:47+01:00</updated>
+    <updated>2018-02-05T12:18:47+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attributio-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
   </info>
 
