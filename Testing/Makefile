@@ -1,8 +1,5 @@
-MEXT  := md
-SRC   := $(wildcard RVW.$(MEXT))
-BIB   := ../mitteilungen-rvw-bibliografie.bib
-
-CSL   := https://cdn.rawgit.com/maybegeek/rvw-mitteilungen-csl/master/rvw-mitteilungen.csl
+SRC   := $(wildcard *.md)
+CSL   := https://cdn.rawgit.com/maybegeek/Mitteilungen-RVW-Werkzeuge/master/Mitteilungen-RVW.csl
 # CSL   := http://www.tillheilmann.info/code/referenz-geisteswissenschaften-heilmann.csl
 
 PDFS=$(SRC:.md=.pdf)
@@ -18,7 +15,6 @@ txt:	cleantxt $(TEXT)
 	--filter pandoc-citeproc \
 	--include-in-header=layout/options.tex \
 	--csl=$(CSL) \
-	--bibliography=$(BIB) \
 -o $@ $<
 
 %.txt:	%.md
@@ -26,7 +22,6 @@ txt:	cleantxt $(TEXT)
 	-w plain \
 	--filter pandoc-citeproc \
 	--csl=$(CSL) \
-	--bibliography=$(BIB) \
 	-o $@ $<
 
 cleantxt:

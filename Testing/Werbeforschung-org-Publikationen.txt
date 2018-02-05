@@ -1,0 +1,324 @@
+
+
+PUBLIKATIONEN VON WERBEFORSCHUNG.ORG
+
+
+In der *.bib-Datei sind die Veröffentlichungen, welche auf der Website
+http://werbeforschung.org verzeichnet sind, aufgeführt.
+
+Als Beispiel werden diese hier ausgegeben. Hierzu benutzt werden pandoc,
+die *.bib-Datei (Werbeforschung-org-Publikationen.bib) und ein
+Zitationsstil (Mitteilungen-RVW.csl). Freilich kann das
+Literaturverwaltungsprogramm der eigenen Wahl verwendet werden,
+BibTeX-Import vorausgesetzt.
+
+
+
+LITERATUR
+
+
+Depkat, Volker (2010). Die Verdichtung der Kommunikation und die
+Vervielfältigung der Waren – Anmerkungen zur Geschichte der Werbung. In:
+Reimann, Sandra & Sauerland, Martin (Hg.). _Wissen schaf(f)t Werbung_.
+Regensburg: Universitätsverlag.
+
+Dotzler, Bernhard (2010). Die mechanische Braut. Werbeforschung am
+Anfang von Medienwissenschaft. In: Reimann, Sandra & Sauerland, Martin
+(Hg.). _Wissen schaf(f)t Werbung_. Regensburg: Universitätsverlag.
+
+Dotzler, Bernhard J. (2011). Commercial Cultural Heritage Online. In:
+Regensburger Universitätsstiftung (Hg.). _Effiziente Förderung der
+Ressource Wissen_. Regensburg: Aumüller Druck.
+
+Dotzler, Bernhard J. (2015). Das siebte Übel. Der Neid, die Werbung und
+das Aufgebot der Medien. In: Breuer, Ingo; Goth, Sebastian; Moll, Björn
+& Roussel, Martin (Hg.). _Die Sieben Todsünden_ (= Morphomata, 27).
+Paderborn: Fink.
+
+Drascek, Daniel (2010). Nikolaus und Weihnachtsmann. Werbung als
+Indikator kulturellen Wertewandels. In: Reimann, Sandra & Sauerland,
+Martin (Hg.). _Wissen schaf(f)t Werbung_. Regensburg:
+Universitätsverlag.
+
+Feichtner, Edgar (2008). Werbeziele – Werbewirkung. In: Reimann, Sandra
+(Hg.). _Werbung hören: Beiträge zur interdisziplinären Erforschung der
+Werbung im Hörfunk_ (= Medien: Forschung und Wissenschaft, 17). Berlin:
+LIT Verlag.
+
+Fröhlich, Hansjürgen (2010). Kreativität und Werbung – Wege zum Ziel.
+In: Reimann, Sandra & Sauerland, Martin (Hg.). _Wissen schaf(f)t
+Werbung_. Regensburg: Universitätsverlag.
+
+Fürmetz, Peter (2008). Schulterschluss von Theorie und Praxis. In:
+Reimann, Sandra (Hg.). _Werbung hören: Beiträge zur interdisziplinären
+Erforschung der Werbung im Hörfunk_ (= Medien: Forschung und
+Wissenschaft, 17). Berlin: LIT Verlag.
+
+Fürmetz, Peter (2010). Radiowerbung – kreativ und crossmedial. In:
+Reimann, Sandra & Sauerland, Martin (Hg.). _Wissen schaf(f)t Werbung_.
+Regensburg: Universitätsverlag.
+
+Geißelmann, Friedrich (2006). Bedeutung des Historischen
+Werbefunkarchivs aus Sicht der Universitätsbibliothek. In: Reimann,
+Sandra (Hg.). _Faszination Hörfunkwerbung – im Wandel: Das Historische
+Werbefunkarchiv der Universität Regensburg_. Regensburg: edition vulpes.
+
+Gerber, Gabriele (2006). _Das Historische Werbefunkarchiv – ein
+Digitalisierungsprojekt der Universitätsbibliothek Regensburg_
+(= Berliner Handreichungen zur Bibliotheks- und
+Informationswissenschaft, 185). Berlin: Institut für Bibliotheks- und
+Informationswissenschaft der Humboldt-Universität zu Berlin.
+
+Gerber, Gabriele & Harrach, Nike Gräfin von (2006). Die Digitalisierung
+des Historischen Werbefunkarchivs. In: Reimann, Sandra (Hg.).
+_Faszination Hörfunkwerbung – im Wandel: Das Historische Werbefunkarchiv
+der Universität Regensburg_. Regensburg: edition vulpes.
+
+Gerber, Gabriele & Reimann, Sandra (2006). Weißer Riese und Persil-Frau:
+Das Historische Werbefunkarchiv der Universität Regensburg. In: _Blick
+in die Wissenschaft_ 15/18, S. 56–61.
+
+Gerber, Gabriele & Schroll-Decker, Irmgard (2007). Vorm Radio. In:
+_Altenpflege_ 32/4, S. 34–36.
+
+Gerber, Gabriele; Harrach, Nike Gräfin von & Reimann, Sandra (2005). Das
+Historische Werbefunkarchiv der Universität Regensburg. In:
+_Bibliotheksforum_ 33/2, S. 175–181.
+
+Greule, Albrecht (2006). Der Wert von Fehlversuchen und
+Regieanweisungen. Zur wissenschaftlichen Auswertung des Historischen
+Werbefunkarchivs. In: Reimann, Sandra (Hg.). _Faszination Hörfunkwerbung
+– im Wandel: Das Historische Werbefunkarchiv der Universität
+Regensburg_. Regensburg: edition vulpes.
+
+Greule, Albrecht (2008). Spot-Texte analysieren. Der Beitrag der
+Sprachwissenschaft zur Untersuchung der Hörfunkwerbung. In: Reimann,
+Sandra (Hg.). _Werbung hören: Beiträge zur interdisziplinären
+Erforschung der Werbung im Hörfunk_ (= Medien: Forschung und
+Wissenschaft, 17). Berlin: LIT Verlag.
+
+Greule, Albrecht (2012). Werbekommunikation sprachhistorisch. In:
+Janich, Nina (Hg.). _Handbuch Werbekommunikation.
+Sprachwissenschaftliche und interdisziplinäre Zugänge_. Tübingen: Narr
+Francke Attempto Verlag.
+
+Greule, Albrecht & Reimann, Sandra (2007). Belebend cool.
+Methodisch-sprachstrukturelle Überlegungen zum Slogan im Hörfunk. In:
+Wich-Reif, Claudia (Hg.). _Strukturen und Funktionen in Gegenwart und
+Geschichte_. Festschrift für Franz Simmler zum 65. Geburtstag. Berlin:
+Weidler-Verlag.
+
+Greule, Albrecht & Reimann, Sandra (2011). Von Doppel- und Normaltuben
+und dem Anti-Enzym BX. Wortbildung in der Hörfunkwerbung. In:
+_Wortbildung im Deutschen zwischen Sprachsystem und Sprachgebrauch_.
+Stuttgart: ibidem-Verlag.
+
+Greule, Albrecht & Reimann, Sandra (2014). Tradition oder Neubeginn? Zur
+historischen Textsorte „Werbeanzeige“. In: Ernst, Peter (Hg.).
+_Kontinuitäten und Neuerungen in Textsorten- und Textallianztraditionen
+vom 13. bis zum 18.Jahrhundert_. Berlin: Weidler-Verlag.
+
+Greule, Albrecht; Reimann, Sandra & Šichová, Kateřina (2012). Jetzt hast
+du den Salat! Phraseologie und Werbung im Dialog. In: Prinz, Michael &
+Richter-Vapaatalo, Ulrike (Hg.). _Idiome, Konstruktionen, „verblümte
+Rede“. Beiträge zur germanistischen Phraseologieforschung_ (= Beiträge
+zur Geschichte der Germanistik, 3). Stuttgart: Hirzel.
+
+Hofmann, Bernhard (2008). Musik in der Hörfunkwerbung. In: Reimann,
+Sandra (Hg.). _Werbung hören: Beiträge zur interdisziplinären
+Erforschung der Werbung im Hörfunk_ (= Medien: Forschung und
+Wissenschaft, 17). Berlin: LIT Verlag.
+
+Hofmann, Bernhard (2010). Volles Ohr! Musik in der Hörfunkwerbung. In:
+Reimann, Sandra & Sauerland, Martin (Hg.). _Wissen schaf(f)t Werbung_.
+Regensburg: Universitätsverlag.
+
+Kaunzner, Ulrike (2008a). Vom „Leiden“ der Pause am Lampenfieber.
+Sprechen im Hörfunk. In: Reimann, Sandra (Hg.). _Werbung hören: Beiträge
+zur interdisziplinären Erforschung der Werbung im Hörfunk_ (= Medien:
+Forschung und Wissenschaft, 17). Berlin: LIT Verlag.
+
+Kaunzner, Ulrike (2008b). Anglizismen in der Sport-Werbung. Deutschland
+und Österreich im Vergleich. In: Moraldo, Sandro M. (Hg.).
+_Sprachkontakt und Mehrsprachigkeit. Zur Anglizismendiskussion in
+Deutschland, Österreich, der Schweiz und Italien_. Heidelberg: Winter.
+
+Kaunzner, Ulrike (2015). Interkulturelle Kompetenzen beim Übersetzen
+touristischer Werbe- und Informationstexte. In: Ehrhardt, C. &
+Scialdone, M. P. (Hg.). _Die deutsch-italienische Kommunikation. Theorie
+und Praxis der Interkultur_ (= Interkulturelle Perspektiven in der
+Sprachwissenschaft und ihrer Didaktik, 4). Münster: Waxmann.
+
+Kaunzner, Ulrike & Reimann, Sandra (2012). Alter in der Werbung – zur
+altersspezifischen Sprache in deutsch- und italienischsprachigen
+Kosmetikanzeigen. In: Cotticelli Kurras, Paola; Ronneberger-Sibold, Elke
+& Wahl, Sabine (Hg.). _Il linguaggio della pubblicità italiano e
+tedesco: teoria e prassi – Italienische und deutsche Werbesprache:
+Theorie und Praxis_. Alessandria: Edizioni dell’Orso.
+
+Montiel Alafont, Francisco Javier (2010). Kulturelle Identität und Place
+Branding im Internet zwischen Steuerung und Eigendynamik: Der Fall
+Spanien. In: Höhne, Steffen; Bünsch, Nicola & Ziegler, Ralph Philipp
+(Hg.). _Kulturbranding III. Positionen, Ambivalenzen, Perspektiven
+zwischen Markenbildung und Kultur, Weimarer Studien zu Kulturpolitik und
+Kulturökonomie_. Leipzig: Leipziger Universitätsverlag.
+
+Montiel Alafont, Francisco Javier (2011). Spanische Identität? Spaniens
+Country-Branding seit den 60er Jahren. Eine kulturhistorische
+Annäherung. In: Rupp, Anne; Zelno, Anna; Dalipi, Merlinda & Scheitza,
+Alexander (Hg.). _Spanien von innen und außen. Eine interkulturelle
+Perspektive_ (= SEITAR-Deutschland: Beiträge zur interkulturellen
+Zusammenarbeit, 5). Berlin: LIT Verlag.
+
+Montiel Alafont, Francisco Javier (2012). Werbekommunikation aus
+kulturhistorischer Sicht. In: Janich, Nina (Hg.). _Handbuch
+Werbekommunikation. Sprachwissenschaftliche und interdisziplinäre
+Zugänge_. Tübingen: Narr Francke Attempto Verlag.
+
+Montiel Alafont, Francisco Javier (2013). Ästhetisierung im Spanien der
+Transición: Werbung, Kunst, Alltagskultur. In: Stöckl, Hartmut (Hg.).
+_Werbung – Keine Kunst? Phänomene und Prozesse der Ästhetisierung von
+Werbekommunikation_. Heidelberg: Winter.
+
+Nierwetberg, Stefan (2008). Werbespot und Werbemusik. Praxisbeispiele.
+In: Reimann, Sandra (Hg.). _Werbung hören: Beiträge zur
+interdisziplinären Erforschung der Werbung im Hörfunk_ (= Medien:
+Forschung und Wissenschaft, 17). Berlin: LIT Verlag.
+
+Reimann, Sandra (2003). Mit Liebe zum Detail wie immer das Erlebnis
+vollendeter Kaffeekultur! Sprach- und Zeitgeschichte im Spiegel von
+Dallmayr-Werbespots aus fünf Jahrzehnten. In: Wengeler, Martin (Hg.).
+_Germanistische Linguistik 160–170: Deutsche Sprachgeschichte nach
+1945_. Diskurs- und kulturgeschichtliche Perspektiven. Beiträge zu einer
+Tagung anlässlich der Emeritierung Georg Stötzels. Hildesheim: Georg
+Olms Verlag.
+
+Reimann, Sandra (2007a). Medialisierung von Marken- und Produktnamen in
+der Hörfunkwerbung – eine Klassifikation. In: Kremer, Ludger &
+Ronneberger-Sibold, Elke (Hg.). _Names in Commerce and Industry: Past
+and Present_. Berlin: Logo Verlag.
+
+Reimann, Sandra (2007b). Ist Traubenlikör eROTisch? Zur Bewertung von
+Werbung aus sprachwissenschaftlicher Sicht. In: Reimann, Sandra &
+Kessel, Katja (Hg.). _Wissenschaften im Kontakt. Kooperationsfelder der
+Deutschen Sprachwissenschaft_. Tübingen: Narr Francke Attempto.
+
+Reimann, Sandra (2008a). Der Sex-Appeal italienischen Kaffees – Werbung
+interkulturell. In: Kaunzner, Ulrike (Hg.). _Der Fall der Kulturmauer.
+Wie kann Sprachunterricht interkulturell sein?_ Münster: Waxmann.
+
+Reimann, Sandra (2008b). Auf den Spuren des Slogans – Überlegungen zu
+Vorläufern und Entstehung eines Werbetextbausteins. In: Szurawitzki,
+Michael & Schmidt, Christopher (Hg.). _Interdisziplinäre Germanistik im
+Schnittpunkt der Kulturen_. Festschrift für Dagmar Neuendorff zum 60.
+Geburtstag. Würzburg.
+
+Reimann, Sandra (2008c). _MEHRmedialität in der werblichen
+Kommunikation. Synchrone und diachrone Untersuchungen von
+Werbestrategien_. Tübingen: Gunter Narr Verlag.
+
+Reimann, Sandra (2008d). Es gibt immer was zu tun. Eine Kriteriologie
+zur Bestimmung des slogans im Hörfunk. In: Reimann, Sandra (Hg.).
+_Werbung hören: Beiträge zur interdisziplinären Erforschung der Werbung
+im Hörfunk_ (= Medien: Forschung und Wissenschaft, 17). Berlin: LIT
+Verlag.
+
+Reimann, Sandra (2009). „Grüß Gott alle miteinander, hier spricht Luis
+Trenker“ – Dialekt in deutscher Hörfunkwerbung gestern und heute. In:
+Zehetner, Ludwig; Kanz, Ulrich & Wildfeuer, Alfred (Hg.). _Mundart und
+Medien. Beiträge zum 3. dialektologischen Symposium im Bayerischen Wald,
+Walderbach, Mai 2008_. Regensburg: edition vulpes.
+
+Reimann, Sandra (2010). Mehrmedialität in der Werbung – Verankerung
+eines Begriffs und Verortung eines Ausdrucks. In: Reimann, Sandra &
+Sauerland, Martin (Hg.). _Wissen schaf(f)t Werbung_. Regensburg:
+Universitätsverlag.
+
+Reimann, Sandra (2012a). Produktnamen in der Werbung als Spiegel der
+Unternehmensgeschichte. In: Stegu, Martin; Kuhn, Julia & Wochele, Holger
+(Hg.). _Onomastics goes Business. Role and Relevance of Brand, Company
+and Other Names in Economic Contexts_. Berlin: Logos Verlag.
+
+Reimann, Sandra (2012b). Zugänge zu Korpora/Möglichkeiten der
+Korpusbeschaffung (TV- und Hörfunkspots). In: Janich, Nina (Hg.).
+_Handbuch Werbekommunikation. Sprachwissenschaftliche und
+interdisziplinäre Zugänge_. Tübingen: Narr Francke Attempto Verlag.
+
+Reimann, Sandra (2013). Produktnamen in Altbayern als Spiegel der
+Unternehmensgeschichte. In: Janka, Wolfgang & Simbeck, Katrin (Hg.).
+_Namen in Altbayern_. Gesammelte Beiträge zu Ehren von Josef Egginger
+und Günter Schneeberger. Regensburg: edition vulpes.
+
+Reimann, Sandra (2016a). „Strenger Geschmack hat bei uns keine Freunde“.
+Griechenland in der deutschen Werbung. In: Kaczmarek, Dorota (Hg.).
+_Politik - Medien - Sprache. Deutsche und polnische Realien aus
+linguistischer Sicht_ (= Linguistik. Mediendiskurse). Łódź: Wydawnictwo
+Uniwersytetu Łódzkiego.
+
+Reimann, Sandra (2016b). „Sankt Martin“ und „Sankt Mokka“. Echte und
+unechte Heiligennamen als Markennamen. In: Dräger, Kathrin; Fahlbusch,
+Fabian & Nübling, Damaris (Hg.). _Heiligenverehrung und Namengebung_.
+Berlin/Boston: De Gruyter.
+
+Reimann, Sandra & Kessel, Katja (Hg.) (2007). _Wissenschaften im
+Kontakt. Kooperationsfelder der Deutschen Sprachwissenschaft_. Tübingen:
+Narr Francke Attempto.
+
+Reimann, Sandra & Sauerland, Martin (Hg.) (2010). _Wissen schaf(f)t
+Werbung_. Regensburg: Universitätsverlag.
+
+Reimann, Sandra & Szurawitzki, Michael (2009). Kontrastive Analysen
+deutscher und finnischer Bankwerbungen – drei Fallstudien. In: Wollin,
+Lars; Neuendorff, Dagmar & Szurawitzki, Michael (Hg.). _Deutsch im
+Norden. Akten der nordisch-germanistischen Tagung zu Åbo/Turku,
+Finnland, 18.–19. Mai 2007_ (= Nordeuropäische Beiträge aus den Human-
+und Gesellschaftswissenschaften, 28). Frankfurt: Peter Lang Verlag.
+
+Reimann, Sandra & Šichová, Kateřina (2011). Hört, hört …! Phraseme in
+der Hörfunkwerbung. In: Lenk, Hartmut E. H. & Stein, Stephan (Hg.).
+_Phraseologismen in Textsorten_ (= Germanistische Linguistik, 211–212).
+Hildesheim: Georg Olms Verlag.
+
+Reimann, Sandra (Hg.) (2006). _Faszination Hörfunkwerbung – im Wandel:
+Das Historische Werbefunkarchiv der Universität Regensburg_. Regensburg:
+edition vulpes.
+
+Reimann, Sandra (Hg.) (2008e). _Werbung hören: Beiträge zur
+interdisziplinären Erforschung der Werbung im Hörfunk_ (= Medien:
+Forschung und Wissenschaft, 17). Berlin: LIT Verlag.
+
+Salopek, Damir (2010). Mediaplanung. In: Reimann, Sandra & Sauerland,
+Martin (Hg.). _Wissen schaf(f)t Werbung_. Regensburg:
+Universitätsverlag.
+
+Sauerland, Martin & Hammerl, Marianne (2010). Wirkt Saptil subtil? Über
+die Effekte unterschwellig rezipierter Werbeinformation. In: Reimann,
+Sandra & Sauerland, Martin (Hg.). _Wissen schaf(f)t Werbung_.
+Regensburg: Universitätsverlag.
+
+Sutor, Stefan (2008). Herausforderung Digitalisierung. Perspektiven für
+den Hörfunk. In: Reimann, Sandra (Hg.). _Werbung hören: Beiträge zur
+interdisziplinären Erforschung der Werbung im Hörfunk_ (= Medien:
+Forschung und Wissenschaft, 17). Berlin: LIT Verlag.
+
+Šichová, Kateřina (2013). Mit Werbung Deutsch lernen? In: Janíková, Věra
+& Sorger, Brigitte (Hg.). _Deutsch als Sprache der
+(Geistes)Wissenschaften. Didaktik – Deutsch als Fremdsprache_. Brno:
+Tribun.
+
+Šichová, Kateřina (2014). Wie Phraseme Werbung machen: Überlegungen zu
+einer Typologie werbungskonstituierender Phraseme. In: Vaňková, Lenka
+(Hg.). _Emotionalität im Text_. Tübingen: Stauffenburg Verlag.
+
+Wikipedia (2015). Historisches Werbefunkarchiv. Wikipedia, Die freie
+Enzyklopädie. Online seit 2008.
+
+Wolff, Christian (2009). Online-Werbung als digitales Kulturgut:
+Analyse, Erschließung und Archivierung. In: Eibl, Maximilian (Hg.).
+_Workshop Audiovisuelle Medien der GI-Fachgruppe Knowledge Media
+Design_. Chemnitz: TU Chemnitz.
+
+Wolff, Christian (2010). Adwords, Skyscraper und Eselsohren –
+Erscheinungsformen der Online-Werbung. In: Reimann, Sandra & Sauerland,
+Martin (Hg.). _Wissen schaf(f)t Werbung_. Regensburg:
+Universitätsverlag.
