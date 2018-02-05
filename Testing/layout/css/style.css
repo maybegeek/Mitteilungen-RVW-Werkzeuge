@@ -142,6 +142,9 @@ main.wf-content strong {
        -moz-border-radius: initial;
             border-radius: initial;
   }
+  h1.site-title {
+    margin-top: 0;
+  }
 }
 
 
