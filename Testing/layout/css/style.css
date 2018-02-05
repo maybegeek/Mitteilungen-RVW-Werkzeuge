@@ -10,6 +10,8 @@
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
+  background-color: rgb(223, 223, 223);
+  color: rgb(95, 104, 104);
 }
 
 body {
@@ -30,15 +32,38 @@ header.visual {
   -webkit-border-radius: 18px;
      -moz-border-radius: 18px;
           border-radius: 18px;
-  background-image: url("rvw-visual-links.png"), url("rvw-visual-rechts.png");
+  background-image: url("http://www.werbeforschung.org/wp-content/themes/rvw2016/inc/rvw-visual-links.png"), url("http://www.werbeforschung.org/wp-content/themes/rvw2016/inc/rvw-visual-rechts.png");
   background-position: 3% 90%, 100% 50%;
   background-repeat: no-repeat, no-repeat;
+  margin-bottom: 32px;
 }
 
 header.visual h1 {
   visibility:hidden;
 }
 
+
+main {
+  background-color:white;
+  font-size: 1.1em;
+  line-height:1.2;
+  padding: 24px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+}
+
+
+main h2 {
+  font-weight:700;
+  font-size:1.8em;
+}
+
+
+main.wf-content strong {
+  font-weight:700;
+}
 
 
 @media only screen and (max-width:700px){
@@ -109,8 +134,10 @@ header.visual h1 {
   header {
     margin-bottom:0;
   }
-  header.visual {
+  header.visual,
+  main {
     margin-top:0;
+    margin-bottom: 0;
     -webkit-border-radius: initial;
        -moz-border-radius: initial;
             border-radius: initial;
@@ -123,8 +150,4 @@ header.visual h1 {
   header.visual {
     margin-bottom:0;
   }
-}
-
-main {
-  padding: 24px;
 }
