@@ -1,0 +1,130 @@
+
+* {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: auto;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  font-family: 'Vollkorn', serif;
+}
+
+/* Visual */
+header.visual {
+  margin-top:20px;
+  background-color:#ef311b;
+  height:288px;
+  -webkit-border-radius: 18px;
+     -moz-border-radius: 18px;
+          border-radius: 18px;
+  background-image: url("rvw-visual-links.png"), url("rvw-visual-rechts.png");
+  background-position: 3% 90%, 100% 50%;
+  background-repeat: no-repeat, no-repeat;
+}
+
+header.visual h1 {
+  visibility:hidden;
+}
+
+
+
+@media only screen and (max-width:700px){
+  header.visual {
+    background-size: 160px, 450px;
+  }
+}
+
+@media only screen and (max-width:650px){
+  header.visual {
+    background-size: 150px, 420px;
+  }
+}
+
+@media only screen and (max-width:600px){
+  header.visual {
+    background-size: 140px, 390px;
+    height:270px;
+  }
+}
+
+@media only screen and (max-width:550px){
+  header.visual {
+    background-size: 130px, 360px;
+  }
+}
+
+@media only screen and (max-width:500px){
+  header.visual {
+    background-size: 125px, 330px;
+    height:250px;
+  }
+}
+
+@media only screen and (max-width:450px){
+  header.visual {
+    background-size:120px, 300px;
+  }
+}
+
+@media only screen and (max-width:400px){
+  header.visual {
+    background-size: 115px, 280px;
+    height:230px;
+  }
+}
+
+@media only screen and (max-width:350px){
+  header.visual {
+    background-size: 110px, 260px;
+  }
+}
+
+@media only screen and (max-width:300px){
+  header.visual {
+    background-size:105px, 240px;
+    height:210px;
+  }
+}
+
+@media only screen and (max-width:250px){
+  header.visual {
+    background-size: 100px, 220px;
+  }
+}
+
+@media only screen and (max-width:960px){
+  header {
+    margin-bottom:0;
+  }
+  header.visual {
+    margin-top:0;
+    -webkit-border-radius: initial;
+       -moz-border-radius: initial;
+            border-radius: initial;
+  }
+}
+
+
+/*allgemine Anpassungen ab unter-769*/
+@media only screen and (max-width:768px){
+  header.visual {
+    margin-bottom:0;
+  }
+}
+
+main {
+  padding: 24px;
+}
