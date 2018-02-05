@@ -53,8 +53,8 @@ main {
   border-top-left-radius: 18px;
   border-top-right-radius: 18px;
   display: grid;
-  grid-template-columns: repeat( auto-fit, minmax(200px, 1fr) );
-  grid-gap: 42px;
+  grid-template-columns: repeat( auto-fit, minmax(240px, 1fr) );
+  grid-gap: 24px;
 }
 
 h2.main-title {
@@ -71,6 +71,7 @@ h2.main-title {
   border-radius: 2px;
   transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  padding: 14px 20px;
 }
 
 .item:hover {
