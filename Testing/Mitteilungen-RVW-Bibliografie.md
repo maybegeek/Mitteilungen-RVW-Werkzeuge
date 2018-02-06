@@ -16,7 +16,7 @@ bibliography: ../Mitteilungen-RVW-Bibliografie.bib
 
 # Mitteilungen des Regensburger Verbunds für Werbeforschung - RVW
 
-In der `*.bib`-Datei sind die bisherigen Einzelbeiträge aus den Mitteilungen verzeichnet. Als Beispiel werden diese hier ausgegeben. Hierzu benutzt werden `pandoc`, die `*.bib`-Datei und ein Zitationsstil (`rvw-mitteilungen.csl`). Freilich kann das Literaturverwaltungsprogramm der eigenen Wahl verwendet werden, BibTeX-Import vorausgesetzt.
+In der `*.bib`-Datei sind die bisherigen Einzelbeiträge aus den Mitteilungen verzeichnet. Als Beispiel werden diese hier ausgegeben. Hierzu benutzt werden `pandoc`, die `*.bib`-Datei und ein Zitationsstil (`Mitteilungen-RVW.csl`). Freilich kann das Literaturverwaltungsprogramm der eigenen Wahl verwendet werden, BibTeX-Import vorausgesetzt.
 
 * _Schwerpunkt: ALTERnativ werben_ [das ganze Heft betreffend, siehe @rvw:1, 4].
 * _Schwerpunkt: Werbung und Medizin_ [das ganze Heft betreffend, siehe @rvw:2, 5].
