@@ -1,6 +1,6 @@
 # Gestaltungsrichtlinien für Artikel der „Mitteilungen des RVW“
 
-Artikel für die „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie auch bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.uni- regensburg.de/rvw.html](https://epub.uni- regensburg.de/rvw.html)
+Artikel für die „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie auch bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.uni-regensburg.de/rvw.html](https://epub.uni-regensburg.de/rvw.html)
 
 
 ## Gestaltraster
