@@ -1,3 +1,18 @@
+---
+title: Gestaltungsrichtlinien für Autoren
+date: 7. Februar 2018
+documentclass: scrartcl
+papersize: a4paper
+classoption:
+    - DIV=8
+    - headinclude=true
+    - footinclude=false
+    - titlepage=false
+lang: de-DE
+
+---
+
+
 # Gestaltungsrichtlinien für Artikel der „Mitteilungen des RVW“
 
 Artikel für die „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie auch bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.uni-regensburg.de/rvw.html](https://epub.uni-regensburg.de/rvw.html)
@@ -9,24 +24,29 @@ Für das Magazin „Mitteilungen des RVW“ wurde ein zweispaltiges Gestaltraste
 
 Ihr Text kann zweispaltig oder einspaltig eingereicht werden, obige Informationen sollen nur zum besseren Verständnis stehen, und Ihnen schon vorab ein ungefähres Bild Ihres Artikels im Layout der Zeitschrift liefern.
 
+
 ## Formatierungen im Text
 
 * Keine automatische Silbentrennung.
 * Hervorhebungen im Text (fett, kursiv, Kapitälchen usw.) bitte sparsam verwenden; nach Möglichkeit keine Unterstreichungen.
 
+
 ## Artikeltitel
 
 Der Titel und Untertitel Ihrer Arbeit und Ihr Autorenname werden einspaltig über dem Inhalt gesetzt. Untertitel werden im Inhaltsverzeichnis nicht aufgeführt.
 
+
 ## Textstruktur der Gliederungsebene
 
 Zur Gliederung Ihres Textes stehen Ihnen bevorzugt nicht nummerierte Überschriften zur Verfügung. Wir würden vorschlagen nicht tiefer als bis zur dritten Ordnung aufzudröseln. Wir bemühen uns die semantische Struktur, welche Sie Ihrem Text auf Gliederungsebene mitgegeben haben, auch in unserem Layout zu realisieren.
+
 
 ## Zitation/Fußnoten
 
 Im Text können Sie Fußnoten verwenden, oder Im-Text-Zitation, also einen Klammerausdruck mit Verweis auf Autor und Jahr, ggf. getrennt durch Doppelpunkt auch mit der spezifischen Seitenzahl.
 
 Es obliegt Ihrer Art des wissenschaftlichen Schreibens, welche Form/Formen Sie wählen, die Lesbarkeit des Textes und die Überprüfbarkeit der Aussagen sollte ein gemeinsames Ziel sein.
+
 
 ## Literaturangaben
 
@@ -42,9 +62,11 @@ Firma (Enstehungsdatum). *Titel*. Quelle. (bei Internetquellen zusätzlich URL u
 
 > Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD: Radio- Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
+
 ## Verwendung von Bildern
 
 Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, dass wir bei Bildern dem Prinzip des „Floatings“ folgen müssen: **Referenzieren Sie im Text auf Abbildungen und deren Abbildungsnummer, da die Abbildung selbst ggfs. nicht am Ort des Referenzierens gesetzt werden kann.**
+
 
 ## Einreichung
 
