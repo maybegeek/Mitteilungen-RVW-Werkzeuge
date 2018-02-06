@@ -89,6 +89,7 @@ h2.main-title {
   display: block;
   text-align: center;
   padding: 16px 18px;
+  transition: background-color 0.3s;
 }
 
 .item a:hover {
