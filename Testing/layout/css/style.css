@@ -65,7 +65,7 @@ h2.main-title {
 }
 
 
-.item {
+article {
   margin: 0;
   background-color: white;
   border-radius: 2px;
@@ -74,15 +74,15 @@ h2.main-title {
   padding: 14px 20px;
 }
 
-.item:hover {
+article:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-.item h3 {
+article h3 {
   border-bottom: 1px solid gray;
 }
 
-.item a {
+article a {
   background-color: rgba(239, 49, 27, 0.8);
   color: white;
   text-decoration: none;
@@ -93,7 +93,7 @@ h2.main-title {
   transition: background-color 0.3s, border 0.3s;
 }
 
-.item a:hover {
+article a:hover {
   background-color: rgba(239, 49, 27, 1);
   border: 1px solid rgba(239, 49, 27, 1);
 }
