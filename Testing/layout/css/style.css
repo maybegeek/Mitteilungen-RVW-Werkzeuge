@@ -68,14 +68,14 @@ h2.main-title {
 article {
   margin: 0;
   background-color: white;
-  border-radius: 2px;
+  border-radius: 8px;
   transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.4);
   padding: 14px 20px;
 }
 
 article:hover {
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.3), 0 8px 10px rgba(0,0,0,0.4);
 }
 
 article h3 {
@@ -90,6 +90,7 @@ article a {
   text-align: center;
   padding: 16px 18px;
   border: 1px solid white;
+  border-radius: 8px;
   transition: background-color 0.3s, border 0.3s;
 }
 
@@ -185,7 +186,7 @@ main strong {
 }
 
 
-/*allgemine Anpassungen ab unter-769*/
+/*allgemeine Anpassungen ab unter-769*/
 @media only screen and (max-width:768px){
   header.visual {
     margin-bottom:0;
