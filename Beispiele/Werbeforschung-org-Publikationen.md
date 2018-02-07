@@ -2,7 +2,7 @@
 title: Publikationen von Werbeforschung.org
 date: 5. Februar 2018
 documentclass: scrartcl
-papersize: a4paper
+papersize: a4
 classoption:
     - DIV=8
     - headinclude=true
