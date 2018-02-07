@@ -4,9 +4,9 @@ CSL   := ../Mitteilungen-RVW.csl
 PDFS=$(SRC:.md=.pdf)
 TEXT=$(SRC:.md=.txt)
 
-all:	cleantxt $(TEXT) cleanpdf $(PDFS)
+all: cleantxt $(TEXT) cleanpdf $(PDFS)
 pdf: cleanpdf $(PDFS)
-txt:	cleantxt $(TEXT)
+txt: cleantxt $(TEXT)
 
 %.pdf:	%.md
 	pandoc -s -f markdown-smart \
