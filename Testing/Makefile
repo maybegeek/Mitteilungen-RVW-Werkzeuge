@@ -10,7 +10,7 @@ pdf: cleanpdf $(PDFS)
 txt:	cleantxt $(TEXT)
 
 %.pdf:	%.md
-	pandoc -s -f markdown+smart \
+	pandoc -s -f markdown-smart \
 	--pdf-engine=xelatex \
 	--filter pandoc-citeproc \
 	--include-in-header=layout/options.tex \
