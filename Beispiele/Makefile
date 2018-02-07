@@ -1,6 +1,5 @@
 SRC   := $(wildcard *.md)
-CSL   := https://cdn.rawgit.com/maybegeek/Mitteilungen-RVW-Werkzeuge/master/Mitteilungen-RVW.csl
-# CSL   := http://www.tillheilmann.info/code/referenz-geisteswissenschaften-heilmann.csl
+CSL   := ../Mitteilungen-RVW.csl
 
 PDFS=$(SRC:.md=.pdf)
 TEXT=$(SRC:.md=.txt)
