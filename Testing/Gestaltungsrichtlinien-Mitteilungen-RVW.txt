@@ -98,4 +98,4 @@ Einreichung
 
 Einreichung als Textdatei (Formate: Word {*.doc,*.docx} oder Libre
 Office {*.odt}), wobei die referenzierten Bilder als EIGENSTÄNDIGE
-DATEIEN Dateien mitversandt werden.
+DATEIEN mitversandt werden.

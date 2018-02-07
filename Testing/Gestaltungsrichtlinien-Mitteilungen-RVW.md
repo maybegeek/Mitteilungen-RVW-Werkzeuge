@@ -70,4 +70,4 @@ Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, das
 
 ## Einreichung
 
-Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** Dateien mitversandt werden.
+Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** mitversandt werden.

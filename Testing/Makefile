@@ -5,7 +5,7 @@ CSL   := https://cdn.rawgit.com/maybegeek/Mitteilungen-RVW-Werkzeuge/master/Mitt
 PDFS=$(SRC:.md=.pdf)
 TEXT=$(SRC:.md=.txt)
 
-all:	cleantxt $(TEXT)
+all:	cleantxt $(TEXT) cleanpdf $(PDFS)
 pdf: cleanpdf $(PDFS)
 txt:	cleantxt $(TEXT)
 
