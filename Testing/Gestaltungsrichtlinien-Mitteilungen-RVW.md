@@ -1,6 +1,6 @@
 ---
-title: Gestaltungsrichtlinien für Autoren
-date: 7. Februar 2018
+title: 'Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“'
+date: '7. Februar 2018'
 documentclass: scrartcl
 papersize: a4paper
 classoption:
@@ -9,14 +9,14 @@ classoption:
     - footinclude=false
     - titlepage=false
 lang: de-DE
-
 ---
 
+Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.uni-regensburg.de/rvw.html](https://epub.uni-regensburg.de/rvw.html)
 
-# Gestaltungsrichtlinien für Artikel der „Mitteilungen des RVW“
-
-Artikel für die „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie auch bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.uni-regensburg.de/rvw.html](https://epub.uni-regensburg.de/rvw.html)
-
+* [Heft 1 / 2013 : Schwerpunkt: ALTERnativ werben](https://epub.uni-regensburg.de/29199/)
+* [Heft 2 / 2014 : Schwerpunkt: Werbung und Medizin](https://epub.uni-regensburg.de/31508/)
+* [Heft 3 / 2015 : Schwerpunkt: Risiko!](https://epub.uni-regensburg.de/33502/)
+* [Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW](https://epub.uni-regensburg.de/34935/)
 
 ## Gestaltraster
 
@@ -60,7 +60,7 @@ Autor (Enstehungsdatum soweit recherchierbar). *Titel*. URL. Zugriffsdatum.
 Beispiel Werbeanzeige:  
 Firma (Enstehungsdatum). *Titel*. Quelle. (bei Internetquellen zusätzlich URL und Zugriffsdatum)
 
-> Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD: Radio- Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+> Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 
 ## Verwendung von Bildern
@@ -70,4 +70,4 @@ Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, das
 
 ## Einreichung
 
-Einreichung als Text (Word; Libre Office), inklusive der referenzierten Bilder als **extra Dateien**.
+Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** Dateien mitversandt werden.

@@ -1,0 +1,101 @@
+Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung –
+RVW“ sollten entlang folgender Regeln verfasst werden, um
+Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die
+einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur
+Orientierung nehmen sie bitte Einsicht in die schon veröffentlichten
+Ausgaben: https://epub.uni-regensburg.de/rvw.html
+
+-   Heft 1 / 2013 : Schwerpunkt: ALTERnativ werben
+-   Heft 2 / 2014 : Schwerpunkt: Werbung und Medizin
+-   Heft 3 / 2015 : Schwerpunkt: Risiko!
+-   Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW
+
+
+Gestaltraster
+
+Für das Magazin „Mitteilungen des RVW“ wurde ein zweispaltiges
+Gestaltraster unter Verwendung der Seitengröße DIN A4 verwendet. Das
+konventionelle Seitenformat wurde gewählt, da auf ein digitales
+Erscheinen abgestellt wird. Zweispaltigkeit wurde gewählt, da die
+Seitenbreite zwar genutzt werden soll, allerdings einspaltiger Satz in
+Verbindung mit dann hoher Zeichenanzahl der Lesbarkeit abträglich ist.
+
+Ihr Text kann zweispaltig oder einspaltig eingereicht werden, obige
+Informationen sollen nur zum besseren Verständnis stehen, und Ihnen
+schon vorab ein ungefähres Bild Ihres Artikels im Layout der Zeitschrift
+liefern.
+
+
+Formatierungen im Text
+
+-   Keine automatische Silbentrennung.
+-   Hervorhebungen im Text (fett, kursiv, Kapitälchen usw.) bitte
+    sparsam verwenden; nach Möglichkeit keine Unterstreichungen.
+
+
+Artikeltitel
+
+Der Titel und Untertitel Ihrer Arbeit und Ihr Autorenname werden
+einspaltig über dem Inhalt gesetzt. Untertitel werden im
+Inhaltsverzeichnis nicht aufgeführt.
+
+
+Textstruktur der Gliederungsebene
+
+Zur Gliederung Ihres Textes stehen Ihnen bevorzugt nicht nummerierte
+Überschriften zur Verfügung. Wir würden vorschlagen nicht tiefer als bis
+zur dritten Ordnung aufzudröseln. Wir bemühen uns die semantische
+Struktur, welche Sie Ihrem Text auf Gliederungsebene mitgegeben haben,
+auch in unserem Layout zu realisieren.
+
+
+Zitation/Fußnoten
+
+Im Text können Sie Fußnoten verwenden, oder Im-Text-Zitation, also einen
+Klammerausdruck mit Verweis auf Autor und Jahr, ggf. getrennt durch
+Doppelpunkt auch mit der spezifischen Seitenzahl.
+
+Es obliegt Ihrer Art des wissenschaftlichen Schreibens, welche
+Form/Formen Sie wählen, die Lesbarkeit des Textes und die
+Überprüfbarkeit der Aussagen sollte ein gemeinsames Ziel sein.
+
+
+Literaturangaben
+
+Das Einhalten der bibliographischen Darstellung wie in den „Mitteilungen
+des RVW“ gepflegt ist nicht zwingend notwendig. ZWINGEND IST ALLERDINGS
+DIE VOLLSTÄNDIGKEIT DER ANGABEN, GERADE FÜR INTERNETQUELLEN; ABBILDUNGEN
+(BILDLEGENDE INKL. QUELLE, URHEBER!); WERBEANZEIGEN.
+
+Beispiel Internetquelle:
+Autor (Enstehungsdatum soweit recherchierbar). _Titel_. URL.
+Zugriffsdatum.
+
+  Kuball, Marianne & Reden-Lütcken, Katharina von (2009). _Schönes Haar
+  in jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful
+  Age-Linie_. URL:
+  http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/
+  – Zugriff: 1.5.2013.
+
+Beispiel Werbeanzeige:
+Firma (Enstehungsdatum). _Titel_. Quelle. (bei Internetquellen
+zusätzlich URL und Zugriffsdatum)
+
+  Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD:
+  Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+
+
+Verwendung von Bildern
+
+Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings
+auch, dass wir bei Bildern dem Prinzip des „Floatings“ folgen müssen:
+REFERENZIEREN SIE IM TEXT AUF ABBILDUNGEN UND DEREN ABBILDUNGSNUMMER, DA
+DIE ABBILDUNG SELBST GGFS. NICHT AM ORT DES REFERENZIERENS GESETZT
+WERDEN KANN.
+
+
+Einreichung
+
+Einreichung als Textdatei (Formate: Word {*.doc,*.docx} oder Libre
+Office {*.odt}), wobei die referenzierten Bilder als EIGENSTÄNDIGE
+DATEIEN Dateien mitversandt werden.
