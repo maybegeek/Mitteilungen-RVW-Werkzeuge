@@ -16,11 +16,11 @@ In der Datei `Werbeforschung-org-Publikationen.bib` sind die Publikationen der W
 
 ### Beispiele
 
-Als Beispiele dienen die Dateien im `Beispiele`-Ordner, welche `pandoc` aus den Quelldateien `Mitteilungen-RVW-Bibliografie.md` und `Werbeforschung-org-Publikationen.md` unter Zuhilfenahme der bibliografischen Daten aus `Mitteilungen-RVW-Bibliografie.bib` sowie `Werbeforschung-org-Publikationen.bib` in Verbindung mit dem Zitationsstil `Mitteilungen-RVW.csl` erstellt.
+Als Beispiele dienen die Dateien `Mitteilungen-RVW-Bibliografie.pdf` und `Werbeforschung-org-Publikationen.pdf` (sowie im „Projekt Gutenberg Plain Text Format“-formatiert `Mitteilungen-RVW-Bibliografie.txt` und `Werbeforschung-org-Publikationen.txt`), welche `pandoc` aus den Quelldateien `Mitteilungen-RVW-Bibliografie.md` und `Werbeforschung-org-Publikationen.md` unter Zuhilfenahme der bibliografischen Daten aus `Mitteilungen-RVW-Bibliografie.bib` sowie `Werbeforschung-org-Publikationen.bib` in Verbindung mit dem Zitationsstil `Mitteilungen-RVW.csl` erstellt.
 
 Hier beispielsweise die Dateien:
-* [Mitteilungen-RVW-Bibliografie.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Beispiele/Mitteilungen-RVW-Bibliografie.pdf)
-* [Werbeforschung-org-Publikationen.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Beispiele/Werbeforschung-org-Publikationen.pdf)
+* [Mitteilungen-RVW-Bibliografie.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Mitteilungen-RVW-Bibliografie.pdf)
+* [Werbeforschung-org-Publikationen.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Werbeforschung-org-Publikationen.pdf)
 
 
 ## Zitationsstil der Mitteilungen des RVW
