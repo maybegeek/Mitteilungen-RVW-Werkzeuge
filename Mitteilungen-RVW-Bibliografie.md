@@ -11,7 +11,7 @@ classoption:
 nocite: |
   @*
 lang: de-DE
-bibliography: ../Mitteilungen-RVW-Bibliografie.bib
+bibliography: Mitteilungen-RVW-Bibliografie.bib
 ---
 
 # Mitteilungen des Regensburger Verbunds für Werbeforschung - RVW

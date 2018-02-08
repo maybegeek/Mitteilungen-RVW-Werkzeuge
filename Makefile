@@ -1,5 +1,5 @@
-SRC   := $(wildcard *.md)
-CSL   := ../Mitteilungen-RVW.csl
+SRC   := Gestaltungsrichtlinien-Mitteilungen-RVW.md Mitteilungen-RVW-Bibliografie.md Werbeforschung-org-Publikationen.md
+CSL   := Mitteilungen-RVW.csl
 
 PDFS=$(SRC:.md=.pdf)
 TEXT=$(SRC:.md=.txt)
@@ -24,7 +24,7 @@ txt: cleantxt $(TEXT)
 	-o $@ $<
 
 cleantxt:
-	rm -f *.txt
+	rm -f $(TXT)
 
 cleanpdf:
-	rm -f *.pdf
+	rm -f $(PDFS)
