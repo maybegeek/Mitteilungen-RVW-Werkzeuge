@@ -10,15 +10,18 @@ Hierzu benutzt werden pandoc, die *.bib-Datei und ein Zitationsstil
 der eigenen Wahl verwendet werden, BibTeX-Import vorausgesetzt.
 
 -   _Schwerpunkt: ALTERnativ werben_ (das ganze Heft betreffend, siehe
-    Dotzler & Reimann 2013c:4).
+    Dotzler & Reimann 2013c).
 -   _Schwerpunkt: Werbung und Medizin_ (das ganze Heft betreffend, siehe
-    Dotzler & Reimann 2014b:5).
+    Dotzler & Reimann 2014b).
 -   _Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der
     Sicherheit?_ (das ganze Heft betreffend, siehe Dotzler & Reimann
-    2015b:5).
+    2015b).
 -   _Jubiläumsausgabe 10 Jahre RVW … und andere Beiträge über Werbung
     und Werbung nach der Werbung_ (das ganze Heft betreffend, siehe
-    Dotzler & Reimann 2016:5–6).
+    Dotzler & Reimann 2016).
+-   _Schwerpunkt: Aufgetischt! Persuasion und Information bei der
+    Vermarktung von Nahrungs- und Genussmitteln_ (das ganze Heft
+    betreffend, siehe Gerstl, Greule, Reimann & Sauer 2017).
 
 
 
@@ -58,7 +61,7 @@ sprachwissenschaftlicher Sicht. In: Gerstl, Doris; Greule, Albrecht;
 Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion
 und Information bei der Vermarktung von Nahrungs- und Genussmitteln_.
-URN: urn:nnn, Heft 5, S. 34–47.
+URN: urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 34–47.
 
 Depkat, Volker (2016). Grußwort. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
@@ -123,7 +126,8 @@ Kundenpartizipation im Werbediskurs. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 16–33.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 16–33.
 
 Fritzsche, Jörg (2013). Alter in der Werbung – aus juristischer Sicht.
 In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
@@ -190,13 +194,15 @@ Greule, Albrecht & Reimann, Sandra (2017). Editorial. In: Gerstl, Doris;
 Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 6–7.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 6–7.
 
 Greule, Markus (2017). Lebensmittel – was steht drauf und was ist drin.
 In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Schwerpunkt: Aufgetischt! Persuasion und Information bei der Vermarktung
-von Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 142–148.
+von Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 142–148.
 
 Heinemann, Sabine (2016a). „Carosello“ – Werbung „all’italiana“. In:
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
@@ -218,7 +224,7 @@ Deutschland und Frankreich. In: Gerstl, Doris; Greule, Albrecht;
 Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion
 und Information bei der Vermarktung von Nahrungs- und Genussmitteln_.
-URN: urn:nnn, Heft 5, S. 104–122.
+URN: urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 104–122.
 
 Heise, Sebastian (2016). VdK-Interview mit Sandra Reimann anlässlich des
 Jubiläums „60 Jahre Fernsehwerbung“ (in: Notizen). In: Dotzler, Bernhard
@@ -240,14 +246,16 @@ Werbestrategien im „global lifestyle“. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 123–137.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 123–137.
 
 Kaunzner, Ulrike A. (2017). „Made in Italy“ in der internationalen
 Werbung für Nahrungs- und Genussmittel. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 89–103.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 89–103.
 
 Königer, Christian (2014). Arzneimittelwerbung aus ärztlicher Sicht. In:
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
@@ -259,13 +267,14 @@ regionale Identität. In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
 Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nnn, Heft 5, S. 55–63.
+urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 55–63.
 
 Kuschel, Susanne (2017). Bier ohne Promille. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 64–70.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 64–70.
 
 Nierwetberg, Stephan (2015). Risiko? Sicherheit! Emotionale Mechaniken
 in der Radiowerbung. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
@@ -278,14 +287,15 @@ Appreciation in Zeiten mobiler Rezeption. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 8–15.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 8–15.
 
 Philipsborn, Henning von (2017). Radiometrische Überwachungspraxis von
 Trink- und Mineralwasser. In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
 Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nnn, Heft 5, S. 149–153.
+urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 149–153.
 
 Piñel, Rosa (2013). Werbung für Kinder und Jugendliche. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
@@ -358,8 +368,8 @@ Schreckhaas, Markus (2017). Beiträge zur Trendforschung 1. Lust auf eine
 #avolatte? In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer,
 Jan (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW. Schwerpunkt: Aufgetischt! Persuasion und Information bei der
-Vermarktung von Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5,
-S. 48–51.
+Vermarktung von Nahrungs- und Genussmitteln_. URN:
+urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 48–51.
 
 Schüller-Zwierlein, André (2016). Grußwort. In: Dotzler, Bernhard J. &
 Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
@@ -372,8 +382,8 @@ Schweiger, Günter (2017). Marta Potužníková (2015). Audi-Werbung
 Rezension. In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer,
 Jan (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW. Schwerpunkt: Aufgetischt! Persuasion und Information bei der
-Vermarktung von Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5,
-S. 52.
+Vermarktung von Nahrungs- und Genussmitteln_. URN:
+urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 52.
 
 Steyer, Kathrin & Polajnar, Janja (2016). Werbeslogans. Neues Modul im
 elektronischen OWID-Sprichwörterbuch. In: Dotzler, Bernhard J. &
@@ -393,7 +403,8 @@ Beispiel „Tschechisch als Fremdsprache“. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 71–88.
+Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 71–88.
 
 Verdiani, Silvia (2016). Online- und Wahl-Werbespot-Archive in Italien.
 In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
@@ -418,7 +429,8 @@ Videokampagnen mit Bezug zu Ernährung und Nahrungsmitteln als Beispiel.
 In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Schwerpunkt: Aufgetischt! Persuasion und Information bei der Vermarktung
-von Nahrungs- und Genussmitteln_. URN: urn:nnn, Heft 5, S. 154–163.
+von Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
+Heft 5, S. 154–163.
 
 Zimmer, Alf C. (2017). Welchen Wert hat die Nährwertampel für die
 Konsum-Entscheidung: Welches Nahrungsmittel ist wie gut oder schlecht
@@ -426,7 +438,7 @@ für meine Gesundheit? In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
 Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nnn, Heft 5, S. 138–141.
+urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 138–141.
 
 Zurstiege, Guido (2016). Bye-bye Baron Rocher. Werbeforschung in Zeiten
 der Werbung nach der Werbung. In: Dotzler, Bernhard J. & Reimann, Sandra
