@@ -21,7 +21,7 @@
     <category field="generic-base" />
     <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
     <issn>2198-0500</issn>
-    <updated>2018-09-19T12:50:47+01:00</updated>
+    <updated>2018-09-19T11:50:00+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attributio-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
   </info>
 
@@ -347,6 +347,7 @@
             <number variable="number-of-volumes" form="numeric"/>
             <text term="volume" form="short" prefix=" " plural="true"/>
           </group>
+          <text variable="page" prefix=" S.&#8201;"/>
         </group>
       </else-if>
     </choose>
