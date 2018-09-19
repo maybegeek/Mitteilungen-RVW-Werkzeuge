@@ -330,7 +330,7 @@
             <text variable="issue" prefix="(" suffix=")"/>
           </else>
         </choose>
-        <text variable="page" prefix=", S.&#8201;"/>
+        <text variable="page" prefix=". S.&#8201;"/>
       </if>
       <else-if type="legal_case">
         <text variable="volume" prefix=", "/>
