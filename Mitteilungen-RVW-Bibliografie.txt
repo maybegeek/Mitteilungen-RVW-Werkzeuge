@@ -10,12 +10,12 @@ Hierzu benutzt werden pandoc, die *.bib-Datei und ein Zitationsstil
 der eigenen Wahl verwendet werden, BibTeX-Import vorausgesetzt.
 
 -   _Schwerpunkt: ALTERnativ werben_ (das ganze Heft betreffend, siehe
-    Dotzler & Reimann 2013c).
+    Dotzler & Reimann 2013a).
 -   _Schwerpunkt: Werbung und Medizin_ (das ganze Heft betreffend, siehe
-    Dotzler & Reimann 2014b).
+    Dotzler & Reimann 2014a).
 -   _Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der
     Sicherheit?_ (das ganze Heft betreffend, siehe Dotzler & Reimann
-    2015b).
+    2015a).
 -   _Jubiläumsausgabe 10 Jahre RVW … und andere Beiträge über Werbung
     und Werbung nach der Werbung_ (das ganze Heft betreffend, siehe
     Dotzler & Reimann 2016).
@@ -32,88 +32,80 @@ Baderschneider, Nina (2014). Werbung in Gebrauchsanweisungen!?
 Sprachwissenschaftliche Werbeforschung und die Textsorte
 Gebrauchsanweisung. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Werbung und Medizin_. URN: urn:nbn:de:bvb:355-epub-315084,
-Heft 2, S. 6–18.
+Schwerpunkt: Werbung und Medizin_, Heft 2. S. 6–18.
 
 Bendel Larcher, Sylvia (2015). Werbetexte bewerten: Sprachkritik für die
 Praxis. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen
 des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Risiko!
-Wie sicher ist die Werbung mit der Sicherheit?_ URN:
-urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 6–24.
+Wie sicher ist die Werbung mit der Sicherheit?_, Heft 3. S. 6–24.
 
 Breyer, Johannes & Burger, Maximilian (2014). Der Patient im Netz –
 Chance oder Risiko? In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Werbung und Medizin_. URN: urn:nbn:de:bvb:355-epub-315084,
-Heft 2, S. 33–35.
+Schwerpunkt: Werbung und Medizin_, Heft 2. S. 33–35.
 
 Crijns, Rogier (2014). Ausformungen der Kürze in der
 Arzneimittelwerbung. Ratschläge in Anzeigen rezeptfreier Arzneimittel
 zweier Apothekerzeitschriften (Deutschland/Niederlande) – ein
 kontrastiver Vergleich. In: Dotzler, Bernhard J. & Reimann, Sandra
 (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Werbung und Medizin_. URN: urn:nbn:de:bvb:355-epub-315084,
-Heft 2, S. 55–69.
+Schwerpunkt: Werbung und Medizin_, Heft 2. S. 55–69.
 
 Datinská, Blanka (2017). Wer is(s)t vegan, kauft vegan? Wer spricht
 vegan, verkauft vegan? Thematisierung des Veganismus in der Werbung aus
 sprachwissenschaftlicher Sicht. In: Gerstl, Doris; Greule, Albrecht;
 Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion
-und Information bei der Vermarktung von Nahrungs- und Genussmitteln_.
-URN: urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 34–47.
+und Information bei der Vermarktung von Nahrungs- und Genussmitteln_,
+Heft 5. S. 34–47.
 
 Depkat, Volker (2016). Grußwort. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
-Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 52–53.
+Werbung und Werbung nach der Werbung_, Heft 4. S. 52–53.
 
 Dotzler, Bernhard J. (2013). Der Werbung Wunderhorn oder Das Medium ist
 die Werbebotschaft – was sonst? In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
-– RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 5–12.
+– RVW. Schwerpunkt: ALTERnativ werben_, Heft 1. S. 5–12.
 
 Dotzler, Bernhard J. (2015). Traumwäscherei. Über die Bewirtschaftung
 der Sorge durch die Werbung. In: Dotzler, Bernhard J. & Reimann, Sandra
 (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_
-URN: urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 38–47.
+Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_,
+Heft 3. S. 38–47.
 
-Dotzler, Bernhard J. & Reimann, Sandra (2013a). Editorial. In: Dotzler,
-Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 4.
-
-Dotzler, Bernhard J. & Reimann, Sandra (2013b). Schwerpunkt: ALTERnativ
-werben. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen
-des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
-ALTERnativ werben_. URN: urn:nbn:de:bvb:355-epub-291999, Heft 1,
-S. 16–17.
-
-Dotzler, Bernhard J. & Reimann, Sandra (2014a). Editorial. In: Dotzler,
-Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_.
-URN: urn:nbn:de:bvb:355-epub-315084, Heft 2, S. 5.
-
-Dotzler, Bernhard J. & Reimann, Sandra (2015a). Editorial. In: Dotzler,
-Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist
-die Werbung mit der Sicherheit?_ URN: urn:nbn:de:bvb:355-epub-335024,
-Heft 3, S. 5.
-
-Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2013c). Schwerpunkt:
+Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2013a). Schwerpunkt:
 ALTERnativ werben. In: _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW_, Heft 1.
 
-Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2014b). Schwerpunkt:
+Dotzler, Bernhard J. & Reimann, Sandra (2013b). Editorial. In: Dotzler,
+Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
+Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_,
+Heft 1. S. 4.
+
+Dotzler, Bernhard J. & Reimann, Sandra (2013c). Schwerpunkt: ALTERnativ
+werben. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen
+des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
+ALTERnativ werben_, Heft 1. S. 16–17.
+
+Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2014a). Schwerpunkt:
 Werbung und Medizin. In: _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW_, Heft 2.
 
-Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2015b). Schwerpunkt:
+Dotzler, Bernhard J. & Reimann, Sandra (2014b). Editorial. In: Dotzler,
+Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
+Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_,
+Heft 2. S. 5.
+
+Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2015a). Schwerpunkt:
 Risiko! Wie sicher ist die Werbung mit der Sicherheit? In: _Mitteilungen
 des Regensburger Verbunds für Werbeforschung – RVW_, Heft 3.
+
+Dotzler, Bernhard J. & Reimann, Sandra (2015b). Editorial. In: Dotzler,
+Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
+Verbunds für Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist
+die Werbung mit der Sicherheit?_, Heft 3. S. 5.
 
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.) (2016). Jubiläumsausgabe 10
 Jahre RVW ... und andere Beiträge über Werbung und Werbung nach der
@@ -126,56 +118,51 @@ Kundenpartizipation im Werbediskurs. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 16–33.
+Nahrungs- und Genussmitteln_, Heft 5. S. 16–33.
 
 Fritzsche, Jörg (2013). Alter in der Werbung – aus juristischer Sicht.
 In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ
-werben_. URN: urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 36–49.
+werben_, Heft 1. S. 36–49.
 
 Fritzsche, Jörg (2014). Rechtliche Grenzen der Werbung für Heilmittel
 und Medizinprodukte. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Werbung und Medizin_. URN: urn:nbn:de:bvb:355-epub-315084,
-Heft 2, S. 25–32.
+Schwerpunkt: Werbung und Medizin_, Heft 2. S. 25–32.
 
 Fritzsche, Jörg (2015). Garantiert! Rechtliche Grenzen für Werbung mit
 Sicherheitsaspekten. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_
-URN: urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 84–90.
+Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_,
+Heft 3. S. 84–90.
 
 Gerber, Gabriele (2013a). Das Regensburger Archiv für Werbeforschung –
 eine Fundgrube für Forschung und Lehre. In: Dotzler, Bernhard J. &
 Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
-Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 13–15.
+Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_, Heft 1. S. 13–15.
 
 Gerber, Gabriele (2013b). Rückblicke (in: Notizen). In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 71.
+Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_,
+Heft 1. S. 71.
 
 Gerber, Gabriele & Grundl, Ursula (2016). Radiobeitrag zum RAW auf
 Bayern 2 (in: Notizen). In: Dotzler, Bernhard J. & Reimann, Sandra
 (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über Werbung und
-Werbung nach der Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4,
-S. 75–76.
+Werbung nach der Werbung_, Heft 4. S. 75–76.
 
 Gerstl, Doris (2014). Zur Anthropomorphisierung von Tieren in der
 Heilmittelwerbung. Von Bulldoggen, Pinguinen und Uhus. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_.
-URN: urn:nbn:de:bvb:355-epub-315084, Heft 2, S. 42–54.
+Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_,
+Heft 2. S. 42–54.
 
 Gerstl, Doris (2015). Sicherheit in der politischen Werbung. Zur
 Kontingenz von Slogans in der Wahlwerbung im Jahr 1965. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist
-die Werbung mit der Sicherheit?_ URN: urn:nbn:de:bvb:355-epub-335024,
-Heft 3, S. 48–56.
+die Werbung mit der Sicherheit?_, Heft 3. S. 48–56.
 
 Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.)
 (2017). Schwerpunkt: Aufgetischt! Persuasion und Information bei der
@@ -187,58 +174,52 @@ Arzt oder Apotheker! Vermischung von Werbung und Sachinformation aus dem
 Blickwinkel der Sprachwissenschaft. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
-Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 7–15.
+Werbung und Werbung nach der Werbung_, Heft 4. S. 7–15.
 
 Greule, Albrecht & Reimann, Sandra (2017). Editorial. In: Gerstl, Doris;
 Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 6–7.
+Nahrungs- und Genussmitteln_, Heft 5. S. 6–7.
 
 Greule, Markus (2017). Lebensmittel – was steht drauf und was ist drin.
 In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Schwerpunkt: Aufgetischt! Persuasion und Information bei der Vermarktung
-von Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 142–148.
+von Nahrungs- und Genussmitteln_, Heft 5. S. 142–148.
 
 Heinemann, Sabine (2016a). „Carosello“ – Werbung „all’italiana“. In:
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Jubiläumsausgabe 10
 Jahre RVW ... und andere Beiträge über Werbung und Werbung nach der
-Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 29–37.
+Werbung_, Heft 4. S. 29–37.
 
 Heinemann, Sabine (2016b). Tagung: „Wahlkampf ist Wortkampf:
 Präsidentschaftswahlkampagnen aus sprachwissenschaftlicher Sicht“ (in:
 Notizen). In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über Werbung und
-Werbung nach der Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4,
-S. 74.
+Werbung nach der Werbung_, Heft 4. S. 74.
 
 Heinemann, Sabine (2017). Von italienischer Pasta und anderen Nudeln.
 Anmerkungen zur Produktkategorie und Bezeichnungsvariation in Italien,
 Deutschland und Frankreich. In: Gerstl, Doris; Greule, Albrecht;
 Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion
-und Information bei der Vermarktung von Nahrungs- und Genussmitteln_.
-URN: urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 104–122.
+und Information bei der Vermarktung von Nahrungs- und Genussmitteln_,
+Heft 5. S. 104–122.
 
 Heise, Sebastian (2016). VdK-Interview mit Sandra Reimann anlässlich des
 Jubiläums „60 Jahre Fernsehwerbung“ (in: Notizen). In: Dotzler, Bernhard
 J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
-Beiträge über Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 75.
+Beiträge über Werbung und Werbung nach der Werbung_, Heft 4. S. 75.
 
 Hirschfelder, Gunther & Schreckhaas, Markus (2016). „Einfach ist mehr“.
 Anmerkungen zur ALDI-Kampagne 2016. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
-Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 40–48.
+Werbung und Werbung nach der Werbung_, Heft 4. S. 40–48.
 
 Hirschfelder, Gunther & Schreckhaas, Markus (2017). Red Bull erobert die
 Welt. Kulturwissenschaftliche Perspektiven auf postmoderne
@@ -246,203 +227,186 @@ Werbestrategien im „global lifestyle“. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 123–137.
+Nahrungs- und Genussmitteln_, Heft 5. S. 123–137.
 
 Kaunzner, Ulrike A. (2017). „Made in Italy“ in der internationalen
 Werbung für Nahrungs- und Genussmittel. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 89–103.
+Nahrungs- und Genussmitteln_, Heft 5. S. 89–103.
 
 Königer, Christian (2014). Arzneimittelwerbung aus ärztlicher Sicht. In:
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und
-Medizin_. URN: urn:nbn:de:bvb:355-epub-315084, Heft 2, S. 85–88.
+Medizin_, Heft 2. S. 85–88.
 
 Kuhn, Andreas-Michael (2017). Das Bier und seine Bayern. Werbung und
 regionale Identität. In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
-Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 55–63.
+Information bei der Vermarktung von Nahrungs- und Genussmitteln_,
+Heft 5. S. 55–63.
 
 Kuschel, Susanne (2017). Bier ohne Promille. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 64–70.
+Nahrungs- und Genussmitteln_, Heft 5. S. 64–70.
 
 Nierwetberg, Stephan (2015). Risiko? Sicherheit! Emotionale Mechaniken
 in der Radiowerbung. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_
-URN: urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 69–73.
+Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_,
+Heft 3. S. 69–73.
 
 Ottmann, Solveig (2017). Freie Fahrt für den Werbekonsum. Ad
 Appreciation in Zeiten mobiler Rezeption. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 8–15.
+Nahrungs- und Genussmitteln_, Heft 5. S. 8–15.
 
 Philipsborn, Henning von (2017). Radiometrische Überwachungspraxis von
 Trink- und Mineralwasser. In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
-Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 149–153.
+Information bei der Vermarktung von Nahrungs- und Genussmitteln_,
+Heft 5. S. 149–153.
 
 Piñel, Rosa (2013). Werbung für Kinder und Jugendliche. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 60–70.
+Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_,
+Heft 1. S. 60–70.
 
 Reimann, Sandra (2013). „Mein Alter definiere ich selbst“.
 Altersspezifische Sprache in der Werbung. In: Dotzler, Bernhard J. &
 Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
-Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_. URN:
-urn:nbn:de:bvb:355-epub-291999, Heft 1, S. 25–35.
+Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben_, Heft 1. S. 25–35.
 
 Reimann, Sandra (2016a). Editorial. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
-Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 5–6.
+Werbung und Werbung nach der Werbung_, Heft 4. S. 5–6.
 
 Reimann, Sandra (2016b). Grußwort. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
-Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 54–55.
+Werbung und Werbung nach der Werbung_, Heft 4. S. 54–55.
 
 Reimann, Sandra; Bauer, Katharina & Fleißig, Marlene (2014). „Das Plus
 für die Compliance“. Sprachwissenschaftliche Untersuchungen zu Werbung
 und Medizin. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Werbung und Medizin_. URN: urn:nbn:de:bvb:355-epub-315084,
-Heft 2, S. 70–84.
+Schwerpunkt: Werbung und Medizin_, Heft 2. S. 70–84.
 
 RVW (2016). Geschichte des RVW – Dokumentation einer Ausstellung. 12.
 Juli – 12. September 2016 im Foyer der UB Regensburg. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und
-andere Beiträge über Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 66–73.
+andere Beiträge über Werbung und Werbung nach der Werbung_, Heft 4.
+S. 66–73.
 
 Sauer, Jan (2014). Macht Medikamentenwerbung krank? In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_.
-URN: urn:nbn:de:bvb:355-epub-315084, Heft 2, S. 36–41.
+Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_,
+Heft 2. S. 36–41.
 
-Sauerland, Martin (2013). In: Dotzler, Bernhard J. & Reimann, Sandra
-(Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: ALTERnativ werben_. URN: urn:nbn:de:bvb:355-epub-291999,
-Heft 1, S. 18–24.
+Sauerland, Martin (2013). Alter & Werbung aus psychologischer Sicht. In:
+Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
+Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: ALTERnativ
+werben_, Heft 1. S. 18–24.
 
 Sauerland, Martin (2015). Banner Blindness. Ein psychologischer
 Erklärungsversuch und seine Folgen. In: Dotzler, Bernhard J. & Reimann,
 Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung
 – RVW. Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der
-Sicherheit?_ URN: urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 25–36.
+Sicherheit?_, Heft 3. S. 25–36.
 
 Sauerland, Martin (2016). Psychologische Betrachtungen zur Werbewirkung.
 In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Jubiläumsausgabe 10
 Jahre RVW ... und andere Beiträge über Werbung und Werbung nach der
-Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 16–22.
+Werbung_, Heft 4. S. 16–22.
 
 Sauerland, Martin; Krajewski, Jarek & Gaukel, Sonja (2015). Risiko
 Risikokommunikation. Verzerrte Risikobewertung und übersteigertes
 Sicherheitsverhalten im Kontext von Furchtappellen in der Werbung. In:
 Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Risiko! Wie
-sicher ist die Werbung mit der Sicherheit?_ URN:
-urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 74–83.
+sicher ist die Werbung mit der Sicherheit?_, Heft 3. S. 74–83.
 
 Schreckhaas, Markus (2017). Beiträge zur Trendforschung 1. Lust auf eine
 #avolatte? In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer,
 Jan (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW. Schwerpunkt: Aufgetischt! Persuasion und Information bei der
-Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 48–51.
+Vermarktung von Nahrungs- und Genussmitteln_, Heft 5. S. 48–51.
 
 Schüller-Zwierlein, André (2016). Grußwort. In: Dotzler, Bernhard J. &
 Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
-Beiträge über Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 51.
+Beiträge über Werbung und Werbung nach der Werbung_, Heft 4. S. 51.
 
 Schweiger, Günter (2017). Marta Potužníková (2015). Audi-Werbung
 1909–1965. Eine medienwissenschaftiche Analyse. Frankfurt/M.: Lang.
 Rezension. In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer,
 Jan (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW. Schwerpunkt: Aufgetischt! Persuasion und Information bei der
-Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 52.
+Vermarktung von Nahrungs- und Genussmitteln_, Heft 5. S. 52.
 
 Steyer, Kathrin & Polajnar, Janja (2016). Werbeslogans. Neues Modul im
 elektronischen OWID-Sprichwörterbuch. In: Dotzler, Bernhard J. &
 Reimann, Sandra (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
-Beiträge über Werbung und Werbung nach der Werbung_. URN:
-urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 38–39.
+Beiträge über Werbung und Werbung nach der Werbung_, Heft 4. S. 38–39.
 
 Šichová, Kateřina (2014). Zhanar Sulikan (2012). Slogans in der
 deutschen Printwerbung. Frankfurt/M.: Lang. Rezension. In: Dotzler,
 Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_.
-URN: urn:nbn:de:bvb:355-epub-315084, Heft 2, S. 19–23.
+Verbunds für Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin_,
+Heft 2. S. 19–23.
 
 Šichová, Kateřina (2017). Bierwerbung und Fremdsprachenunterricht. Am
 Beispiel „Tschechisch als Fremdsprache“. In: Gerstl, Doris; Greule,
 Albrecht; Reimann, Sandra & Sauer, Jan (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt:
 Aufgetischt! Persuasion und Information bei der Vermarktung von
-Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 71–88.
+Nahrungs- und Genussmitteln_, Heft 5. S. 71–88.
 
 Verdiani, Silvia (2016). Online- und Wahl-Werbespot-Archive in Italien.
 In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.). _Mitteilungen des
 Regensburger Verbunds für Werbeforschung – RVW. Jubiläumsausgabe 10
 Jahre RVW ... und andere Beiträge über Werbung und Werbung nach der
-Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4, S. 23–28.
+Werbung_, Heft 4. S. 23–28.
 
 Wild, Christoph (2013). Zielgruppenfokussierung in der werblichen
 Kommunikation. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: ALTERnativ werben_. URN: urn:nbn:de:bvb:355-epub-291999,
-Heft 1, S. 50–59.
+Schwerpunkt: ALTERnativ werben_, Heft 1. S. 50–59.
 
 Wolff, Christian (2015). Der Käfer auf der Wolke. Sicherheit in der
 IT-Werbung. In: Dotzler, Bernhard J. & Reimann, Sandra (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
-Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_
-URN: urn:nbn:de:bvb:355-epub-335024, Heft 3, S. 57–68.
+Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_,
+Heft 3. S. 57–68.
 
 Wolff, Christian (2017). Virales Marketing in den sozialen Medien.
 Videokampagnen mit Bezug zu Ernährung und Nahrungsmitteln als Beispiel.
 In: Gerstl, Doris; Greule, Albrecht; Reimann, Sandra & Sauer, Jan (Hg.).
 _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Schwerpunkt: Aufgetischt! Persuasion und Information bei der Vermarktung
-von Nahrungs- und Genussmitteln_. URN: urn:nbn:de:bvb:355-epub-367631,
-Heft 5, S. 154–163.
+von Nahrungs- und Genussmitteln_, Heft 5. S. 154–163.
 
 Zimmer, Alf C. (2017). Welchen Wert hat die Nährwertampel für die
 Konsum-Entscheidung: Welches Nahrungsmittel ist wie gut oder schlecht
 für meine Gesundheit? In: Gerstl, Doris; Greule, Albrecht; Reimann,
 Sandra & Sauer, Jan (Hg.). _Mitteilungen des Regensburger Verbunds für
 Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
-Information bei der Vermarktung von Nahrungs- und Genussmitteln_. URN:
-urn:nbn:de:bvb:355-epub-367631, Heft 5, S. 138–141.
+Information bei der Vermarktung von Nahrungs- und Genussmitteln_,
+Heft 5. S. 138–141.
 
 Zurstiege, Guido (2016). Bye-bye Baron Rocher. Werbeforschung in Zeiten
 der Werbung nach der Werbung. In: Dotzler, Bernhard J. & Reimann, Sandra
 (Hg.). _Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW.
 Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über Werbung und
-Werbung nach der Werbung_. URN: urn:nbn:de:bvb:355-epub-349358, Heft 4,
-S. 56–65.
+Werbung nach der Werbung_, Heft 4. S. 56–65.
