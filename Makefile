@@ -24,7 +24,7 @@ txt: cleantxt $(TEXT)
 	-o $@ $<
 
 cleantxt:
-	rm -f $(TXT)
+	rm -f $(TEXT)
 
 cleanpdf:
 	rm -f $(PDFS)
