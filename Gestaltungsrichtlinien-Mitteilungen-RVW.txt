@@ -9,6 +9,7 @@ Ausgaben: https://epub.uni-regensburg.de/rvw.html
 -   Heft 2 / 2014 : Schwerpunkt: Werbung und Medizin
 -   Heft 3 / 2015 : Schwerpunkt: Risiko!
 -   Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW
+-   Heft 5 / 2017 : Schwerpunkt: Aufgetischt!
 
 
 Gestaltraster
@@ -81,7 +82,7 @@ Beispiel Werbeanzeige:
 Firma (Enstehungsdatum). _Titel_. Quelle. (bei Internetquellen
 zusätzlich URL und Zugriffsdatum)
 
-  Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD:
+  Doppelherz (2007). _„Sitznachbar“_ [Werbung]. ARD:
   Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 

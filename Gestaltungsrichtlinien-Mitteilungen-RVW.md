@@ -17,6 +17,7 @@ Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RV
 * [Heft 2 / 2014 : Schwerpunkt: Werbung und Medizin](https://epub.uni-regensburg.de/31508/)
 * [Heft 3 / 2015 : Schwerpunkt: Risiko!](https://epub.uni-regensburg.de/33502/)
 * [Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW](https://epub.uni-regensburg.de/34935/)
+* [Heft 5 / 2017 : Schwerpunkt: Aufgetischt!](https://epub.uni-regensburg.de/36763/)
 
 ## Gestaltraster
 
