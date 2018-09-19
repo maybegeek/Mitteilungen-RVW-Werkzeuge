@@ -1,4 +1,4 @@
-SRC   := Gestaltungsrichtlinien-Mitteilungen-RVW.md Mitteilungen-RVW-Bibliografie.md Werbeforschung-org-Publikationen.md
+SRC   := Gestaltungsrichtlinien-Mitteilungen-RVW.md Mitteilungen-RVW-Bibliografie.md RVW-Publikationen.md
 CSL   := Mitteilungen-RVW.csl
 
 PDFS=$(SRC:.md=.pdf)

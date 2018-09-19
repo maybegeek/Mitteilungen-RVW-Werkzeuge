@@ -23,15 +23,15 @@ In der Datei `Mitteilungen-RVW-Bibliografie.bib` sind die Einzelbeiträge der ei
 
 Auf die Verwendung des `BibTeX`/`BibLaTeX`-Feldes `crossref` wurde verzichtet, da der Import in anderen Literaturverwaltungsprogrammen (im Gegensatz zur bloßen Verwendung mit `BibTeX`/`BibLaTeX`) nicht zur gewünschten Verknüpfung führt.
 
-In der Datei `Werbeforschung-org-Publikationen.bib` sind die Publikationen der Website des Verbunds für Werbeforschung ([http://werbeforschung.org](http://werbeforschung.org)) verzeichnet.
+In der Datei `RVW-Publikationen.bib` sind die Publikationen der Website des Verbunds für Werbeforschung ([http://werbeforschung.org](http://werbeforschung.org)) verzeichnet.
 
 ### Beispiele
 
-Als Beispiele dienen die Dateien `Mitteilungen-RVW-Bibliografie.pdf` und `Werbeforschung-org-Publikationen.pdf` (sowie im „Projekt Gutenberg Plain Text Format“-formatiert `Mitteilungen-RVW-Bibliografie.txt` und `Werbeforschung-org-Publikationen.txt`), welche `pandoc` aus den Quelldateien `Mitteilungen-RVW-Bibliografie.md` und `Werbeforschung-org-Publikationen.md` unter Zuhilfenahme der bibliografischen Daten aus `Mitteilungen-RVW-Bibliografie.bib` sowie `Werbeforschung-org-Publikationen.bib` in Verbindung mit dem Zitationsstil `Mitteilungen-RVW.csl` erstellt.
+Als Beispiele dienen die Dateien `Mitteilungen-RVW-Bibliografie.pdf` und `RVW-Publikationen.pdf` (sowie im „Projekt Gutenberg Plain Text Format“-formatiert `Mitteilungen-RVW-Bibliografie.txt` und `RVW-Publikationen.txt`), welche `pandoc` aus den Quelldateien `Mitteilungen-RVW-Bibliografie.md` und `RVW-Publikationen.md` unter Zuhilfenahme der bibliografischen Daten aus `Mitteilungen-RVW-Bibliografie.bib` sowie `RVW-Publikationen.bib` in Verbindung mit dem Zitationsstil `Mitteilungen-RVW.csl` erstellt.
 
 Hier beispielsweise die Dateien:
 * [Mitteilungen-RVW-Bibliografie.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Mitteilungen-RVW-Bibliografie.pdf)
-* [Werbeforschung-org-Publikationen.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Werbeforschung-org-Publikationen.pdf)
+* [RVW-Publikationen.pdf](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/RVW-Publikationen.pdf)
 
 
 ## Zitationsstil der Mitteilungen des RVW

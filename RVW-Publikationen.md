@@ -11,7 +11,7 @@ classoption:
 nocite: |
   @*
 lang: de-DE
-bibliography: Werbeforschung-org-Publikationen.bib
+bibliography: RVW-Publikationen.bib
 ---
 
 # Publikationen von Werbeforschung.org
