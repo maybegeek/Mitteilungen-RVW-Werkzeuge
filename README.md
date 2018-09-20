@@ -6,12 +6,12 @@
 
 ## Ziel
 
-In diesem Repository werden Werkzeuge für die Mitteilungen des RVW gesammelt:
+In diesem *git-repository* werden Werkzeuge für die Mitteilungen des RVW gesammelt:
 
-* Für Autoren von Artikeln der Online-Zeitschrift wird der *Zitationsstil* (`Mitteilungen-RVW.csl`) bereitgestellt, welcher mit dem je eigenen Literaturverwaltungsprogramm verwendet werden kann.
+* Für Autoren von Artikeln der Online-Zeitschrift wird der *Zitationsstil* [`Mitteilungen-RVW.csl`](https://github.com/maybegeek/Mitteilungen-RVW-Werkzeuge/blob/master/Mitteilungen-RVW.csl) bereitgestellt, welcher mit dem je eigenen Literaturverwaltungsprogramm verwendet werden kann.
 * Die *Gestaltungsrichtlinien* für Autoren werden ebenfalls hier vorgehalten.
-* Zusätzlich sind die einzelnen Beiträge der Mitteilungs-Hefte ([Mitteilungen des Regensburger Verbunds für Werbeforschung](https://epub.uni-regensburg.de/rvw.html)),
-* wie auch die Publikationsliste der Website ([werbeforschung.org](http://www.werbeforschung.org)) als Bibliografie in Form strukturierter Daten (`BibTex`) im Angebot.
+* Zusätzlich sind die einzelnen Beiträge der Mitteilungs-Hefte ([Mitteilungen des Regensburger Verbunds für Werbeforschung](https://epub.uni-regensburg.de/rvw.html)) bibliografisch verzeichnet,
+* wie auch die Publikationsliste der Mitglieder des RVW  ([werbeforschung.org](http://www.werbeforschung.org)) als Bibliografie in Form strukturierter Daten (`BibTeX`) im Angebot.
 
 ## Mitteilungen-RVW-Bibliografie
 
@@ -23,7 +23,7 @@ In der Datei `Mitteilungen-RVW-Bibliografie.bib` sind die Einzelbeiträge der ei
 
 Auf die Verwendung des `BibTeX`/`BibLaTeX`-Feldes `crossref` wurde verzichtet, da der Import in anderen Literaturverwaltungsprogrammen (im Gegensatz zur bloßen Verwendung mit `BibTeX`/`BibLaTeX`) nicht zur gewünschten Verknüpfung führt.
 
-In der Datei `RVW-Publikationen.bib` sind die Publikationen der Website des Verbunds für Werbeforschung ([http://werbeforschung.org](http://werbeforschung.org)) verzeichnet.
+In der Datei `RVW-Publikationen.bib` sind die Publikationen der Mitglieder des RVW von der Website des Verbunds für Werbeforschung ([http://werbeforschung.org](http://werbeforschung.org)) verzeichnet.
 
 ### Beispiele
 
