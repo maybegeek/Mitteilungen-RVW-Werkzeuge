@@ -4,7 +4,8 @@ CSL   := Mitteilungen-RVW.csl
 PDFS=$(SRC:.md=.pdf)
 TEXT=$(SRC:.md=.txt)
 
-all: cleantxt $(TEXT) cleanpdf $(PDFS)
+all: $(TEXT) $(PDFS)
+bib: cleantxt $(TEXT) cleanpdf $(PDFS)
 pdf: cleanpdf $(PDFS)
 txt: cleantxt $(TEXT)
 
@@ -14,7 +15,7 @@ txt: cleantxt $(TEXT)
 	--filter pandoc-citeproc \
 	--include-in-header=layout/options.tex \
 	--csl=$(CSL) \
--o $@ $<
+	-o $@ $<
 
 %.txt:	%.md
 	pandoc \
