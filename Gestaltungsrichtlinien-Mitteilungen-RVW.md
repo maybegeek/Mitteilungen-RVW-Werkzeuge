@@ -1,6 +1,6 @@
 ---
 title: 'Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“'
-date: '19. September 2018'
+date: '20. September 2018'
 documentclass: scrartcl
 papersize: a4
 classoption:
@@ -71,4 +71,4 @@ Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, das
 
 ## Einreichung
 
-Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** mitversandt werden.
+Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre-Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** mitversandt werden.
