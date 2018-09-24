@@ -21,7 +21,7 @@
     <category field="generic-base" />
     <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
     <issn>2198-0500</issn>
-    <updated>2018-09-19T11:50:00+02:00</updated>
+    <updated>2018-09-24T16:30:00+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attributio-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
   </info>
 
@@ -97,12 +97,14 @@
 </macro>
 
 <macro name="zugriff">
-  <text value="Zugriff:" prefix="– " suffix=" "/>
-  <date variable="accessed">
-    <date-part name="day" form="numeric-leading-zeros" suffix="."/>
-    <date-part name="month" suffix="." form="numeric-leading-zeros"/>
-    <date-part name="year" form="long"/>
-  </date>
+  <if variable="accessed">
+    <text value="Zugriff:" prefix="– " suffix=" "/>
+    <date variable="accessed">
+      <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+      <date-part name="month" suffix="." form="numeric-leading-zeros"/>
+      <date-part name="year" form="long"/>
+    </date>
+  </if>
 </macro>
 
 <macro name="access">
@@ -120,7 +122,7 @@
     </if>
   </choose>
 </if>
-<else-if type="article-newspaper article-journal motion_picture" match="any">
+<else type="article-newspaper article-journal motion_picture" match="any">
   <choose>
   <if variable="DOI">
     <text value="DOI: "/>
@@ -142,7 +144,7 @@
       </group>
     </if>
   </choose>
-</else-if>
+</else>
 </choose>
 </macro>
 
