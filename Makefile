@@ -21,6 +21,7 @@ txt: cleantxt $(TEXT)
 	pandoc \
 	-w plain \
 	--filter pandoc-citeproc \
+	--template=layout/tmpl-plain.txt \
 	--csl=$(CSL) \
 	-o $@ $<
 
