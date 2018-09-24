@@ -1,6 +1,11 @@
+Publikationen der RVW-Mitglieder (werbeforschung.org)
+
+24. September 2018
+
+=== === ===
 
 
-*.bib, *.md, *.csl UND pandoc
+TECHNIMAGISCHES … *.bib, *.md, *.csl UND pandoc
 
 
 In der *.bib-Datei sind die Veröffentlichungen, welche auf der Website

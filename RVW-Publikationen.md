@@ -14,7 +14,7 @@ lang: de-DE
 bibliography: RVW-Publikationen.bib
 ---
 
-# `*.bib`, `*.md`, `*.csl` und `pandoc`
+# Technimagisches ... `*.bib`, `*.md`, `*.csl` und `pandoc`
 
 In der `*.bib`-Datei sind die Veröffentlichungen, welche auf der Website [http://werbeforschung.org](http://werbeforschung.org/publikationen/) verzeichnet sind, aufgeführt.
 
