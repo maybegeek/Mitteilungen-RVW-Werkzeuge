@@ -96,10 +96,28 @@
 </names>
 </macro>
 
-<macro name="zugriff">
+<macro name="access">
+  <group delimiter=". ">
+    <choose>
+      <if variable="DOI">
+        <group>
+          <text value="doi:" suffix=" " font-variant="small-caps"/>
+          <text variable="DOI" suffix="&#8201;"/>
+        </group>
+      </if>
+    </choose>
+    <choose>
+      <if variable="URL">
+        <group>
+          <text value="url:"  suffix=" " font-variant="small-caps"/>
+          <text variable="URL" suffix="&#8201;"/>
+        </group>
+      </if>
+    </choose>
+  </group>
   <choose>
     <if variable="accessed">
-      <text value="Zugriff:" prefix="– " suffix=" "/>
+      <text term="retrieved" prefix="– " suffix=": "/>
       <date variable="accessed">
         <date-part name="day" form="numeric-leading-zeros" suffix="."/>
         <date-part name="month" suffix="." form="numeric-leading-zeros"/>
@@ -107,47 +125,6 @@
       </date>
     </if>
   </choose>
-</macro>
-
-<macro name="access">
-<choose>
-<if type="webpage">
-  <choose>
-    <if variable="URL">
-      <text value="URL: "/>
-      <group delimiter=" ">
-        <text variable="URL"/>
-        <group>
-          <text macro="zugriff"/>
-        </group>
-      </group>
-    </if>
-  </choose>
-</if>
-<else type="article-newspaper article-journal motion_picture" match="any">
-  <choose>
-  <if variable="DOI">
-    <text value="DOI: "/>
-    <group delimiter=" ">
-      <text variable="DOI"/>
-    </group>
-  </if>
-  <else-if variable="URL">
-    <text value="URL: "/>
-    <group delimiter=" ">
-      <text variable="URL"/>
-    </group>
-  </else-if>
-  </choose>
-  <choose>
-    <if variable="DOI URL" match="any">
-      <group prefix=" ">
-        <text macro="zugriff"/>
-      </group>
-    </if>
-  </choose>
-</else>
-</choose>
 </macro>
 
 <macro name="series">
