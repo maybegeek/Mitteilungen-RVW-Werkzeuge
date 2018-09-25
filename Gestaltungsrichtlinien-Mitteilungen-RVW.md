@@ -1,6 +1,6 @@
 ---
 title: 'Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“'
-date: '20. September 2018'
+date: '25. September 2018'
 documentclass: scrartcl
 papersize: a4
 classoption:
@@ -54,7 +54,7 @@ Es obliegt Ihrer Art des wissenschaftlichen Schreibens, welche Form/Formen Sie w
 Das Einhalten der bibliographischen Darstellung wie in den „Mitteilungen des RVW“ gepflegt ist nicht zwingend notwendig. **Zwingend ist allerdings die Vollständigkeit der Angaben, gerade für Internetquellen; Abbildungen (Bildlegende inkl. Quelle, Urheber!); Werbeanzeigen.**
 
 Beispiel Internetquelle:  
-Autor (Enstehungsdatum soweit recherchierbar). *Titel*. URL. Zugriffsdatum.
+Autor (Entstehungsdatum soweit recherchierbar). *Titel*. URL – Zugriffsdatum.
 
 > Kuball, Marianne & Reden-Lütcken, Katharina von (2009). *Schönes Haar in jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful Age-Linie*. URL: [http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/](http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/) – Zugriff: 1.5.2013.
 

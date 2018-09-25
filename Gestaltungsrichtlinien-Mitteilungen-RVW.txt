@@ -1,3 +1,9 @@
+Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger
+Verbunds für Werbeforschung – RVW“
+
+25. September 2018
+
+=== === ===
 Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW“ sollten entlang folgender Regeln verfasst werden, um
 Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die
@@ -69,7 +75,7 @@ DIE VOLLSTÄNDIGKEIT DER ANGABEN, GERADE FÜR INTERNETQUELLEN; ABBILDUNGEN
 (BILDLEGENDE INKL. QUELLE, URHEBER!); WERBEANZEIGEN.
 
 Beispiel Internetquelle:
-Autor (Enstehungsdatum soweit recherchierbar). _Titel_. URL.
+Autor (Entstehungsdatum soweit recherchierbar). _Titel_. URL –
 Zugriffsdatum.
 
   Kuball, Marianne & Reden-Lütcken, Katharina von (2009). _Schönes Haar
