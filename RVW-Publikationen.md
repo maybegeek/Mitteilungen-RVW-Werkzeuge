@@ -1,6 +1,6 @@
 ---
 title: Publikationen der RVW-Mitglieder (werbeforschung.org)
-date: 24. September 2018
+date: 25. September 2018
 documentclass: scrartcl
 papersize: a4
 classoption:
