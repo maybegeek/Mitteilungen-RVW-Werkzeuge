@@ -97,14 +97,16 @@
 </macro>
 
 <macro name="zugriff">
-  <if variable="accessed">
-    <text value="Zugriff:" prefix="– " suffix=" "/>
-    <date variable="accessed">
-      <date-part name="day" form="numeric-leading-zeros" suffix="."/>
-      <date-part name="month" suffix="." form="numeric-leading-zeros"/>
-      <date-part name="year" form="long"/>
-    </date>
-  </if>
+  <choose>
+    <if variable="accessed">
+      <text value="Zugriff:" prefix="– " suffix=" "/>
+      <date variable="accessed">
+        <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+        <date-part name="month" suffix="." form="numeric-leading-zeros"/>
+        <date-part name="year" form="long"/>
+      </date>
+    </if>
+  </choose>
 </macro>
 
 <macro name="access">
