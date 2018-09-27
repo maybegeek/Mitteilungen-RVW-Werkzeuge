@@ -1,7 +1,11 @@
 @{group@
 @?groupkey@
-<h3 class="papercite">@groupkey@</h3>
+<div class="row">
+<div class="c4">
+  <h3 class="papercite">@groupkey@</h3>
+</div>
 @;groupkey@
+<div class="c9">
 <ul class="papercite_bibliography">
 @{entry@
 <li>
@@ -26,4 +30,6 @@
 </li>
 @}entry@
 </ul>
+</div>
+</div>
 @}group@

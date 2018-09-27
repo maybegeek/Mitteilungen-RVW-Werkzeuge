@@ -259,7 +259,9 @@ class BibtexConverter
   function _pre_process(&$data) {
       $id = 0;
     foreach ( $data as &$entry ) {
-      $entry['firstauthor'] = isset($entry['author']->authors) ? $entry['author']->authors[0]["surname"] : "";
+      // autor oder, wenn leer, dann editor
+      $entry['firstauthor'] = isset($entry['author']->creators[0]["surname"]) ? $entry['author']->creators[0]["surname"] : $entry['editor']->creators[0]["surname"];
+      $entry['rvwsort'] = isset($entry['author']->creators[0]["surname"]) ? $entry['author']->creators[0]["surname"] : $entry['editor']->creators[0]["surname"];
       $entry['entryid'] = $id++;
     }
   }

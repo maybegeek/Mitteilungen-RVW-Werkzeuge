@@ -101,7 +101,7 @@ class PaperciteBibtexEntryFormat {
      */
     if(!is_numeric($pages->start))
       {
-	return  $pages->start . '-' . $pages->end;
+	return  $pages->start . '–' . $pages->end;
       }
 
 
@@ -110,11 +110,11 @@ class PaperciteBibtexEntryFormat {
      */
     if(($pages->end <= $pages->start) || (strlen($pages->end) < strlen($pages->start)))
       {
-	return $pages->start . '-' . $pages->end;
+	return $pages->start . '–' . $pages->end;
       }
     else if($style['pageFormat'] == 2)
       {
-	return  $pages->start . '-' . $pages->end;
+	return  $pages->start . '–' . $pages->end;
       }
     else
       {
@@ -146,7 +146,7 @@ class PaperciteBibtexEntryFormat {
 		if($endSub == $startPop)
 		  {
 		    $this->item[$this->styleMap->{$type}['pages']] 
-		      = $pages->start . '-' . $endPage;
+		      = $pages->start . '–' . $endPage;
 		    return;
 		  }
 		if($endSub > $startPop)
@@ -155,13 +155,13 @@ class PaperciteBibtexEntryFormat {
 	  }
 	else
 	  {
-	    return $pages->start . '-' . $pages->end;
+	    return $pages->start . '–' . $pages->end;
 	  }
       }
     /**
      * We should never reach here - in case we do, give back complete range so that something at least is printed
      */
-    return $pages->start . '-' . $pages->end;
+    return $pages->start . '–' . $pages->end;
   }
 
   /**
