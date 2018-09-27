@@ -3,7 +3,7 @@
  * By Raphael Reitzig, 2010
  * code@verrech.net
  * http://lmazy.verrech.net
- * 
+ *
  * Modified by B. Piwowarski for inclusion in the papercite
  * WordPress plug-in:
  * - New template engine based on progressive parsing
@@ -102,7 +102,7 @@ class BibtexConverter
    * @access public
    * @param array options Options array. May contain the following pairs:
    *   only  => array(['author' => 'regexp'],['entrytype' => 'regexp'])
-   *   group => (none|year|firstauthor|entrytype)  
+   *   group => (none|year|firstauthor|entrytype)
    *   group-order => (asc|desc|none)
    *   sort => (none|year|firstauthor|entrytype)
    *   order => (asc|desc|none)
@@ -110,7 +110,7 @@ class BibtexConverter
    *   lang  => any string $s as long as proper lang/$s.php exists
    * @return void
    */
-  function BibtexConverter($options=array(), &$template, &$entry_template)
+  function __construct($options=array(), &$template, &$entry_template)
   {
     $this->_template = &$template;
     $this->_entry_template = &$entry_template;
@@ -132,9 +132,9 @@ class BibtexConverter
       'lang' => 'en',
 
       'key_format' => 'numeric',
-      
+
       'limit' => 0,
-      
+
       'highlight' => ''
     );
 
@@ -194,7 +194,7 @@ class BibtexConverter
 
   /**
    *
-   * Display a pre-selected set of entries (group, sort, and 
+   * Display a pre-selected set of entries (group, sort, and
    * translate)
    *
    * @access public
@@ -209,6 +209,7 @@ class BibtexConverter
     $data = $this->_sort($data);
     $this->_post_process($data);
 
+    $this->count = 0;
     $text = $this->_translate($data);
     return array("text" => &$text, "data" => &$data);
   }
@@ -277,7 +278,7 @@ class BibtexConverter
     foreach ( $data as &$group ) {
       foreach ( $group as &$entry) {
 	$count++;
-      
+
 	switch($this->_options["key_format"]) {
 	case "numeric":
 	  $entry["key"] = $count;
@@ -285,7 +286,7 @@ class BibtexConverter
 	case "cite":
 	  $entry["key"] = $entry["cite"];
 	  break;
-	default: 
+	default:
 	  $entry["key"] = "?";
 	}
       }
@@ -322,7 +323,7 @@ class BibtexConverter
     }
     else
     {
-      if ($this->_options["anonymous-whole"]) 
+      if ($this->_options["anonymous-whole"])
 	$result[""] = $data;
       else
 	$result[$this->_options['lang']['all']] = $data;
@@ -348,7 +349,7 @@ class BibtexConverter
     }
 
     // Sort individual groups
-    if ( $this->_options["sort"] != "none" ) 
+    if ( $this->_options["sort"] != "none" )
       foreach ( $data as &$group )
 	{
 	  uasort($group, array($this->_helper, 'entry_cmp'));
@@ -369,13 +370,13 @@ class BibtexConverter
   function _translate($data)
   {
     $result = $this->_template;
+    if (!$result) throw new \Exception("Template is empty");
 
     // Replace global values
     $result = preg_replace('/@globalcount@/', $this->_helper->lcount($data, 2), $result);
     $result = preg_replace('/@globalgroupcount@/', count($data), $result);
     $result = preg_replace('/[\n\r]+/',' ',$result);
     $match = array();
-    //print "<div style='border: 1pt solid red;'>"; print_r(nl2br(htmlentities($result))); print "</div>";
 
     // Extract entry template
     $pattern = '/@\{entry@(.*?)@\}entry@/s';
@@ -391,9 +392,9 @@ class BibtexConverter
 
     // The data to be processed
     $this->_data = &$data;
-    
+
     // The count
-    $this->count = 0;
+    $this->_globals["positionInList"] = 1;
 
     // "If-then-else" stack
     $this->_ifs = array(true);
@@ -410,14 +411,13 @@ class BibtexConverter
   function _callback($match) {
 
     $condition = $this->_ifs[sizeof($this->_ifs)-1];
-    //    print "<div><b>IF: $condition</b> - <b>[1]</b>:". htmlentities($match[1]) .", <b>[2]</b>:". htmlentities($match[2]) ."</div>";
 
     // --- [ENDIF]
     if ($match[1][0] == ';') {
       // Remove last IF expression value
       array_pop($this->_ifs);
       $condition = $this->_ifs[sizeof($this->_ifs)-1];
-      if ($condition == 1) 
+      if ($condition == 1)
 	return $match[2];
       return "";
     }
@@ -425,47 +425,48 @@ class BibtexConverter
     // --- [IF]
     if ($match[1][0] == '?') {
       if ($condition != 1) {
-	// Don't evaluate if not needed
-	// -1 implies to evaluate to false the alternative (ELSE)
-	$this->_ifs[] = -1;
-	return "";
+      	// Don't evaluate if not needed
+      	// -1 implies to evaluate to false the alternative (ELSE)
+      	$this->_ifs[] = -1;
+      	return "";
       }
-      
+
       $tests = preg_split("/\|\|/", substr($match[1], 1));
-    
+
       $condition = true;
       foreach($tests as $test) {
-	$matches = array();
-	preg_match("/^(#?[\w]+)(?:([~=><])([^@]+))?$/", $test, $matches);
-	$value = $this->_get_value($matches[1]);
-	//print "<div>Compares $value ($matches[1]) [$matches[2]] $matches[3]</div>";
-	switch(sizeof($matches) > 2 ? $matches[2] : "")
-	  {
-	  case "":
-	    $condition = $value ? true : false;
-	    break;
-	  case "=":
-	    $condition = $value == $matches[3];
-	    break;
-	  case "~":
-	    $condition = preg_match("/$matches[3]/",$value);
-	    break;
-	  case ">":
-	    $condition =  (float)$value > (float)$matches[3];
-	    break;
-	  case "<":
-	    $condition =  (float)$value < (float)$matches[3];
-	    break;
-	  default:
-	    $condition = false;
-	  }
+      	$matches = array();
+      	preg_match("/^(#?[\w]+)(?:([~=><])([^@]+))?$/", $test, $matches);
+      	$value = $this->_get_value($matches[1]);
+      	//print "<div>Compares $value ($matches[1]) [$matches[2]] $matches[3]</div>";
+      	switch(sizeof($matches) > 2 ? $matches[2] : "") {
+      	  case "":
+      	    $condition = $value ? true : false;
+      	    break;
+      	  case "=":
+      	    $condition = $value == $matches[3];
+      	    break;
+      	  case "~":
+      	    $condition = preg_match("/$matches[3]/",$value);
+      	    break;
+      	  case ">":
+      	    $condition =  (float)$value > (float)$matches[3];
+      	    break;
+      	  case "<":
+      	    $condition =  (float)$value < (float)$matches[3];
+      	    break;
+      	  default:
+      	    $condition = false;
+      	}
 
-	// And
-	if ($condition) break;
+      	// And
+      	if ($condition) break;
       }
+
       $this->_ifs[] = $condition ? 1 : 0;
-      if ($condition) 
-	return $match[2];
+      if ($condition) {
+    	  return $match[2];
+      }
       return "";
     }
 
@@ -485,22 +486,21 @@ class BibtexConverter
     // --- Group loop
     if ($match[1] == "#group") {
       $groups = "";
-      foreach ( $this->_data as $groupkey => &$group )
-	{
-	  
-	  if ( is_array($groupkey) )
-	    // authors
-	    $groupkey = $this->_helper->niceAuthor($key);
-	  elseif ( $this->_options['group'] === 'entrytype' )
-	    $groupkey = $this->_options['lang']['entrytypes'][$groupkey];
-	  
-	  // Set the different global variables and parse
-	  $this->_globals["groupkey"] = $groupkey;
-	  $this->_globals["groupid"] = md5($groupkey);
-	  $this->_globals["groupcount"] = count($group);
-	  $this->_group = &$group;
-	  $groups .= preg_replace_callback(BibtexConverter::$mainPattern, array($this, "_callback"), $this->group_tpl);
-	}
+      foreach ( $this->_data as $groupkey => &$group ) {
+
+    	  if ( is_array($groupkey) )
+    	    // authors
+    	    $groupkey = $this->_helper->niceAuthor($key);
+    	  elseif ( $this->_options['group'] === 'entrytype' )
+    	    $groupkey = $this->_options['lang']['entrytypes'][$groupkey];
+
+    	  // Set the different global variables and parse
+    	  $this->_globals["groupkey"] = $groupkey;
+    	  $this->_globals["groupid"] = md5($groupkey);
+    	  $this->_globals["groupcount"] = count($group);
+    	  $this->_group = &$group;
+    	  $groups .= preg_replace_callback(BibtexConverter::$mainPattern, array($this, "_callback"), $this->group_tpl);
+    	}
 
       $this->_globals["groupkey"] = null;
       $this->_group = null;
@@ -512,26 +512,39 @@ class BibtexConverter
     if ($match[1] == "#fullentry") {
       $entries = "";
       $limit = $this->_options["limit"];
+      $groupPosition = 0;
       foreach($this->_group as &$entry) {
-          if ($limit > 0 && $limit <= $this->count)
-              break;
-          $this->count++;
+        if ($limit > 0 && $limit <= $this->count) {
+          // Stop if we reached the limit
+          break;
+        }
+        $this->count += 1;
+        $groupPosition++;
+
+        $this->_globals["positionInGroup"] = $groupPosition;
+        $this->_globals["positionInList"] = $this->count;
+
         $this->_entry = $entry;
         $entries .= preg_replace_callback(BibtexConverter::$mainPattern, array($this, "_callback"), $this->full_entry_tpl);
+        $this->_globals["positionInList"]++;
       }
       unset($this->_entry);
       return $entries . $match[2];
     }
 
-    // --- Entry 
+    // --- Entry
     if ($match[1] == "#entry") {
-        if ($this->_entry["entrytype"]) {
-          $type = $this->_entry["entrytype"];
-          $entryTpl = $this->_entry_template->get($type);
-          //print "<div><b>$type</b>: ". htmlentities($entryTpl). "</div>";
-          $t=  preg_replace_callback(BibtexConverter::$mainPattern, array($this, "_callback"), $entryTpl) . $match[2];
-        }
-        else $t = "<span style='color:red'>Unknown bibtex entry with key [".$this->_entry["cite"] ."]</span>" . $match[2];
+      // Formats one bibtex
+      if ($this->_entry["entrytype"]) {
+        $type = $this->_entry["entrytype"];
+        $entryTpl = $this->_entry_template->get($type);
+        //print "<div><b>$type</b>: ". htmlentities($entryTpl). "</div>";
+        $this->_globals["positionInGroup"] = $this->count;
+        $this->_globals["positionInList"] = $this->count;
+        $t=  preg_replace_callback(BibtexConverter::$mainPattern, array($this, "_callback"), $entryTpl) . $match[2];
+      } else {
+        $t = "<span style='color:red'>Unknown bibtex entry with key [".$this->_entry["cite"] ."]</span>" . $match[2];
+      }
       return $t;
     }
 
@@ -543,6 +556,7 @@ class BibtexConverter
     // --- Get the options
     $v = null;
     $count = false;
+    $modifier = "";
 
     if ($name[0] == "#") {
       $name = substr($name,1);
@@ -556,9 +570,10 @@ class BibtexConverter
     }
 
     // --- If we have an entry
-    if (isset($this->_entry) && array_key_exists($name, $this->_entry))
-	$v = $this->_entry[$name];
-    
+    if (isset($this->_entry) && array_key_exists($name, $this->_entry)) {
+      $v = $this->_entry[$name];
+    }
+
 
     // Global variable
     else if (array_key_exists($name, $this->_globals)) {
@@ -567,29 +582,42 @@ class BibtexConverter
 
     // --- post processing
 
-    if ($count)
+    if ($count) {
       return $this->_entry_template->count($v);
+    }
 
     $str = $this->_entry_template->format($v);
-    if ($name != 'bibtex')
+    if ($name != 'bibtex') {
       // replace newlines with spaces, to avoid PHP converting them to <br/>
       $str = preg_replace("/[\r\n]+/", " ", $str);
-      $str = htmlspecialchars($str);
-      
+    }
+
+    switch($modifier) {
+      case "sanitize":
+        $str = sanitize_title($str);
+        break;
+      case "strip":
+        $str = wp_strip_all_tags($str);
+      case "protect":
+        $str = htmlentities($str);
+      case "html":
+        break;
+
+      default:
+        // TODO: should report an error here?
+        break;
+    }
+
     // highlight authors
 	if ($name == 'author' || $name == 'editor') {
 	  if (!empty($this->_options['highlight'])) {
 		$str = preg_replace('~\\b('.$this->_options['highlight'].')\\b~', '<span class="papercite_highlight">$0</span>', $str);
 	  }
 	}
-      
+
     return $str;
   }
 
 
-  
-
 
 }
-
-?>
