@@ -1,11 +1,12 @@
 /.git export-ignore
 /.gitattributes export-ignore
 /layout export-ignore
+/rvw-papercite export-ignore
 /index.htm export-ignore
 /Makefile export-ignore
 /Gestaltungsrichtlinien-Mitteilungen-RVW.md export-ignore
 /Gestaltungsrichtlinien-Mitteilungen-RVW.txt export-ignore
 /Mitteilungen-RVW-Bibliografie.md export-ignore
 /Mitteilungen-RVW-Bibliografie.txt export-ignore
-/Werbeforschung-org-Publikationen.md export-ignore
-/Werbeforschung-org-Publikationen.txt export-ignore
+/RVW-Publikationen.md export-ignore
+/RVW-Publikationen.txt export-ignore
