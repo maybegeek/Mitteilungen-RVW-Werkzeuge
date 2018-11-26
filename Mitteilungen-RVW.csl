@@ -21,7 +21,7 @@
   <category field="generic-base" />
   <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
   <issn>2198-0500</issn>
-  <updated>2018-12-26T14:20:00+02:00</updated>
+  <updated>2018-12-26T15:45:00+02:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attributio-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
 </info>
 
@@ -297,7 +297,7 @@
 <macro name="locators">
   <choose>
     <!-- Zeitschriftenartikel -->
-    <!-- Band und Heft-Nr vorhanden: "#(#)", nur Heft: ", Heft " -->
+    <!-- nur Heft: ", Heft " | Band und Heft-Nr: ", #(#)" -->
     <if type="article-journal">
       <choose>
         <if variable="volume" match="none">
@@ -305,8 +305,8 @@
           <text variable="issue"/>
         </if>
         <else>
-          <text variable="volume" prefix=" "/>
-          <text variable="issue" prefix="&#8201;(" suffix=")"/>
+          <text variable="volume" prefix=", "/>
+          <text variable="issue" prefix="(" suffix=")"/>
         </else>
       </choose>
       <text variable="page" prefix=". S.&#8201;"/>
