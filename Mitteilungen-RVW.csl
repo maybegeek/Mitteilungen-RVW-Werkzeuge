@@ -39,7 +39,6 @@
 <macro name="container-contributors">
   <choose>
     <if type="chapter paper-conference article-journal" match="any">
-      <text term="in" text-case="capitalize-first" suffix=": "/>
       <names variable="editor translator" suffix=". " >
         <name name-as-sort-order="all" and="symbol" sort-separator=", " delimiter="; " delimiter-precedes-last="never">
           <name-part name="family" font-variant="normal"/>
@@ -424,6 +423,7 @@
             <text macro="container-contributors"/>
             <text macro="secondary-contributors"/>
             <group delimiter=" ">
+              <text term="in" text-case="capitalize-first" suffix=": "/>
               <text variable="container-title" font-style="italic"/>
               <choose>
                 <if variable="container-title" match="any">
