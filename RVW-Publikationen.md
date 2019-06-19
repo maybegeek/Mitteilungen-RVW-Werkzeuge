@@ -1,6 +1,6 @@
 ---
 title: Publikationen der RVW-Mitglieder (werbeforschung.org)
-date: 25. September 2018
+date: 19. Juni 2019
 documentclass: scrartcl
 papersize: a4
 classoption:
@@ -30,7 +30,7 @@ RVW-Publikationen.md \
 -o RVW-Publikationen.pdf
 ```
 
-Freilich kann das Literaturverwaltungsprogramm der eigenen Wahl verwendet werden -- BibTeX-Import vorausgesetzt -- und somit eine Integration in den individuell üblichen Prozess der Erstellung wissenschaftlicher Arbeiten auch erreicht werden.
+Freilich kann das Literaturverwaltungsprogramm der eigenen Wahl verwendet werden – BibTeX-Import vorausgesetzt – und somit eine Integration in den individuell üblichen Prozess der Erstellung wissenschaftlicher Arbeiten auch erreicht werden.
 
 Auf den Folgeseiten werden die Publikationen ausgegeben.
 
