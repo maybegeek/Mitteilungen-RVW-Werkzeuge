@@ -1,7 +1,7 @@
 Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger
 Verbunds für Werbeforschung – RVW“
 
-25. September 2018
+19. Juni 2019
 
 === === ===
 Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung –
@@ -85,7 +85,7 @@ Zugriffsdatum.
   – Zugriff: 1.5.2013.
 
 Beispiel Werbeanzeige:
-Firma (Enstehungsdatum). _Titel_. Quelle. (bei Internetquellen
+Firma (Entstehungsdatum). _Titel_. Quelle. (bei Internetquellen
 zusätzlich URL und Zugriffsdatum)
 
   Doppelherz (2007). _„Sitznachbar“_ [Werbung]. ARD:
