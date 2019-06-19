@@ -1,6 +1,6 @@
 ---
 title: Bibliografie einzelner Beiträge der Mitteilungen des RVW
-date: 8. Februar 2018
+date: 19. Juni 2019
 documentclass: scrartcl
 papersize: a4
 classoption:
