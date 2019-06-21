@@ -73,10 +73,16 @@
 
 <format types="inbook incollection">
 @?author@@author@ @;author@
-@?year@(@year@). @;year@
+@?year||date@(@:@@;@@?year@@year@@;@@?date@, @date@@;@@?year||date@). @:@@;@
 @?title@@title@. @;title@
 @?editor@In: @editor@ (@?#editor&gt;1@Hg.@:editor@Hg.@;editor@). @;editor@
-@?booktitle@@?edition@@:@@;edition@&lt;span class=&quot;bib-em&quot;&gt;@booktitle@&lt;/span&gt;@?series@ (= @series@@?number@, @number@@;number@)@;series@. @;@     @?note@@note@. @;note@@?address@@address@: @;@@?publisher@@publisher@@;@.@?edition||volume||pages@ @:@@;@@?edition@@edition@ ed.@;@@?volume@@?pages@, @:@@;pages@Vol. @volume@@;@@?pages@@?address@@:@@;address@&lt;span class=&quot;nowrap&quot;&gt;S.&lt;span class=&quot;bib-spatium&quot;&gt;&lt;/span&gt;@pages@&lt;/span&gt;@;@@?edition||volume||pages@@:@@;@.
+@?booktitle@@?edition@@:@@;edition@&lt;span class=&quot;bib-em&quot;&gt;@booktitle@&lt;/span&gt;@?series@ (= @series@@?number@, @number@@;number@)@;series@. @;@
+@?note@@note@. @;note@
+@?address@@address@@?publisher@: @:@@;publisher@@:@@;address@@?publisher@@publisher@@:@@;publisher@@?address||publisher@.@:@@;@
+@?edition||volume||pages@ @:@@;@
+@?edition@@edition@ ed.@;@@?volume@@?pages@, @:@@;pages@Vol. @volume@@;@@?pages@
+&lt;span class=&quot;nowrap&quot;&gt;S.&lt;span class=&quot;bib-spatium&quot;&gt;&lt;/span&gt;@pages@&lt;/span&gt;@;@@?edition||volume||pages@.@:@@;@
+@?url@&lt;span style=&quot;font-variant: small-caps;&quot;&gt;url:&lt;/span&gt; @url@.@:@@;url@
 </format>
 
 
