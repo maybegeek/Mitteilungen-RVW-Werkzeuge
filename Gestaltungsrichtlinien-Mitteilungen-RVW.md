@@ -1,6 +1,6 @@
 ---
 title: 'Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“'
-date: '19. Juni 2019'
+date: '26.&#8239;Juli 2019'
 documentclass: scrartcl
 papersize: a4
 classoption:
@@ -18,6 +18,7 @@ Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RV
 * [Heft 3 / 2015 : Schwerpunkt: Risiko!](https://epub.uni-regensburg.de/33502/)
 * [Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW](https://epub.uni-regensburg.de/34935/)
 * [Heft 5 / 2017 : Schwerpunkt: Aufgetischt!](https://epub.uni-regensburg.de/36763/)
+* [Heft 6 / 2018 : Schwerpunkt: Out of Line](https://epub.uni-regensburg.de/40579/)
 
 ## Gestaltraster
 

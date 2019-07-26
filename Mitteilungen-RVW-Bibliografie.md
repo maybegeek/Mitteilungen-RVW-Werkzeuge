@@ -1,6 +1,6 @@
 ---
 title: Bibliografie einzelner Beiträge der Mitteilungen des RVW
-date: 19. Juni 2019
+date: 26.&#8239;Juli 2019
 documentclass: scrartcl
 papersize: a4
 classoption:
@@ -23,5 +23,6 @@ In der `*.bib`-Datei sind die bisherigen Einzelbeiträge aus den Mitteilungen ve
 * _Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der Sicherheit?_ [das ganze Heft betreffend, siehe @rvw:3].
 * _Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über Werbung und Werbung nach der Werbung_ [das ganze Heft betreffend, siehe @rvw:4].
 * _Schwerpunkt: Aufgetischt! Persuasion und Information bei der Vermarktung von Nahrungs- und Genussmitteln_ [das ganze Heft betreffend, siehe @rvw:5].
+* _Schwerpunkt: Out of Line. Zur Theorie und Geschichte ungewöhnlicher Werbemittel_ [das ganze Heft betreffend, siehe @rvw:6].
 
 # Literatur
