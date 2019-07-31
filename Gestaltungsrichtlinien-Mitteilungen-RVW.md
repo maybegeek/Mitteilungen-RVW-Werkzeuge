@@ -1,6 +1,6 @@
 ---
 title: 'Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“'
-date: '26.&#8239;Juli 2019'
+date: '26. Juli 2019'
 documentclass: scrartcl
 papersize: a4
 classoption:
