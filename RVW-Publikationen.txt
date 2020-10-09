@@ -1,8 +1,9 @@
 Publikationen der RVW-Mitglieder (werbeforschung.org)
 
-30. September 2020
+9. Oktober 2020
 
 === === ===
+
 
 
 TECHNIMAGISCHES … *.bib, *.md, *.csl UND pandoc
@@ -266,7 +267,7 @@ Analysen zur Werbeschallplatte unter besonderer Berücksichtigung des
 Beispiels Was ist Hi-Fi? der Marke Bang & Olufsen 1965. In: Moser,
 Karin; Eder, Franz X. & Keller, Mario (Hg.). _Grenzenlose Werbung.
 Zwischen Konsum und Audiovision_ (= Werbung – Konsum – Geschichte, 2).
-Berlin: De Gruyter. S. 80–108.
+Berlin: De Gruyter. S. 79–108.
 
 Ottmann, Solveig (2019). Die Werbeschallplatte als akustisches Dokument.
 Ein Kommentar zur Werbeforschung. In: GfM-AG Auditive Medienkultur und

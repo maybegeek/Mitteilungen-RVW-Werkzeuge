@@ -19,7 +19,7 @@ txt: cleantxt $(TEXT)
 
 %.txt:	%.md
 	pandoc \
-	-w plain \
+	-w plain+gutenberg \
 	--filter pandoc-citeproc \
 	--template=layout/tmpl-plain.txt \
 	--csl=$(CSL) \

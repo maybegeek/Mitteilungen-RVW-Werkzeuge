@@ -1,6 +1,6 @@
 ---
 title: Publikationen der RVW-Mitglieder (werbeforschung.org)
-date: 30. September 2020
+date: 9. Oktober 2020
 documentclass: scrartcl
 papersize: a4
 classoption:
