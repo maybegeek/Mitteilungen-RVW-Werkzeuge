@@ -6,6 +6,8 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v2
       - run: ls -la
       - uses: docker://pandoc/latex
         with:
