@@ -1,13 +1,16 @@
-Gestaltungsrichtlinien für Autoren der „Mitteilungen des Regensburger
-Verbunds für Werbeforschung – RVW“
+Gestaltungsrichtlinien RVW
 
-26. Juli 2019
+für Beiträge der „Mitteilungen des Regensburger Verbunds für
+Werbeforschung – RVW“
 
-=== === ===
+28. Dezember 2021
+
+----  ----  ----  ----  ----  ----  ----  ----  ----  ----  ----  ---- 
+
 Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung –
 RVW“ sollten entlang folgender Regeln verfasst werden, um
 Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die
-einfach Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur
+einfache Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur
 Orientierung nehmen sie bitte Einsicht in die schon veröffentlichten
 Ausgaben: https://epub.uni-regensburg.de/rvw.html
 
@@ -17,6 +20,8 @@ Ausgaben: https://epub.uni-regensburg.de/rvw.html
 -   Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW
 -   Heft 5 / 2017 : Schwerpunkt: Aufgetischt!
 -   Heft 6 / 2018 : Schwerpunkt: Out of Line
+-   Heft 7 / 2019 : Schwerpunkt: Autonomes Fahren im Visier der Werbung
+-   Heft 8 / 2020 : Schwerpunkt: Corona, Wein und Badeschaum
 
 
 Gestaltraster
@@ -29,8 +34,8 @@ Seitenbreite zwar genutzt werden soll, allerdings einspaltiger Satz in
 Verbindung mit dann hoher Zeichenanzahl der Lesbarkeit abträglich ist.
 
 Ihr Text kann zweispaltig oder einspaltig eingereicht werden, obige
-Informationen sollen nur zum besseren Verständnis stehen, und Ihnen
-schon vorab ein ungefähres Bild Ihres Artikels im Layout der Zeitschrift
+Informationen sollen dem besseren Verständnis dienen, und Ihnen schon
+vorab ein ungefähres Bild Ihres Artikels im Layout der Zeitschrift
 liefern.
 
 
@@ -43,7 +48,7 @@ Formatierungen im Text
 
 Artikeltitel
 
-Der Titel und Untertitel Ihrer Arbeit und Ihr Autorenname werden
+Der Titel und Untertitel Ihres Beitrags und Ihr Autorenname werden
 einspaltig über dem Inhalt gesetzt. Untertitel werden im
 Inhaltsverzeichnis nicht aufgeführt.
 
@@ -52,16 +57,16 @@ Textstruktur der Gliederungsebene
 
 Zur Gliederung Ihres Textes stehen Ihnen bevorzugt nicht nummerierte
 Überschriften zur Verfügung. Wir würden vorschlagen nicht tiefer als bis
-zur dritten Ordnung aufzudröseln. Wir bemühen uns die semantische
-Struktur, welche Sie Ihrem Text auf Gliederungsebene mitgegeben haben,
-auch in unserem Layout zu realisieren.
+zur dritten Überschriften-Ebene aufzugliedern. Wir bemühen uns die
+semantische Struktur – welche Sie Ihrem Text auf Gliederungsebene
+mitgegeben haben – auch in unserem Layout zu realisieren.
 
 
 Zitation/Fußnoten
 
 Im Text können Sie Fußnoten verwenden, oder Im-Text-Zitation, also einen
 Klammerausdruck mit Verweis auf Autor und Jahr, ggf. getrennt durch
-Doppelpunkt auch mit der spezifischen Seitenzahl.
+Doppelpunkt auch mit der spezifischen Seiten(raum)angabe.
 
 Es obliegt Ihrer Art des wissenschaftlichen Schreibens, welche
 Form/Formen Sie wählen, die Lesbarkeit des Textes und die
@@ -79,18 +84,18 @@ Beispiel Internetquelle:
 Autor (Entstehungsdatum soweit recherchierbar). _Titel_. URL –
 Zugriffsdatum.
 
-  Kuball, Marianne & Reden-Lütcken, Katharina von (2009). _Schönes Haar
-  in jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful
-  Age-Linie_. URL:
-  http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/
-  – Zugriff: 1.5.2013.
+Kuball, Marianne & Reden-Lütcken, Katharina von (2009). _Schönes Haar in
+jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful
+Age-Linie_. URL:
+http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/
+– Zugriff: 1.5.2013.
 
 Beispiel Werbeanzeige:
 Firma (Entstehungsdatum). _Titel_. Quelle. (bei Internetquellen
 zusätzlich URL und Zugriffsdatum)
 
-  Doppelherz (2007). _„Sitznachbar“_ [Werbung]. ARD:
-  Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+Doppelherz (2007). _„Sitznachbar“_ [Werbung]. ARD:
+Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 
 Verwendung von Bildern
@@ -107,3 +112,5 @@ Einreichung
 Einreichung als Textdatei (Formate: Word {*.doc,*.docx} oder
 Libre-Office {*.odt}), wobei die referenzierten Bilder als EIGENSTÄNDIGE
 DATEIEN mitversandt werden.
+
+Vielen Dank für Ihre Mühen.
