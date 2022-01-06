@@ -100,7 +100,7 @@
       <if variable="DOI">
         <group>
           <text value="doi:" suffix=" " font-variant="small-caps"/>
-          <text variable="DOI" suffix="&#8201;"/>
+          <text variable="DOI"/>
         </group>
       </if>
     </choose>
@@ -108,7 +108,7 @@
       <if variable="URL">
         <group>
           <text value="url:"  suffix=" " font-variant="small-caps"/>
-          <text variable="URL" suffix=" "/>
+          <text variable="URL"/>
         </group>
       </if>
     </choose>
