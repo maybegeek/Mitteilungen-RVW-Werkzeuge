@@ -1,18 +1,25 @@
 ---
-title: Publikationen der RVW-Mitglieder (werbeforschung.org)
-date: 1. Dezember 2020
-documentclass: scrartcl
-papersize: a4
-classoption:
-    - DIV=8
-    - headinclude=true
-    - footinclude=false
-    - titlepage=false
+title: Bibliografie der RVW-Mitglieder | Mitteilungen des RVW – Hinweise und Werkzeuge
+author-meta: Christoph Pfeiffer
+keywords: Bibliografie der RVW-Mitglieder, RVW
+description-meta: Bibliografie der RVW-Mitglieder, wie auf der RVW-Website verzeichnet
+lang: de-DE
+bibliography: RVW-Publikationen.yaml
+csl: Mitteilungen-RVW.csl
 nocite: |
   @*
-lang: de-DE
-bibliography: RVW-Publikationen.bib
+reference-links: true
+link-citations: true
+link-bibliography: true
+css: layout/css/style.css
+page-slug: biblio-rvw
+rvw-back: true
 ---
+
+[//]: # (
+   pandoc RVW-Publikationen.md -f markdown -t html5 -C -s -o RVW-Publikationen.htm --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
+   pandoc RVW-Publikationen.bib -f biblatex -t markdown-smart -s > RVW-Publikationen.yaml
+  )
 
 # Technimagisches ... `*.bib`, `*.md`, `*.csl` und `pandoc`
 
