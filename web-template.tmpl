@@ -11,19 +11,16 @@
   $for(header-includes)$$header-includes$$endfor$
 </head>
 <body$if(page-slug)$ id="$page-slug$"$endif$>
-  $for(include-before)$
-  $include-before$
-  $endfor$
+  $for(include-before)$$include-before$$endfor$
   <header class="visual">
     <h1 class="site-title">Regensburger Verbund für Werbeforschung &ndash; RVW</h1>
   </header>
 
   <main>
-    $if(rvw-back)$<p class="backlink">zurück zur Übersicht: <a href="https://maybegeek.github.io/Mitteilungen-RVW-Werkzeuge/">Mitteilungen des RVW – Werkzeuge</a>.</p>$endif$
+    $if(rvw-back)$<p class="backlink">zurück zur Übersicht: <a href="https://maybegeek.github.io/Mitteilungen-RVW-Werkzeuge/">Mitteilungen des RVW – Hinweise und Werkzeuge</a>.</p>$endif$
     $body$
-    $for(include-after)$
-    $include-after$
-    $endfor$
+    $for(include-after)$$include-after$$endfor$
+    <footer><time datetime="$date-meta$">$date$</time> | <a href="imprint.htm">Impressum</a></footer>
   </main>
 </body>
 </html>
