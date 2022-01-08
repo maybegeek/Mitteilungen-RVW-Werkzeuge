@@ -4,7 +4,7 @@ author-meta: Christoph Pfeiffer
 keywords: Bibliografie der Beiträge der Mitteilungen des RVW, RVW
 description-meta: Bibliografie der Beiträge der Mitteilungen des RVW
 lang: de-DE
-bibliography: rvw.yaml
+bibliography: Mitteilungen-RVW-Bibliografie.yaml
 csl: Mitteilungen-RVW.csl
 nocite: |
   @*
