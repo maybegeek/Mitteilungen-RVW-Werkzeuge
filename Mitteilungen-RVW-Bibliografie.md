@@ -18,6 +18,7 @@ rvw-back: true
 
 [//]: # (
    pandoc Mitteilungen-RVW-Bibliografie.md -f markdown -t html5 -C -s -o Mitteilungen-RVW-Bibliografie.htm --template=web-template.tmpl --shift-heading-level-by=1  --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
+   pandoc Mitteilungen-RVW-Bibliografie.bib -f biblatex -t markdown-smart -s > Mitteilungen-RVW-Bibliografie.yaml
   )
 
 # Bibliografie der Beiträge der Mitteilungen des RVW
