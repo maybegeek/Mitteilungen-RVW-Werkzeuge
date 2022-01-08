@@ -4,20 +4,13 @@ author-meta: Christoph Pfeiffer
 keywords: RVW, Mitteilungen des RVW, Hinweise und Werkzeuge
 description-meta: Hinweise und Werkzeuge für die Mitteilungen des RVW. Über Formalia zur Einreichung der Beiträge bis hin zu einem verwendbaren Zitationsstil als *.csl-Datei, Bibliografie der Mitteilungen des RVW und weiterer Dokumentation.
 lang: de-DE
-bibliography: ''
-csl: ''
-nocite: |
-  @*
-reference-links: true
-link-citations: true
-link-bibliography: true
 css: layout/css/style.css
 page-slug: index-mitteilungen
 rvw-back: ''
 ---
 
 [//]: # (
-   pandoc index.md -f markdown -t html5 -s -o index.htm --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
+   pandoc index.md -f markdown -t html5 -C -s -o index.htm --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
   )
 
 # Mitteilungen des RVW – Hinweise und Werkzeuge
