@@ -15,3 +15,8 @@ rvw-back: true
 
 
 # Impressum & Datenschutz
+
+
+Verantwortlich: Christoph Pfeiffer @ ur.de
+
+Die Webseiten werden über [github-pages](https://docs.github.com/en/github/site-policy/github-privacy-statement) gehostet. Es werden keine Skripte oder Schriften von externen Anbietern gehostet. Es handelt sich um statische Seiten ohne weitere Nutzerdatenübermittlung.
