@@ -22,8 +22,6 @@ rvw-back: true
   )
 
 
-
-
 :::{#refs}
 
 # Bibliografie der Publikationen der RVW-Website
