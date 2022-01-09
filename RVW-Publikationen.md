@@ -28,4 +28,4 @@ rvw-back: true
 
 :::
 
-Auf die Zugriffsinformation wurde bei Angabe der jeweiligen Quellen verzichtet, da `URL` und `DOI` lediglich des schnelleren Zugangs wegen mit ausgegeben werden.
+Auf die Zugriffsinformation wurde bei Angabe der jeweiligen Quellen verzichtet, da `URL` und `DOI` hier lediglich des schnelleren Zugangs wegen mit ausgegeben werden.

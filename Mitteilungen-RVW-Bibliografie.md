@@ -41,4 +41,4 @@ In der `*.yaml`-Datei sind die bisherigen Einzelbeiträge aus den Mitteilungen d
 
 :::
 
-Auf die Zugriffsinformation wurde bei Angabe der jeweiligen Quellen verzichtet, da `URL` und `DOI` lediglich des schnelleren Zugangs wegen mit ausgegeben werden.
+Auf die Zugriffsinformation wurde bei Angabe der jeweiligen Quellen verzichtet, da `URL` und `DOI` hier lediglich des schnelleren Zugangs wegen mit ausgegeben werden.
