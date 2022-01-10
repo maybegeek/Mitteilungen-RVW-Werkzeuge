@@ -3,7 +3,7 @@ DATEIEN := \
 	Impressum.md \
 	Mitteilungen-RVW-Bibliografie.md \
 	RVW-Publikationen.md \
-	blaa.md \
+	Gestaltungsrichtlinien-Mitteilungen-des-RVW.md \
 	Mitteilungen-RVW-Bibliografie.bib \
 	RVW-Publikationen.bib \
 	Mitteilungen-RVW-Bibliografie.yaml \
