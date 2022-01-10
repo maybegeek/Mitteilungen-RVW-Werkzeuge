@@ -3,6 +3,7 @@ DATEIEN := \
 	Impressum.md \
 	Mitteilungen-RVW-Bibliografie.md \
 	RVW-Publikationen.md \
+	blaa.md \
 	Mitteilungen-RVW-Bibliografie.bib \
 	RVW-Publikationen.bib \
 	Mitteilungen-RVW-Bibliografie.yaml \
@@ -11,7 +12,7 @@ DATEIEN := \
 MD2HTM = $(DATEIEN:.md=.htm)
 BIB2YAML = $(DATEIEN:.bib=.yaml)
 
-%.htm:	%.md %.yaml
+%.htm:	%.md
 	pandoc -f markdown -t html5 -C -s --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y (%H:%Mh)'`" --metadata date-meta="`date +'%Y-%m-%d'`" -o $@ $<
 
 %.yaml:	%.bib
