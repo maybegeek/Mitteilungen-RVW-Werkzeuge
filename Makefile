@@ -1,41 +1,22 @@
-#SRC   := Gestaltungsrichtlinien-Mitteilungen-RVW.md Mitteilungen-RVW-Bibliografie.md RVW-Publikationen.md
-#CSL   := Mitteilungen-RVW.csl
-WWW   := index.md Impressum.md Mitteilungen-RVW-Bibliografie.md RVW-Publikationen.md
+DATEIEN := \
+	index.md \
+	Impressum.md \
+	Mitteilungen-RVW-Bibliografie.md \
+	RVW-Publikationen.md \
+	Mitteilungen-RVW-Bibliografie.bib \
+	RVW-Publikationen.bib \
+	Mitteilungen-RVW-Bibliografie.yaml \
+	RVW-Publikationen.yaml
 
-#PDFS=$(SRC:.md=.pdf)
-#TEXT=$(SRC:.md=.txt)
-WEBSITE=$(WWW:.md=.htm)
+MD2HTM = $(DATEIEN:.md=.htm)
+BIB2YAML = $(DATEIEN:.bib=.yaml)
 
-#all: $(TEXT) $(PDFS)
-#bib: cleantxt $(TEXT) cleanpdf $(PDFS)
-#pdf: cleanpdf $(PDFS)
-#txt: cleantxt $(TEXT)
-htm: $(WEBSITE)
+%.htm:	%.md %.yaml
+	pandoc -f markdown -t html5 -C -s --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y (%H:%Mh)'`" --metadata date-meta="`date +'%Y-%m-%d'`" -o $@ $<
 
-%.htm:	%.md
-	pandoc -f markdown -t html5 -C -s --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`" -o $@ $<
+%.yaml:	%.bib
+	pandoc -f biblatex -t markdown-smart -s -o $@ $<
 
-cleanhtm:
-	rm -f $(WEBSITE)
-
-# %.pdf:	%.md
-# 	pandoc -s -f markdown-smart \
-# 	--pdf-engine=xelatex \
-# 	--filter pandoc-citeproc \
-# 	--include-in-header=layout/options.tex \
-# 	--csl=$(CSL) \
-# 	-o $@ $<
-#
-# %.txt:	%.md
-# 	pandoc \
-# 	-w plain+gutenberg \
-# 	--filter pandoc-citeproc \
-# 	--template=layout/tmpl-plain.txt \
-# 	--csl=$(CSL) \
-# 	-o $@ $<
-#
-# cleantxt:
-# 	rm -f $(TEXT)
-#
-# cleanpdf:
-# 	rm -f $(PDFS)
+all: bib web
+bib: $(BIB2YAML)
+web: $(MD2HTM)
