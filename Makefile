@@ -21,6 +21,7 @@ MD_AUSLASSEN = README.md Gestaltungsrichtlinien-Mitteilungen-RVW.md
 MARKDOWN_DATEIEN := $(filter-out $(MD_AUSLASSEN), $(MARKDOWN_DATEIEN))
 ZIEL_HTMLS = $(MARKDOWN_DATEIEN:%.md=%.html)
 CSL_DATEI = Mitteilungen-RVW.csl
+TMPL_DATEI = web-template.tmpl
 BIB_DATEIEN = $(wildcard *.bib)
 ZIEL_YAMLS = $(BIB_DATEIEN:%.bib=%.yaml)
 
@@ -39,7 +40,7 @@ clean-yaml :
 
 clean-all : clean-yaml clean-html
 
-%.html : %.md $(CSL_DATEI)
+%.html : %.md $(CSL_DATEI) $(TMPL_DATEI)
 	@echo "HTML-Datei erstellen: $@"
 	$(PANDOC_HTML)
 

@@ -36,7 +36,7 @@ Die Mitteilungen des RVW sind beim Publikationsserver der Universitätsbibliothe
 <article>
 ## Bibliografie der Mitteilungen
 
-[Bibliografie der Beiträge](Mitteilungen-RVW-Bibliografie.htm)
+[Bibliografie der Beiträge](Mitteilungen-RVW-Bibliografie.html)
 
 [Mitteilungen-RVW-Bibliografie.bib](Mitteilungen-RVW-Bibliografie.bib)
 
@@ -50,7 +50,7 @@ Die Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung�
 <article>
 ## Bibliografie RVW-Mitglieder
 
-[Bibliografie RVW-Mitglieder](RVW-Publikationen.htm)
+[Bibliografie RVW-Mitglieder](RVW-Publikationen.html)
 
 [RVW-Publikationen.bib](RVW-Publikationen.bib)
 
@@ -74,7 +74,7 @@ Den bisherigen Heften der „Mitteilungen des Regensburger Verbunds für Werbefo
 <article>
 ## Website des RVW
 
-[https://werbeforschung.org&nbsp;&nbsp;&#8599;](https://werbeforschung.org)
+[https://werbeforschung.org&nbsp;&nbsp;&#8599;s](https://werbeforschung.org)
 
 Link zur Website des Regensburger Verbunds für Werbeforschung. Informationen zu Veranstaltungen, Mitgliedern, Publikationen usw.
 </article>
