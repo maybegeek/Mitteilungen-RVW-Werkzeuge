@@ -16,11 +16,6 @@ page-slug: biblio-rvw
 rvw-back: true
 ---
 
-[//]: # (
-   pandoc RVW-Publikationen.md -f markdown -t html5 -C -s -o RVW-Publikationen.htm --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
-   pandoc RVW-Publikationen.bib -f biblatex -t markdown-smart -s > RVW-Publikationen.yaml
-  )
-
 
 :::{#refs}
 

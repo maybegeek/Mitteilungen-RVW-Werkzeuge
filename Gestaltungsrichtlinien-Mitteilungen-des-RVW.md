@@ -9,6 +9,7 @@ page-slug: formalia-rvw
 rvw-back: true
 ---
 
+
 # Gestaltungsrichtlinien RVW
 
 für Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“

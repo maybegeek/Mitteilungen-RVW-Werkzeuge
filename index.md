@@ -9,9 +9,6 @@ page-slug: index-mitteilungen
 rvw-back: ''
 ---
 
-[//]: # (
-   pandoc index.md -f markdown -t html5 -C -s -o index.htm --template=web-template.tmpl --shift-heading-level-by=1 --metadata date="`date +'%e. %B %Y'`" --metadata date-meta="`date +'%Y-%m-%d'`"
-  )
 
 # Mitteilungen des RVW – Hinweise und Werkzeuge
 
