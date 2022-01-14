@@ -26,7 +26,7 @@ Handreichung und Ge&shy;stal&shy;tungs&shy;richt&shy;li&shy;nien für Beiträge 
 <article>
 ## Mitteilungen des RVW
 
-[Mitteilungen des RVW auf epub.ur.de](https://epub.uni-regensburg.de/rvw.html)
+[Mitteilungen des RVW auf epub.ur.de&nbsp;&nbsp;&#8599;](https://epub.uni-regensburg.de/rvw.html)
 
 Die Mitteilungen des RVW sind beim Publikationsserver der Universitätsbibliothek Regensburg zu finden.
 </article>
@@ -74,7 +74,7 @@ Den bisherigen Heften der „Mitteilungen des Regensburger Verbunds für Werbefo
 <article>
 ## Website des RVW
 
-[https://werbeforschung.org](https://werbeforschung.org)
+[https://werbeforschung.org&nbsp;&nbsp;&#8599;](https://werbeforschung.org)
 
 Link zur Website des Regensburger Verbunds für Werbeforschung. Informationen zu Veranstaltungen, Mitgliedern, Publikationen usw.
 </article>
