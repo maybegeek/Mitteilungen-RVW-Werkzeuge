@@ -74,7 +74,7 @@ Den bisherigen Heften der „Mitteilungen des Regensburger Verbunds für Werbefo
 <article>
 ## Website des RVW
 
-[https://werbeforschung.org&nbsp;&nbsp;&#8599;s](https://werbeforschung.org)
+[https://werbeforschung.org&nbsp;&nbsp;&#8599;](https://werbeforschung.org)
 
 Link zur Website des Regensburger Verbunds für Werbeforschung. Informationen zu Veranstaltungen, Mitgliedern, Publikationen usw.
 </article>
