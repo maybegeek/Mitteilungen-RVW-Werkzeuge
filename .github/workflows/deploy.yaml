@@ -18,6 +18,7 @@ jobs:
           ls -la
           make --version
   pandoczeug:
+    runs-on: ubuntu-latest
     container:
       image: docker://pandoc/core:2
       options: --entrypoint=sh
