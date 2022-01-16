@@ -5,12 +5,18 @@ on: push
 jobs:
   generate_website:
     runs-on: ubuntu-latest
+    container:
+      image: docker://pandoc/core:2
+      options: --entrypoint=sh
     steps:
       - name: Repository Checkout ...
         uses: actions/checkout@v2
 
       - name: Ablage erstellen ...
         run: mkdir Ablage
+
+      - name: test ...
+        run: make
 
       - name: Uhrzeit an Zeitzone anpassen ...
         uses: zcong1993/setup-timezone@master
@@ -19,12 +25,6 @@ jobs:
 
       - name: Zeitstempel erstellen ...
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
-
-      - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
-        uses: docker://pandoc/core:2
-        with:
-          entrypoint: /bin/sh
-          args: -c "locate make"
 
       - name: Datei zum internen Download bereitstellen ...
         uses: actions/upload-artifact@master
