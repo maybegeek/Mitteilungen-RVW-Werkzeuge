@@ -21,13 +21,14 @@ jobs:
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
       - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
-        uses: docker://pandoc/core
+        uses: docker://pandoc/core:2
         with:
           entrypoint: /bin/sh
-          args: >-
-            -c "
-             make
-            "
+        run: make
+          # args: >-
+          #   -c "
+          #    make
+          #   "
 
       - name: Datei zum internen Download bereitstellen ...
         uses: actions/upload-artifact@master
