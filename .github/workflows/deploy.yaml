@@ -30,9 +30,14 @@ jobs:
         with:
           name: RVW-Werkzeuge-${{ env.MWDW_TIMESTAMP }}
           path: Makefile
-      - name: test make
+      - name: checkout repo ...
         uses: actions/checkout@v2
-        run: make
+        with:
+          fetch-depth: 2
+          ref: master
+        run: ls -la && which make
+      - name: blabla
+        run: ls -la && make
 
 # name: test-using-makefile
 #
