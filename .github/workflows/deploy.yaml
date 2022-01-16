@@ -12,9 +12,9 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
-          with:
-            fetch-depth: 2
-            ref: master
+        with:
+          fetch-depth: 2
+          ref: master
       - name: Ablage erstellen ...
         run: mkdir Ablage
       - name: Uhrzeit an Zeitzone anpassen ...
