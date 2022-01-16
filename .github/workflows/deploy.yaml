@@ -18,8 +18,9 @@ jobs:
           ls -la
           make --version
   pandoczeug:
-    image: docker://pandoc/core:2
-    options: --entrypoint=sh
+    container:
+      image: docker://pandoc/core:2
+      options: --entrypoint=sh
   gensite:
     steps:
       - name: blabla
