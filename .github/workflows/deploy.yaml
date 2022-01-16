@@ -7,11 +7,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: docker://pandoc/core:2
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
+      - name: Ablage erstellen ...
+        run: mkdir Ablage
+      - name: Uhrzeit an Zeitzone anpassen ...
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: Europe/Berlin
+      - name: Zeitstempel erstellen ...
+        run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
       - name: build application
         run: make
+      - name: Datei zum internen Download bereitstellen ...
+        uses: actions/upload-artifact@v2
+        with:
+          name: RVW-Werkzeuge-${{ env.MWDW_TIMESTAMP }}
+          path: Makefile
 
 # name: test-using-makefile
 #
