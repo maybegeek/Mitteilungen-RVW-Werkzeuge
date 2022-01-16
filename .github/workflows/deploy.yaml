@@ -16,7 +16,9 @@ jobs:
       - name: blabla
         run: |
           ls -la
-          which make
+          apt-get update
+          apt-get install make -y
+          make --version
 
 # name: test-using-makefile
 #
