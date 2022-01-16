@@ -16,7 +16,7 @@ jobs:
         run: mkdir Ablage
 
       - name: test ...
-        run: which make
+        run: ls -la && /usr/bin/make --version
 
       - name: Uhrzeit an Zeitzone anpassen ...
         uses: zcong1993/setup-timezone@master
