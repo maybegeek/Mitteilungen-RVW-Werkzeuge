@@ -23,8 +23,6 @@ jobs:
           timezone: Europe/Berlin
       - name: Zeitstempel erstellen ...
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
-      - name: build application
-        run: make
       - name: Datei zum internen Download bereitstellen ...
         uses: actions/upload-artifact@v2
         with:
