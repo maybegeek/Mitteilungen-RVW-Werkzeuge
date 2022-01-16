@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: docker://pandoc/core:2
+    # container: docker://pandoc/core:2
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
@@ -16,8 +16,6 @@ jobs:
       - name: blabla
         run: |
           ls -la
-          apt-get update
-          apt-get install make -y
           make --version
 
 # name: test-using-makefile
