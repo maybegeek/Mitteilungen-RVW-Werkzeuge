@@ -21,6 +21,9 @@ jobs:
     container:
       image: docker://pandoc/core:2
       options: --entrypoint=sh
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v2
   gensite:
     steps:
       - name: blabla
