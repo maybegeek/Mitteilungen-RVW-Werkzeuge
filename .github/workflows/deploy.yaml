@@ -5,8 +5,8 @@ on:
     branches: [master]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  bla1:
+    # runs-on: ubuntu-latest
     # container: docker://pandoc/core:2
     steps:
       - name: checkout repo
@@ -17,6 +17,17 @@ jobs:
         run: |
           ls -la
           make --version
+  pandoczeug:
+    image: docker://pandoc/core:2
+    options: --entrypoint=sh
+  gensite:
+    steps:
+      - name: blabla
+        run: |
+          ls -la
+          make --version
+      - name: sdfsdfsdf
+        run: pandoc --version
 
 # name: test-using-makefile
 #
