@@ -41,9 +41,9 @@ clean-yaml :
 clean-all : clean-yaml clean-html
 
 %.html : %.md $(CSL_DATEI) $(TMPL_DATEI)
-	@echo "HTML-Datei erstellen: $@"
+	@echo "* HTML-Datei erstellen: $@"
 	$(PANDOC_HTML)
 
 %.yaml : %.bib
-	@echo "YAML-Datei erstellen: $@"
+	@echo "* YAML-Datei erstellen: $@"
 	$(PANDOC_YAML)
