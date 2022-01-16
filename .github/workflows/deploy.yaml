@@ -13,7 +13,7 @@ jobs:
       - name: checkout repo
         uses: actions/checkout@v2
           with:
-            fetch-depth: 1
+            fetch-depth: 2
             ref: master
       - name: Ablage erstellen ...
         run: mkdir Ablage
@@ -30,8 +30,8 @@ jobs:
         with:
           name: RVW-Werkzeuge-${{ env.MWDW_TIMESTAMP }}
           path: Makefile
-      - uses: actions/checkout@v2
       - name: test make
+        uses: actions/checkout@v2
         run: make
 
 # name: test-using-makefile
