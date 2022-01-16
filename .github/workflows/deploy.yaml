@@ -6,7 +6,7 @@ on:
 
 jobs:
   bla1:
-    # runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     # container: docker://pandoc/core:2
     steps:
       - name: checkout repo
