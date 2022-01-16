@@ -16,7 +16,7 @@ jobs:
         run: mkdir Ablage
 
       - name: test ...
-        run: ls -la && sudo apt -y install make && make
+        run: ls -la && apt -y install make && make
 
       - name: Uhrzeit an Zeitzone anpassen ...
         uses: zcong1993/setup-timezone@master
