@@ -63,8 +63,6 @@ header.visual h1 {
 
 main {
   background-color:white;
-  font-size: 1.1em;
-  line-height:1.2;
   margin-bottom: 2em;
   border-bottom-left-radius: 18px;
   border-bottom-right-radius: 18px;
@@ -78,21 +76,24 @@ main {
   hyphens: auto;
 }
 
+main p {
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+}
+
 #index-mitteilungen main {
   grid-template-columns: repeat( auto-fit, minmax(340px, 1fr) );
   grid-gap: 24px;
 }
 
-main ul {
-  list-style-type: none;
-  padding-left: 0;
+main h2,
+main h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
 }
 
 main ul li {
-  padding-left: 1.6em;
-  text-indent: -1.6em;
-  padding-right: 1.6em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.4em;
 }
 
 main #refs .csl-entry {
@@ -131,6 +132,10 @@ main footer {
   grid-column-end: -1;
 }
 
+#formalia-rvw main h2 + p {
+  font-style: italic;
+}
+
 main footer {
   text-align: right;
 }
@@ -155,6 +160,7 @@ article:hover {
 
 article h3 {
   border-bottom: 1px solid gray;
+  margin-bottom: 1.2em;
 }
 
 article a {
@@ -257,7 +263,6 @@ article a:hover {
   }
 }
 
-/*allgemeine Anpassungen ab unter-769*/
 @media only screen and (max-width:768px){
   header.visual {
     margin-bottom:0;

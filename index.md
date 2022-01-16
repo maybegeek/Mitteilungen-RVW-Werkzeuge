@@ -16,7 +16,7 @@ rvw-back: ''
 <article>
 ## Formalia der Beiträge
 
-[Formalia](Gestaltungsrichtlinien-Mitteilungen-RVW.pdf)
+[Formalia](Gestaltungsrichtlinien-Mitteilungen-des-RVW.html)
 
 Handreichung und Ge&shy;stal&shy;tungs&shy;richt&shy;li&shy;nien für Beiträge der Mitteilungen des Regensburger Verbunds für Werbeforschung.
 </article>
