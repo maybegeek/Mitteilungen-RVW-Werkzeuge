@@ -1,33 +1,48 @@
-name: generate website ... RVW-Mitteilungen-Werkzeuge
+name: test-makefile
 
-on: push
+on:
+  push:
+    branches: [ master ]
 
 jobs:
-  generate_website:
-    runs-on: ubuntu-latest
-    container:
-      image: docker://pandoc/core:2
-      options: --entrypoint=sh
-    steps:
-      - name: Repository Checkout ...
-        uses: actions/checkout@v2
+build:
+  runs-on: ubuntu-latest
+  steps:
+  - name: checkout repo
+    uses: actions/checkout@v2
+  - name: build application
+    run: make
 
-      - name: Ablage erstellen ...
-        run: mkdir Ablage
-
-      - name: test ...
-        run: ls -la && apt-get -y install make && make
-
-      - name: Uhrzeit an Zeitzone anpassen ...
-        uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Europe/Berlin
-
-      - name: Zeitstempel erstellen ...
-        run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
-
-      - name: Datei zum internen Download bereitstellen ...
-        uses: actions/upload-artifact@master
-        with:
-          name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
-          path: Ablage
+# name: test-using-makefile
+#
+# on: push
+#
+# jobs:
+#   generate_website:
+#     runs-on: ubuntu-latest
+#     container:
+#       image: docker://pandoc/core:2
+#       options: --entrypoint=sh
+#     steps:
+#       - name: Repository Checkout ...
+#         uses: actions/checkout@v2
+#
+#       - name: Ablage erstellen ...
+#         run: mkdir Ablage
+#
+#       - name: test ...
+#         run: ls -la && apt-get -y install make && make
+#
+#       - name: Uhrzeit an Zeitzone anpassen ...
+#         uses: zcong1993/setup-timezone@master
+#         with:
+#           timezone: Europe/Berlin
+#
+#       - name: Zeitstempel erstellen ...
+#         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
+#
+#       - name: Datei zum internen Download bereitstellen ...
+#         uses: actions/upload-artifact@master
+#         with:
+#           name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
+#           path: Ablage
