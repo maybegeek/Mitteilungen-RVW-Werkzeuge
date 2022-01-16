@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
+          with:
+            fetch-depth: 1
+            ref: master
       - name: Ablage erstellen ...
         run: mkdir Ablage
       - name: Uhrzeit an Zeitzone anpassen ...
@@ -27,6 +30,9 @@ jobs:
         with:
           name: RVW-Werkzeuge-${{ env.MWDW_TIMESTAMP }}
           path: Makefile
+      - uses: actions/checkout@v2
+      - name: test make
+        run: make
 
 # name: test-using-makefile
 #
