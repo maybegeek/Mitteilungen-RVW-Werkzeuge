@@ -24,11 +24,7 @@ jobs:
         uses: docker://pandoc/core:2
         with:
           entrypoint: /bin/sh
-        run: make
-          # args: >-
-          #   -c "
-          #    make
-          #   "
+          args: make
 
       - name: Datei zum internen Download bereitstellen ...
         uses: actions/upload-artifact@master
