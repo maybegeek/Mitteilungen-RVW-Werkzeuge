@@ -14,6 +14,9 @@ jobs:
       - name: Ablage erstellen ...
         run: mkdir Ablage
       - uses: docker://pandoc/core:2
+        with:
+          entrypoint: /bin/sh
+          args: -c "make"
       - name: blabla
         run: |
           ls -la
