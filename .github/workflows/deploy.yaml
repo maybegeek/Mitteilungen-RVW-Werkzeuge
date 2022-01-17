@@ -19,7 +19,7 @@ jobs:
           ls -la
           make --version
       - name: sdfsdfsdf
-        run: pandoc --version
+        run: which pandoc
 
 # name: test-using-makefile
 #
