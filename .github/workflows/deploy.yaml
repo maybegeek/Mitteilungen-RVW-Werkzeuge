@@ -13,16 +13,9 @@ jobs:
         uses: actions/checkout@v2
       - name: Ablage erstellen ...
         run: mkdir Ablage
-      - uses: docker://pandoc/core:2
-        with:
-          entrypoint: /bin/sh
-          args: -c "make"
-      - name: blabla
-        run: |
-          ls -la
-          make --version
-      - name: sdfsdfsdf
-        run: which pandoc
+      - name: sdfsdfsdfsdfsdf
+        run: docker run -v $(pwd):/data -w /data pandoc/latex:2 sh -c 'make'
+
 
 # name: test-using-makefile
 #
