@@ -1,0 +1,21 @@
+name: pandoc-make-github-action
+on:
+  push:
+    branches:
+      - master
+jobs:
+  pandoc-make:
+    runs-on: ubuntu-latest
+    container:
+      image: pandoc/core:latest-ubuntu
+    steps:
+      - name: STEP-01 ... Installiere make
+        run: |
+          apt-get update
+          apt-get install make -y
+      - name: STEP-02 ... Dateien holen | `checkout@v2`
+        uses: actions/checkout@v2
+      - name: STEP-03 ... Ablage erstellen | `mkdir Ablage`
+        run: mkdir Ablage
+      - name: STEP-04 ... run `Makefile`
+        run: make
