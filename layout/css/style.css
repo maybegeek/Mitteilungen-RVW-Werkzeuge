@@ -1,3 +1,7 @@
+:root {
+  --rvw-article-round: 4px;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -152,7 +156,7 @@ article {
   font-size: 90%;
   margin: 0;
   background-color: white;
-  border-radius: 8px;
+  border-radius: var(--rvw-article-round);
   transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
   box-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.4);
   padding: 14px 20px;
@@ -163,7 +167,7 @@ article a {
 }
 
 article:hover {
-  box-shadow: 0 12px 28px rgba(0,0,0,0.3), 0 8px 10px rgba(0,0,0,0.4);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2), 0 6px 8px rgba(0,0,0,0.3);
 }
 
 article h3 {
@@ -178,9 +182,8 @@ article p a {
   display: block;
   text-align: center;
   padding: 20px 22px;
-  border: 1px solid white;
-  border-radius: 8px;
-  transition: background-color 0.3s, border 0.3s;
+  border-radius: var(--rvw-article-round);
+  transition: background-color 0.2s, border 0.2s;
   display: flex;
   gap: 0.5em;
   flex-direction: column;
@@ -189,7 +192,6 @@ article p a {
 
 article p a:hover {
   background-color: rgba(239,49,27,1);
-  border: 1px solid rgba(239,49,27,1);
   color: white;
 }
 
@@ -198,11 +200,12 @@ article p a img {
 }
 
 p.backlink img {
-  filter: invert(24%) sepia(63%) saturate(5072%) hue-rotate(355deg) brightness(99%) contrast(90%);
+  filter: invert(24%) sepia(56%) saturate(7325%) hue-rotate(355deg) brightness(100%) contrast(88%);
+  transition-duration: 0.2s;
 }
 
 p.backlink img:hover {
-  filter: invert(24%) sepia(56%) saturate(7325%) hue-rotate(356deg) brightness(102%) contrast(87%);
+  filter: invert(24%) sepia(56%) saturate(7325%) hue-rotate(355deg) brightness(200%) contrast(88%);
 }
 
 article p a img.svg-site {
@@ -224,8 +227,29 @@ img.svg-home {
 p.backlink {
   display: flex;
   flex-direction: row;
-  gap: 0.8em;
+  gap: 1.2em;
   align-items: center;
+}
+
+@media only screen and (max-width: 960px){
+  header {
+    margin-bottom: 0;
+  }
+  header.visual,
+  main {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: initial;
+  }
+  h1.site-title {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  header.visual {
+    margin-bottom: 0;
+  }
 }
 
 @media only screen and (max-width: 700px){
@@ -267,12 +291,26 @@ p.backlink {
   header.visual {
     background-size: 120px, 300px;
   }
+  main {
+    padding: 1.2em;
+  }
 }
 
 @media only screen and (max-width: 400px){
   header.visual {
     background-size: 115px, 280px;
     height: 230px;
+  }
+  #index-mitteilungen main {
+    padding: 0.4em;
+    grid-gap: 1.1em;
+  }
+  main article {
+    box-shadow: initial;
+    padding: 0;
+  }
+  main article:hover {
+    box-shadow: initial;
   }
 }
 
@@ -292,26 +330,5 @@ p.backlink {
 @media only screen and (max-width: 250px){
   header.visual {
     background-size: 100px, 220px;
-  }
-}
-
-@media only screen and (max-width: 960px){
-  header {
-    margin-bottom: 0;
-  }
-  header.visual,
-  main {
-    margin-top: 0;
-    margin-bottom: 0;
-    border-radius: initial;
-  }
-  h1.site-title {
-    margin-top: 0;
-  }
-}
-
-@media only screen and (max-width: 768px){
-  header.visual {
-    margin-bottom: 0;
   }
 }
