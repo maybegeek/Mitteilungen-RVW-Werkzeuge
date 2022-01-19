@@ -16,7 +16,7 @@ rvw-back: ''
 <article>
 ## Formalia der Beiträge
 
-[Formalia](Gestaltungsrichtlinien-Mitteilungen-des-RVW.html)
+[Formalia ![site](layout/css/file-svgrepo-com.svg){.svg-site}](Gestaltungsrichtlinien-Mitteilungen-des-RVW.html)
 
 Handreichung und Ge&shy;stal&shy;tungs&shy;richt&shy;li&shy;nien für Beiträge der Mitteilungen des Regensburger Verbunds für Werbeforschung.
 </article>
@@ -26,7 +26,7 @@ Handreichung und Ge&shy;stal&shy;tungs&shy;richt&shy;li&shy;nien für Beiträge 
 <article>
 ## Mitteilungen des RVW
 
-[Mitteilungen des RVW auf epub.ur.de&nbsp;&nbsp;&#8599;](https://epub.uni-regensburg.de/rvw.html)
+[Mitteilungen des RVW auf epub.ur.de ![external](layout/css/external-link-svgrepo-com.svg){.svg-external}](https://epub.uni-regensburg.de/rvw.html)
 
 Die Mitteilungen des RVW sind beim Publikationsserver der Universitätsbibliothek Regensburg zu finden.
 </article>
@@ -36,11 +36,11 @@ Die Mitteilungen des RVW sind beim Publikationsserver der Universitätsbibliothe
 <article>
 ## Bibliografie der Mitteilungen
 
-[Bibliografie der Beiträge](Mitteilungen-RVW-Bibliografie.html)
+[Bibliografie der Beiträge ![site](layout/css/file-svgrepo-com.svg){.svg-site}](Mitteilungen-RVW-Bibliografie.html)
 
-[Mitteilungen-RVW-Bibliografie.bib](Mitteilungen-RVW-Bibliografie.bib)
+[Mitteilungen-RVW-Bibliografie.bib ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](Mitteilungen-RVW-Bibliografie.bib)
 
-[Mitteilungen-RVW-Bibliografie.yaml](Mitteilungen-RVW-Bibliografie.yaml)
+[Mitteilungen-RVW-Bibliografie.yaml ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](Mitteilungen-RVW-Bibliografie.yaml)
 
 Die Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung“ einzeln verzeichnet und als `*.bib`- und `*.yaml`-Datei.
 </article>
@@ -50,11 +50,11 @@ Die Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung�
 <article>
 ## Bibliografie RVW-Mitglieder
 
-[Bibliografie RVW-Mitglieder](RVW-Publikationen.html)
+[Bibliografie RVW-Mitglieder ![site](layout/css/file-svgrepo-com.svg){.svg-site}](RVW-Publikationen.html)
 
-[RVW-Publikationen.bib](RVW-Publikationen.bib)
+[RVW-Publikationen.bib ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](RVW-Publikationen.bib)
 
-[RVW-Publikationen.yaml](RVW-Publikationen.yaml)
+[RVW-Publikationen.yaml ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](RVW-Publikationen.yaml)
 
 Die Literaturangaben unter der Rubrik „Publikationen“ der Website des RVW verzeichnet und als `*.bib`- und `*.yaml`-Datei.
 </article>
@@ -64,7 +64,7 @@ Die Literaturangaben unter der Rubrik „Publikationen“ der Website des RVW ve
 <article>
 ## Zitationsstil
 
-[Mitteilungen-RVW.csl](Mitteilungen-RVW.csl)
+[Mitteilungen-RVW.csl ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](Mitteilungen-RVW.csl)
 
 Den bisherigen Heften der „Mitteilungen des Regensburger Verbunds für Werbeforschung“ nachempfundener Zitationsstil zur Verwendung im eigenen Li&shy;te&shy;ra&shy;tur&shy;ver&shy;wal&shy;tungs- und Textverarbeitungs&shy;pro&shy;gramm als `*.csl`-Datei.
 </article>
@@ -74,7 +74,7 @@ Den bisherigen Heften der „Mitteilungen des Regensburger Verbunds für Werbefo
 <article>
 ## Website des RVW
 
-[https://werbeforschung.org&nbsp;&nbsp;&#8599;](https://werbeforschung.org)
+[https://werbeforschung.org ![external](layout/css/external-link-svgrepo-com.svg){.svg-external}](https://werbeforschung.org)
 
 Link zur Website des Regensburger Verbunds für Werbeforschung. Informationen zu Veranstaltungen, Mitgliedern, Publikationen usw.
 </article>
