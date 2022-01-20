@@ -8,7 +8,7 @@ html {
   background-color: rgb(223,223,223);
   color: rgb(86,96,96);
   display: grid;
-  grid-template-columns: minmax(300px, 960px);
+  grid-template-columns: minmax(260px, 960px);
   justify-content: center;
   font-family: 'VollkornRVW', serif;
 }
@@ -78,7 +78,7 @@ main {
 }
 
 #index-mitteilungen main {
-  grid-template-columns: repeat( auto-fit, minmax(340px, 1fr) );
+  grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
   grid-gap: 24px;
 }
 
@@ -303,6 +303,12 @@ main footer {
   main {
     padding: 1.2em;
   }
+  #refs .csl-entry {
+    padding-left: 0;
+    text-indent: 0;
+    padding-right: 0;
+    hyphens: auto;
+  }
 }
 
 @media only screen and (max-width: 400px) {
@@ -314,18 +320,31 @@ main footer {
     padding: 0.4em;
     grid-gap: 1.1em;
   }
-  main article {
+  #index-mitteilungen main article {
     box-shadow: initial;
     padding: 0;
   }
-  main article:hover {
+  #index-mitteilungen main article:hover {
     box-shadow: initial;
+  }
+  main ul,
+  main details > ul {
+    padding-left: 1em;
+  }
+  main .beispiel {
+    padding: 0;
   }
 }
 
 @media only screen and (max-width: 350px) {
+  html {
+    font-size: 80%;
+  }
   header.visual {
     background-size: 110px, 260px;
+  }
+  main {
+    padding: 0.6em;
   }
 }
 
