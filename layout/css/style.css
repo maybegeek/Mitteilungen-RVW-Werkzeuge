@@ -96,7 +96,8 @@ main ul li {
   margin-bottom: 0.4em;
 }
 
-main a {
+main a,
+details > summary {
   hyphens: none;
   color: rgb(0 0 0 / 0.7);
   text-decoration: underline dotted rgb(239 49 27 / 0.6) 2px;
@@ -104,9 +105,14 @@ main a {
   transition: all 0.2s;
 }
 
-main a:hover {
+main a:hover,
+details > summary:hover {
   color: rgb(0 0 0 / 0.9);
   text-decoration: underline dotted rgb(239 49 27 / 1) 2px;
+}
+
+details > summary {
+  cursor: pointer;
 }
 
 #index-mitteilungen main h2 {
@@ -236,6 +242,9 @@ main footer {
 }
 
 @media only screen and (max-width: 960px) {
+  body {
+    margin: 0;
+  }
   header.visual {
     margin-bottom: 0;
   }
@@ -243,9 +252,6 @@ main footer {
   main {
     margin: 0;
     border-radius: initial;
-  }
-  h1.site-title {
-    margin-top: 0;
   }
 }
 

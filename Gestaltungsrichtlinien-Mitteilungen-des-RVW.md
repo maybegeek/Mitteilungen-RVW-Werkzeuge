@@ -10,21 +10,25 @@ rvw-back: true
 ---
 
 
-# Gestaltungsrichtlinien RVW
+# Gestaltungsrichtlinien
 
 für Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“
 
-Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfache Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie bitte Einsicht in die schon veröffentlichten Ausgaben: [https://epub.ur.de/rvw.html](https://epub.ur.de/rvw.html)
+Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfache Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie bitte Einsicht in bisherige Veröffentlichungen auf der Übersichtsseite: [https://epub.ur.de/rvw.html](https://epub.ur.de/rvw.html) oder hier zum Ausklappen einzeln verlinkt:
 
-* [Heft 1 / 2013 : Schwerpunkt: ALTERnativ werben](https://epub.ur.de/29199/)
-* [Heft 2 / 2014 : Schwerpunkt: Werbung und Medizin](https://epub.ur.de/31508/)
-* [Heft 3 / 2015 : Schwerpunkt: Risiko!](https://epub.ur.de/33502/)
-* [Heft 4 / 2016 : Jubiläumsausgabe 10 Jahre RVW](https://epub.ur.de/34935/)
-* [Heft 5 / 2017 : Schwerpunkt: Aufgetischt!](https://epub.ur.de/36763/)
-* [Heft 6 / 2018 : Schwerpunkt: Out of Line](https://epub.ur.de/40579/)
-* [Heft 7 / 2019 : Schwerpunkt: Autonomes Fahren im Visier der Werbung](https://epub.ur.de/43467/)
-* [Heft 8 / 2020 : Schwerpunkt: Corona, Wein und Badeschaum](https://epub.ur.de/50903/)
+<details>
+<summary>Link bisheriger Hefte der <em>Mitteilungen</em></summary>
 
+* [Heft 1 (2013) / Schwerpunkt: ALTERnativ werben](https://epub.ur.de/29199/). [doi:]{.smallcaps} [10.5283/epub.29199](https://doi.org/10.5283/epub.29199).
+* [Heft 2 (2014) / Schwerpunkt: Werbung und Medizin](https://epub.ur.de/31508/). [doi:]{.smallcaps} [10.5283/epub.31508](https://doi.org/10.5283/epub.31508).
+* [Heft 3 (2015) / Schwerpunkt: Risiko!](https://epub.ur.de/33502/). [doi:]{.smallcaps} [10.5283/epub.33502](https://doi.org/10.5283/epub.33502).
+* [Heft 4 (2016) / Jubiläumsausgabe 10 Jahre RVW](https://epub.ur.de/34935/). [doi:]{.smallcaps} [10.5283/epub.34935](https://doi.org/10.5283/epub.34935).
+* [Heft 5 (2017) / Schwerpunkt: Aufgetischt!](https://epub.ur.de/36763/). [doi:]{.smallcaps} [10.5283/epub.36763](https://doi.org/10.5283/epub.36763).
+* [Heft 6 (2018) / Schwerpunkt: Out of Line](https://epub.ur.de/40579/). [doi:]{.smallcaps} [10.5283/epub.40579](https://doi.org/10.5283/epub.40579).
+* [Heft 7 (2019) / Schwerpunkt: Autonomes Fahren im Visier der Werbung](https://epub.ur.de/43467/). [doi:]{.smallcaps} [10.5283/epub.43467](https://doi.org./10.5283/epub.43467)
+* [Heft 8 (2020) / Corona, Wein und Badeschaum](https://epub.ur.de/50903/). [doi:]{.smallcaps} [10.5283/epub.50903](https://doi.org/10.5283/epub.50903).
+
+</details>
 
 ## Gestaltraster
 
