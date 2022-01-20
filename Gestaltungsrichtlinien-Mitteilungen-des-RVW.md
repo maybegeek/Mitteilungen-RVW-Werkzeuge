@@ -17,7 +17,7 @@ für Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung
 Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfache Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie bitte Einsicht in bisherige Veröffentlichungen auf der Übersichtsseite: [https://epub.ur.de/rvw.html](https://epub.ur.de/rvw.html) oder hier zum Ausklappen einzeln verlinkt:
 
 <details>
-<summary>Link bisheriger Hefte der <em>Mitteilungen</em></summary>
+<summary>Verlinkung bisheriger Hefte der <em>Mitteilungen</em>.</summary>
 
 * [Heft 1 (2013) / Schwerpunkt: ALTERnativ werben](https://epub.ur.de/29199/). [doi:]{.smallcaps} [10.5283/epub.29199](https://doi.org/10.5283/epub.29199).
 * [Heft 2 (2014) / Schwerpunkt: Werbung und Medizin](https://epub.ur.de/31508/). [doi:]{.smallcaps} [10.5283/epub.31508](https://doi.org/10.5283/epub.31508).
