@@ -1,0 +1,16 @@
+name: bibs-yaml-csl-2-doc
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  test:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: STEP-01 ... checkout
+        uses: actions/checkout@v2
+      - name: STEP-02 ... copy
+        run: cp biblio-mitteilungen.bib biblio-mitteilungen.yaml Mitteilungen-RVW.csl RVW-Publikationen.bib RVW-Publikationen.yaml -t docs/

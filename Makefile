@@ -1,4 +1,4 @@
-.PHONY : all md-to-html bib-to-yaml clean-yaml clean-html clean-all clean-bibs-yamls-csl-in-docs
+.PHONY : all md-to-html bib-to-yaml clean-yaml clean-html clean-all
 
 PANDOC_HTML = \
 	pandoc --standalone \
@@ -18,7 +18,7 @@ PANDOC_YAML = \
 
 DOCSDIR = docs
 MARKDOWN_DATEIEN  = $(wildcard *.md)
-MD_AUSLASSEN = README.md Gestaltungsrichtlinien-Mitteilungen-RVW.md
+MD_AUSLASSEN = README.md
 MARKDOWN_DATEIEN := $(filter-out $(MD_AUSLASSEN), $(MARKDOWN_DATEIEN))
 ZIEL_HTMLS = $(MARKDOWN_DATEIEN:%.md=$(DOCSDIR)/%.html)
 CSL_DATEI = Mitteilungen-RVW.csl
@@ -39,19 +39,11 @@ clean-html :
 clean-yaml :
 	rm $(ZIEL_YAMLS)
 
-clean-bibs-yamls-csl-in-docs :
-	rm $(addprefix $(DOCSDIR)/,$(BIB_DATEIEN))
-	rm $(addprefix $(DOCSDIR)/,$(ZIEL_YAMLS))
-	rm $(addprefix $(DOCSDIR)/,$(CSL_DATEI))
-
-clean-all : clean-yaml clean-html clean-bibs-yamls-csl-in-docs
+clean-all : clean-yaml clean-html
 
 $(DOCSDIR)/%.html : %.md $(CSL_DATEI) $(TMPL_DATEI) $(ZIEL_YAMLS)
 	@echo "* HTML-Datei erstellen: $@"
 	$(PANDOC_HTML)
-	cp $(BIB_DATEIEN) -t $(DOCSDIR)/
-	cp $(ZIEL_YAMLS) -t $(DOCSDIR)/
-	cp $(CSL_DATEI) -t $(DOCSDIR)/
 
 %.yaml : %.bib
 	@echo "* YAML-Datei erstellen: $@"
