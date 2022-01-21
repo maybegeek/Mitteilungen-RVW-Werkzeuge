@@ -175,7 +175,8 @@ article p a:hover img {
   hyphens: none;
 }
 
-#refs .csl-entry a {
+#refs .csl-entry a,
+main .beispiel p a {
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-all;
