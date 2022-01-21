@@ -5,7 +5,7 @@ keywords: Gestaltungsrichtlinien, RVW
 description-meta: Gestaltungsrichtlinien der Mitteilungen des RVW
 lang: de-DE
 css: layout/css/style.css
-page-slug: formalia-rvw
+page-slug: formalia
 rvw-back: true
 ---
 

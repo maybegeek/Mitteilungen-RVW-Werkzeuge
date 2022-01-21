@@ -5,7 +5,7 @@ keywords: Impressum, RVW
 description-meta: Impressum für Mitteilungen des RVW – Hinweise und Werkzeuge
 lang: de-DE
 css: layout/css/style.css
-page-slug: biblio-rvw
+page-slug: impressum
 rvw-back: true
 ---
 

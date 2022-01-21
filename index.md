@@ -5,7 +5,7 @@ keywords: RVW, Mitteilungen des RVW, Hinweise und Werkzeuge
 description-meta: Hinweise und Werkzeuge für die Mitteilungen des RVW. Über Formalia zur Einreichung der Beiträge bis hin zu einem verwendbaren Zitationsstil als *.csl-Datei, Bibliografie der Mitteilungen des RVW und weiterer Dokumentation.
 lang: de-DE
 css: layout/css/style.css
-page-slug: index-mitteilungen
+page-slug: index
 rvw-back: ''
 ---
 
@@ -41,13 +41,13 @@ Die Mitteilungen des RVW sind beim Publikationsserver der Universitätsbibliothe
 
 ## Bibliografie der Mitteilungen
 
-[Bibliografie der Beiträge ![site](layout/css/file-svgrepo-com.svg){.svg-site}](Mitteilungen-RVW-Bibliografie.html)
+[Bibliografie der Beiträge ![site](layout/css/file-svgrepo-com.svg){.svg-site}](biblio-mitteilungen.html)
 
 ::: {.half}
 
-[als *.bib ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](Mitteilungen-RVW-Bibliografie.bib)
+[als *.bib ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](biblio-mitteilungen.bib)
 
-[als *.yaml ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](Mitteilungen-RVW-Bibliografie.yaml)
+[als *.yaml ![download](layout/css/download-square-svgrepo-com.svg){.svg-download}](biblio-mitteilungen.yaml)
 
 :::
 
@@ -61,7 +61,7 @@ Die Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung�
 
 ## Bibliografie RVW-Mitglieder
 
-[Bibliografie RVW-Mitglieder ![site](layout/css/file-svgrepo-com.svg){.svg-site}](RVW-Publikationen.html)
+[Bibliografie RVW-Mitglieder ![site](layout/css/file-svgrepo-com.svg){.svg-site}](biblio-rvw.html)
 
 ::: {.half}
 

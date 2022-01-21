@@ -77,7 +77,7 @@ main {
   hyphens: auto;
 }
 
-#index-mitteilungen main {
+#index main {
   grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
   grid-gap: 24px;
 }
@@ -115,11 +115,11 @@ details > summary {
   cursor: pointer;
 }
 
-#index-mitteilungen main h2 {
+#index main h2 {
   grid-column: 1 / -1;
 }
 
-#formalia-rvw h2 + p {
+#formalia h2 + p {
   font-style: italic;
 }
 
@@ -316,15 +316,15 @@ main footer {
     background-size: 115px, 280px;
     height: 230px;
   }
-  #index-mitteilungen main {
+  #index main {
     padding: 0.4em;
     grid-gap: 1.1em;
   }
-  #index-mitteilungen main article {
+  #index main article {
     box-shadow: initial;
     padding: 0;
   }
-  #index-mitteilungen main article:hover {
+  #index main article:hover {
     box-shadow: initial;
   }
   main ul,
