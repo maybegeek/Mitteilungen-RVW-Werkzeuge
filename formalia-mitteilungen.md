@@ -14,7 +14,9 @@ rvw-back: true
 
 für Beiträge der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“
 
-Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfache Übernahme ins Layout der Zeitschrift zu ermöglichen. Zur Orientierung nehmen sie bitte Einsicht in bisherige Veröffentlichungen auf der Übersichtsseite: [https://epub.ur.de/rvw.html](https://epub.ur.de/rvw.html) oder hier zum Ausklappen einzeln verlinkt:
+Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW“ sollten entlang folgender Regeln verfasst werden, um Einheitlichkeit hinsichtlich der Formalia zu gewährleisten, wie auch die einfache Übernahme ins Layout der Zeitschrift zu ermöglichen.
+
+Zur Orientierung nehmen sie bitte Einsicht in bisherige Veröffentlichungen auf der Übersichtsseite: [https://epub.ur.de/rvw.html](https://epub.ur.de/rvw.html) oder hier zum Ausklappen einzeln verlinkt:
 
 <details>
 <summary>Verlinkung bisheriger Hefte der <em>Mitteilungen</em>.</summary>
@@ -32,9 +34,7 @@ Artikel der „Mitteilungen des Regensburger Verbunds für Werbeforschung – RV
 
 ## Gestaltraster
 
-Für das Magazin „Mitteilungen des RVW“ wurde ein zweispaltiges Gestaltraster unter Verwendung der Seitengröße DIN A4 verwendet. Das konventionelle Seitenformat wurde gewählt, da auf ein digitales Erscheinen abgestellt wird. Zweispaltigkeit wurde gewählt, da die Seitenbreite zwar genutzt werden soll, allerdings einspaltiger Satz in Verbindung mit dann hoher Zeichenanzahl der Lesbarkeit abträglich ist.
-
-Ihr Text kann zweispaltig oder einspaltig eingereicht werden, obige Informationen sollen dem besseren Verständnis dienen, und Ihnen schon vorab ein ungefähres Bild Ihres Artikels im Layout der Zeitschrift liefern.
+Für das Online-Magazin „Mitteilungen des RVW“ wurde ein zweispaltiges Gestaltraster unter Verwendung der Seitengröße DIN A4 verwendet.
 
 
 ## Formatierungen im Text
@@ -50,7 +50,7 @@ Der Titel und Untertitel Ihres Beitrags und Ihr Autorenname werden einspaltig ü
 
 ## Textstruktur der Gliederungsebene
 
-Zur Gliederung Ihres Textes stehen Ihnen bevorzugt nicht nummerierte Überschriften zur Verfügung. Wir würden vorschlagen nicht tiefer als bis zur dritten Überschriften-Ebene aufzugliedern. Wir bemühen uns die semantische Struktur -- welche Sie Ihrem Text auf Gliederungsebene mitgegeben haben -- auch in unserem Layout zu realisieren.
+Zur Gliederung Ihres Textes stehen Ihnen bevorzugt nicht nummerierte Überschriften zur Verfügung. Vermeiden Sie bitte, tiefer als bis zur dritten Überschriften-Ebene aufzugliedern.
 
 
 ## Zitation/Fußnoten
@@ -61,7 +61,7 @@ Es obliegt Ihrer Art des wissenschaftlichen Schreibens, welche Form/Formen Sie w
 
 ## Literaturangaben
 
-Das Einhalten der bibliographischen Darstellung wie in den „Mitteilungen des RVW“ gepflegt ist nicht zwingend notwendig. **Zwingend ist allerdings die Vollständigkeit der Angaben, gerade für Internetquellen; Abbildungen (Bildlegende inkl. Quelle, Urheber!); Werbeanzeigen.**
+Achten Sie bitte auf die Vollständigkeit der Angaben, gerade für Internetquellen; Abbildungen (Bildlegende inkl. Quelle, Urheber!) und Werbeanzeigen.
 
 :::{.beispiel}
 
@@ -79,17 +79,17 @@ Autor (Entstehungsdatum soweit recherchierbar). *Titel*. URL – Zugriffsdatum.
 
 Firma (Entstehungsdatum). *Titel*. Quelle. (bei Internetquellen zusätzlich URL und Zugriffsdatum)
 
-\voll{}Doppelherz (2007). *„Sitznachbar“* [Werbung]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+\voll{}Doppelherz (2007). *Sitznachbar* [Werbung]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 :::
 
 ## Verwendung von Bildern
 
-Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, dass wir bei Bildern dem Prinzip des „Floatings“ folgen müssen: **Referenzieren Sie im Text auf Abbildungen und deren Abbildungsnummer, da die Abbildung selbst ggfs. nicht am Ort des Referenzierens gesetzt werden kann.**
+Grafiken werden in einer Spalte gesetzt. Hieraus resultiert allerdings auch, dass wir bei Bildern dem Prinzip des „Floatings“ folgen müssen: Referenzieren Sie im Text auf Abbildungen und deren Abbildungsnummer, da die Abbildung selbst ggfs. nicht am Ort des Referenzierens gesetzt werden kann.
 
 
 ## Einreichung
 
-Einreichung als Textdatei (Formate: Word {`*.doc`,`*.docx`} oder Libre-Office {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** mitversandt werden.
+Einreichung als Textdatei (Formate: Word {`*.doc`, `*.docx`} oder LibreOffice {`*.odt`}), wobei die referenzierten Bilder als **eigenständige Dateien** mitversandt werden.
 
 Vielen Dank für Ihre Mühen.
