@@ -77,7 +77,7 @@ Autor (Entstehungsdatum soweit recherchierbar). *Titel*. [URL]{.smallcaps} – Z
 
 ### Beispiel Werbeanzeige:
 
-Firma (Entstehungsdatum). *Titel*. Quelle. (bei Internetquellen zusätzlich URL und Zugriffsdatum)
+Firma (Entstehungsdatum). *Titel*. Quelle. (bei Internetquellen zusätzlich [URL]{.smallcaps} und Zugriffsdatum)
 
 \voll{}Doppelherz (2007). *Sitznachbar* [Werbung]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
