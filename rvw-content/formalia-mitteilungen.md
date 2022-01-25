@@ -67,9 +67,9 @@ Achten Sie bitte auf die Vollständigkeit der Angaben, gerade für Internetquell
 
 ### Beispiel Internetquelle:
 
-Autor (Entstehungsdatum soweit recherchierbar). *Titel*. URL – Zugriffsdatum.
+Autor (Entstehungsdatum soweit recherchierbar). *Titel*. [URL]{.smallcaps} – Zugriffsdatum.
 
-\voll{}Kuball, Marianne & Reden-Lütcken, Katharina von (2009). *Schönes Haar in jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful Age-Linie*. URL: [http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/](http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/) – Zugriff: 1.5.2013.
+\voll{}Kuball, Marianne & Reden-Lütcken, Katharina von (2009). *Schönes Haar in jedem Alter – Draftfcb kreiert Kampagne für neue NIVEA beautiful Age-Linie*. [URL:]{.smallcaps} [http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/](http://www.draftfcb.de/de/pressebereich/neues-von-draftfcb/schoenes-haar-in-jedem-alter-draftfcb-kreiert-kampagne-fuer-neue-nivea-beautiful-age-linie-75/) – Zugriff: 1.5.2013.
 
 :::
 
