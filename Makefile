@@ -32,6 +32,7 @@ DO_SYNCBIBLIO :
 
 $(DIR_RVWBIBLIO)/%.yaml: $(DIR_RVWBIBLIO)/%.bib
 	$(PANDOC_YAML)
+	$(PANDOC_HUGO)
 
 $(DIR_OUTPUT)/%.csl: $(DIR_RVWCSL)/%.csl
 	rsync -avhzPu $< $(DIR_OUTPUT)/$(notdir $<)
@@ -45,6 +46,11 @@ PANDOC_HTML   = pandoc --standalone --wrap=none --citeproc --from markdown \
 	--metadata date-meta="`date +'%Y-%m-%d'`" $< -o $@
 
 PANDOC_YAML   = pandoc --standalone --from biblatex --to markdown-smart $< -o $@
+
+PANDOC_HUGO   = pandoc --from=markdown $(DIR_RVWBIBLIO)/RVW-web.md \
+	-C --biblio=$(DIR_RVWBIBLIO)/RVW-Publikationen.yaml \
+	--csl=$(DIR_RVWBIBLIO)/RVW-web.csl --lua-filter=$(DIR_RVWBIBLIO)/RVW-web.lua \
+	--to=html5 -o $(DIR_RVWBIBLIO)/RVW-web.htm
 
 DO_CLEANOUTPUT :
 	rm -rf $(DIR_OUTPUT)/*
