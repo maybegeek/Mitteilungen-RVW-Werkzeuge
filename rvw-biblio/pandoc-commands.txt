@@ -1,0 +1,8 @@
+# bib to yaml
+
+pandoc RVW-Publikationen.bib -s -f biblatex -t markdown-smart --template RVW-Publikationen-yaml-template.txt > RVW-Publikationen.yaml
+
+
+# yaml to html for hugo
+
+pandoc --from=markdown RVW-web.md -C --biblio=RVW-Publikationen.yaml --csl=RVW-web.csl --lua-filter=RVW-web.lua --to=html5 -o RVW-web.htm
