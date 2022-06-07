@@ -7,6 +7,8 @@ lang: de-DE
 css: layout/css/style.css
 page-slug: impressum
 rvw-back: true
+date: '22. April 2022'
+date-meta: 2022-04-22
 ---
 
 

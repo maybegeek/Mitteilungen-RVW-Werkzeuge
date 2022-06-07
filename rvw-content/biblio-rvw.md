@@ -14,6 +14,8 @@ link-bibliography: true
 css: layout/css/style.css
 page-slug: biblio-rvw
 rvw-back: true
+date-meta: 2022-06-07
+date: '7. Juni 2022'
 ---
 
 

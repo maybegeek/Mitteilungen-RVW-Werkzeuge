@@ -7,6 +7,8 @@ lang: de-DE
 css: layout/css/style.css
 page-slug: index
 rvw-back: ''
+date-meta: 2022-06-07
+date: '7. Juni 2022'
 ---
 
 
