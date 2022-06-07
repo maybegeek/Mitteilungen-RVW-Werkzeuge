@@ -26,9 +26,9 @@ echo " "
 pandoc $D_BIBLIO/biblio-mitteilungen.bib -s --from=biblatex --to=markdown-smart --template=$D_BIBLIO/biblio-mitteilungen-yaml-template.txt --output=$D_BIBLIO/biblio-mitteilungen.yaml
 echo " "
 
-echo "#####"
-echo "# 3 #"
-echo "#####"
+echo "#######"
+echo "# 3.1 #"
+echo "#######"
 echo ".yaml nach .htm für hugo"
 echo "RVW-web.md mit"
 echo "RVW-web.yaml mit"
@@ -36,7 +36,16 @@ echo "RVW-web.csl und"
 echo "RVW-web.lua nach"
 echo "RVW-web.htm."
 echo " "
-pandoc --from=markdown $D_BIBLIO/RVW-web.md -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml --csl=$D_CSL/RVW-web.csl --lua-filter=$D_BIBLIO/RVW-web.lua --to=html5 --output=$D_BIBLIO/RVW-web.htm
+pandoc --verbose --from=markdown $D_BIBLIO/RVW-web.md -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml --csl=$D_CSL/RVW-web.csl --lua-filter=$D_BIBLIO/RVW-web.lua --to=html5 --output=$D_BIBLIO/RVW-web.htm
+echo " "
+
+echo "#######"
+echo "# 3.2 #"
+echo "#######"
+echo ".yaml nach .htm für hugo"
+echo "..."
+echo " "
+pandoc --verbose --from=markdown $D_BIBLIO/bib-mitteilungen-web.md -C --biblio=$D_BIBLIO/biblio-mitteilungen.yaml --csl=$D_CSL/Mitteilungen-RVW.csl --to=html5 --output=$D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
 echo "#####"
@@ -51,6 +60,7 @@ echo "* Mitteilungen-RVW.csl"
 echo "* RVW-web.csl"
 echo "* RVW-web.htm"
 echo "* RVW-web.lua"
+echo "* bib-mitteilungen-web.htm"
 echo " "
 rsync -avhzPu --checksum \
   $D_BIBLIO/biblio-mitteilungen.bib \
@@ -58,6 +68,7 @@ rsync -avhzPu --checksum \
   $D_BIBLIO/RVW-Publikationen.bib \
   $D_BIBLIO/RVW-Publikationen.yaml \
   $D_BIBLIO/RVW-web.htm \
+  $D_BIBLIO/bib-mitteilungen-web.htm \
   $D_BIBLIO/RVW-web.lua \
   $D_CSL/Mitteilungen-RVW.csl \
   $D_CSL/RVW-web.csl \
