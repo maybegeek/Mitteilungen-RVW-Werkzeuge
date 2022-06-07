@@ -1,0 +1,9 @@
+# biblio-mitteilungen.bib
+# biblio-mitteilungen.yaml
+#
+# Bibliografie der
+# Mitteilungen des Regensburger Verbunds für Werbeforschung
+
+$if(titleblock)$
+$titleblock$
+$endif$
