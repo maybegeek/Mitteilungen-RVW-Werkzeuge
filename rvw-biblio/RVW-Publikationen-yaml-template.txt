@@ -1,0 +1,10 @@
+# RVW-Publikationen.bib
+#
+# Themenspezifisch relevante
+# Veröffentlichungen der
+# RVW-Mitglieder.
+
+$if(titleblock)$
+$titleblock$
+$endif$
+
