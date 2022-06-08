@@ -43,9 +43,19 @@ echo "#######"
 echo "# 3.2 #"
 echo "#######"
 echo ".yaml nach .htm für hugo"
-echo "..."
+echo "RVW-Mitteilungen"
 echo " "
 pandoc --verbose --from=markdown $D_BIBLIO/bib-mitteilungen-web.md -C --biblio=$D_BIBLIO/biblio-mitteilungen.yaml --csl=$D_CSL/Mitteilungen-RVW.csl --to=html5 --output=$D_BIBLIO/bib-mitteilungen-web.htm
+echo " "
+
+echo "#######"
+echo "# 3.3 #"
+echo "#######"
+echo ".yaml nach .htm für hugo"
+echo "RVW-Publikationen"
+echo "alphabetisch"
+echo " "
+pandoc --verbose --from=markdown $D_BIBLIO/RVW-web.md -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml --csl=$D_CSL/Mitteilungen-RVW.csl --to=html5 --output=$D_BIBLIO/RVW-alpha-web.htm
 echo " "
 
 echo "#####"
@@ -59,6 +69,7 @@ echo "* RVW-Publikationen.bib"
 echo "* Mitteilungen-RVW.csl"
 echo "* RVW-web.csl"
 echo "* RVW-web.htm"
+echo "* RVW-web-alpha.htm"
 echo "* RVW-web.lua"
 echo "* bib-mitteilungen-web.htm"
 echo " "
@@ -68,6 +79,7 @@ rsync -avhzPu --checksum \
   $D_BIBLIO/RVW-Publikationen.bib \
   $D_BIBLIO/RVW-Publikationen.yaml \
   $D_BIBLIO/RVW-web.htm \
+  $D_BIBLIO/RVW-alpha-web.htm \
   $D_BIBLIO/bib-mitteilungen-web.htm \
   $D_BIBLIO/RVW-web.lua \
   $D_CSL/Mitteilungen-RVW.csl \
