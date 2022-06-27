@@ -13,17 +13,23 @@ echo ".bib nach .yaml konvertieren"
 echo "RVW-Publikationen.bib nach"
 echo "RVW-Publikationen.yaml."
 echo " "
-pandoc $D_BIBLIO/RVW-Publikationen.bib -s --from=biblatex --to=markdown-smart --template=$D_BIBLIO/RVW-Publikationen-yaml-template.txt --output=$D_BIBLIO/RVW-Publikationen.yaml
+pandoc $D_BIBLIO/RVW-Publikationen.bib \
+--verbose -s -f biblatex -t markdown-smart \
+--template=$D_BIBLIO/RVW-Publikationen-yaml-template.txt \
+-o $D_BIBLIO/RVW-Publikationen.yaml
 echo " "
 
 echo "#####"
 echo "# 2 #"
 echo "#####"
 echo ".bib nach .yaml konvertieren"
-echo "RVW-Publikationen.bib nach"
-echo "RVW-Publikationen.yaml."
+echo "biblio-mitteilungen.bib nach"
+echo "biblio-mitteilungen.yaml."
 echo " "
-pandoc $D_BIBLIO/biblio-mitteilungen.bib -s --from=biblatex --to=markdown-smart --template=$D_BIBLIO/biblio-mitteilungen-yaml-template.txt --output=$D_BIBLIO/biblio-mitteilungen.yaml
+pandoc $D_BIBLIO/biblio-mitteilungen.bib \
+--verbose -s -f biblatex -t markdown-smart \
+--template=$D_BIBLIO/biblio-mitteilungen-yaml-template.txt \
+-o $D_BIBLIO/biblio-mitteilungen.yaml
 echo " "
 
 echo "#######"
@@ -36,7 +42,10 @@ echo "RVW-web.csl und"
 echo "RVW-web.lua nach"
 echo "RVW-web.htm."
 echo " "
-pandoc --verbose --from=markdown $D_BIBLIO/RVW-web.md -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml --csl=$D_CSL/RVW-web.csl --lua-filter=$D_BIBLIO/RVW-web.lua --to=html5 --output=$D_BIBLIO/RVW-web.htm
+pandoc $D_BIBLIO/RVW-web.md \
+--verbose -f markdown -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml \
+--csl=$D_CSL/RVW-web.csl --lua-filter=$D_BIBLIO/RVW-web.lua \
+-t html5 -o $D_BIBLIO/RVW-web.htm
 echo " "
 
 echo "#######"
@@ -45,7 +54,10 @@ echo "#######"
 echo ".yaml nach .htm für hugo"
 echo "RVW-Mitteilungen"
 echo " "
-pandoc --verbose --from=markdown $D_BIBLIO/bib-mitteilungen-web.md -C --biblio=$D_BIBLIO/biblio-mitteilungen.yaml --csl=$D_CSL/Mitteilungen-RVW.csl --to=html5 --output=$D_BIBLIO/bib-mitteilungen-web.htm
+pandoc $D_BIBLIO/bib-mitteilungen-web.md \
+--verbose -f markdown -C --biblio=$D_BIBLIO/biblio-mitteilungen.yaml \
+--csl=$D_CSL/RVW-web.csl \
+-t html5 -o $D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
 echo "#######"
@@ -55,7 +67,10 @@ echo ".yaml nach .htm für hugo"
 echo "RVW-Publikationen"
 echo "alphabetisch"
 echo " "
-pandoc --verbose --from=markdown $D_BIBLIO/RVW-web.md -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml --csl=$D_CSL/Mitteilungen-RVW.csl --to=html5 --output=$D_BIBLIO/RVW-alpha-web.htm
+pandoc $D_BIBLIO/RVW-web.md \
+--verbose -f markdown -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml \
+--csl=$D_CSL/RVW-web.csl \
+-t html5 -o $D_BIBLIO/RVW-alpha-web.htm
 echo " "
 
 echo "#####"
