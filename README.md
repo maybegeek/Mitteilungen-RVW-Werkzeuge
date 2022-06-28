@@ -1,2 +1,2 @@
 
-[https://maybegeek.github.io/Mitteilungen-RVW-Werkzeuge/](https://maybegeek.github.io/Mitteilungen-RVW-Werkzeuge/)
+[https://werbeforschung.org/tools/](https://werbeforschung.org/tools/)
