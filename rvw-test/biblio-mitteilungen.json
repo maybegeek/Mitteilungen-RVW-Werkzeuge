@@ -3494,5 +3494,186 @@
     "page": "31-42",
     "title": "„Von Eltern empfohlen – von Kindern geliebt“. Wie Tinti, SauBär & Co. mit ihren Verpackungen Eltern und Kinder ansprechen",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.52451",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/52451/1/Mitteilungen_RVW_9-2021.pdf",
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:9",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de",
+    "title": "Sonderausgabe: Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "title-short": "Sonderausgabe",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.52451",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/52451/1/Mitteilungen_RVW_9-2021.pdf#page=4",
+    "author": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Sonderausgabe: Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:9:editorial",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de",
+    "page": "4",
+    "title": "Editorial",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.52451",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/52451/1/Mitteilungen_RVW_9-2021.pdf#page=5",
+    "author": [
+      {
+        "family": "Lohr",
+        "given": "Dieter"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Sonderausgabe: Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:9:spots",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de",
+    "page": "5-56",
+    "title": "Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "title-short": "Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.52451",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/52451/1/Mitteilungen_RVW_9-2021.pdf#page=57",
+    "author": [
+      {
+        "family": "Koller",
+        "given": "Franziska"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Sonderausgabe: Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:9:autowerbung",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de",
+    "page": "57-59",
+    "title": "Automobilwerbung in Zeiten der Pandemie: Im Lockdown Imagebildung statt Produktwerbung (in: Notizen)",
+    "title-short": "Automobilwerbung in Zeiten der Pandemie",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.52451",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/52451/1/Mitteilungen_RVW_9-2021.pdf#page=59",
+    "author": [
+      {
+        "family": "Gerber",
+        "given": "Gabriele"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Sonderausgabe: Die Kino- und Fernseh-Werbespots der Sammlung Geldmacher: Eine Sichtung",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:9:zeit",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de",
+    "page": "59-60",
+    "title": "„Zeit im Fluss“ mit dem Werbefunkarchiv (in: Notizen)",
+    "title-short": "„Zeit im Fluss“ mit dem Werbefunkarchiv (in",
+    "type": "article-journal"
   }
 ]
