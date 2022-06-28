@@ -104,34 +104,36 @@ pandoc $D_BIBLIO/RVW-web.md \
 -o $D_TEST/biblio-mitteilungen-json.htm
 echo " "
 
-echo "# # # # # # # # # # # #"
-echo "# 8                   #"
-echo "# test .bib to .htm   #"
-echo "# Hauptdokument!!!    #"
-echo "# biblio-mitteilungen #"
-echo "# # # # # # # # # # # #"
+echo "# # # # # # # # # # # # # # # #"
+echo "# 8                           #"
+echo "# bib-mitteilungen-web.htm    #"
+echo "# # # # # # # # # # # # # # # #"
 echo " "
 pandoc $D_BIBLIO/RVW-web.md \
 --verbose \
 -f markdown \
--C --biblio=$D_BIBLIO/biblio-mitteilungen.bib \
+-C --biblio=$D_TEST/biblio-mitteilungen.yaml \
 --csl=$D_CSL/Mitteilungen-RVW.csl \
 -t html5 \
 -o $D_TEST/bib-mitteilungen-web.htm
 echo " "
 
-echo "# # # # # # # # # # # # # # # # # # # # # # #"
-echo "# 9                                         #"
-echo "# diff3 file1 file2 file3                   #"
-echo "# file1 = biblio-mitteilungen-biblatex.htm  #"
-echo "# file2 = biblio-mitteilungen-yaml.htm      #"
-echo "# file3 = biblio-mitteilungen-json.htm      #"
-echo "# # # # # # # # # # # # # # # # # # # # # # #"
+echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
+echo "# 9                                                 #"
+echo "# diff                                              #"
+echo "# file1 = rvw-test/biblio-mitteilungen-biblatex.htm #"
+echo "# file2 = rvw-test/biblio-mitteilungen-yaml.htm     #"
+echo "# file3 = rvw-test/biblio-mitteilungen-json.htm     #"
+echo "# file4 = rvw-test/bib-mitteilungen-web.htm         #"
+echo "# file5 = rvw-biblio/bib-mitteilungen-web.htm       #"
+echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
 echo " "
-diff3 \
+diff --unified=0 --from-file \
 $D_TEST/biblio-mitteilungen-biblatex.htm \
 $D_TEST/biblio-mitteilungen-yaml.htm \
-$D_TEST/biblio-mitteilungen-json.htm
+$D_TEST/biblio-mitteilungen-json.htm \
+$D_TEST/bib-mitteilungen-web.htm \
+$D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
 exit 1
