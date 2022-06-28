@@ -33,7 +33,7 @@
     <term name="anonymous" form="short">o.&#8239;A.</term>
     <term name="no date" form="short">o.&#8239;J.</term>
     <term name="editor" form="short">Hg.</term>
-    <term name="issue">Heft</term>
+    <term name="issue">Nr.</term>
     <term name="collection-editor" form="short">Hg.</term>
     <term name="editorial-director" form="short">Hg.</term>
     <term name="editortranslator" form="short">Hg. und Übers.</term>
@@ -301,12 +301,20 @@
 <macro name="locators">
   <choose>
     <!-- Zeitschriftenartikel -->
-    <!-- nur Heft: ", Heft " | Band und Heft-Nr: ", #(#)" -->
+    <!-- nur Nr./Heft: ", Nr. " | Band und Heft-Nr: ", #(#)" -->
+    <!-- wenn nur Ziffern, dann as-is; sonst verbatim ohne "Nr."-->
     <if type="article-journal">
       <choose>
         <if variable="volume" match="none">
-          <text term="issue" prefix=", " suffix="&#8201;"/>
-          <text variable="issue"/>
+          <choose>
+            <if is-numeric="issue">
+              <text term="issue" prefix=", " suffix="&#8201;"/>
+              <text variable="issue"/>
+            </if>
+            <else>
+              <text prefix=", " variable="issue"/>
+            </else>
+          </choose>
         </if>
         <else>
           <text variable="volume" prefix=", "/>
