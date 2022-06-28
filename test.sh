@@ -117,7 +117,7 @@ pandoc $D_BIBLIO/RVW-web.md \
 -C --biblio=$D_BIBLIO/biblio-mitteilungen.bib \
 --csl=$D_CSL/Mitteilungen-RVW.csl \
 -t html5 \
--o $D_TEST/biblio-mitteilungen-web.htm
+-o $D_TEST/bib-mitteilungen-web.htm
 echo " "
 
 echo "# # # # # # # # # # # # # # # # # # # # # # #"
