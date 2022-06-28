@@ -9,6 +9,7 @@ nocite: "[@*]"
 references:
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -21,6 +22,7 @@ references:
   issued: 2013
   language: de
   title: "Schwerpunkt: ALTERnativ werben"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/29199/1/Mitteilungen_RVW_1-2013.pdf"
 - author:
@@ -30,6 +32,7 @@ references:
     given: Sandra
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -50,6 +53,7 @@ references:
     given: Bernhard J.
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -71,6 +75,7 @@ references:
     given: Gabriele
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -94,6 +99,7 @@ references:
     given: Sandra
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -115,6 +121,7 @@ references:
     given: Martin
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -135,6 +142,7 @@ references:
     given: Sandra
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -156,6 +164,7 @@ references:
     given: Jörg
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -176,6 +185,7 @@ references:
     given: Christoph
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -196,6 +206,7 @@ references:
     given: Rosa
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -216,6 +227,7 @@ references:
     given: Gabriele
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: ALTERnativ werben"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.29199
   editor:
   - family: Dotzler
@@ -229,10 +241,12 @@ references:
   language: de
   page: 71
   title: "Rückblicke (in: Notizen)"
+  title-short: Rückblicke (in
   type: article-journal
   url: "https://epub.ur.de/29199/1/Mitteilungen_RVW_1-2013.pdf#page=71"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -245,6 +259,7 @@ references:
   issued: 2014
   language: de
   title: "Schwerpunkt: Werbung und Medizin"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/31508/1/Mitteilungen_RVW_2-2014.pdf"
 - author:
@@ -254,6 +269,7 @@ references:
     given: Sandra
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -274,6 +290,7 @@ references:
     given: Nina
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -295,6 +312,7 @@ references:
     given: Kateřina
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -318,6 +336,7 @@ references:
     given: Jörg
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -341,6 +360,7 @@ references:
     given: Maximilian
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -361,6 +381,7 @@ references:
     given: Jan
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -381,6 +402,7 @@ references:
     given: Doris
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -402,6 +424,7 @@ references:
     given: Rogier
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -428,6 +451,7 @@ references:
     given: Marlene
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -449,6 +473,7 @@ references:
     given: Christian
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Werbung und Medizin"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.31508
   editor:
   - family: Dotzler
@@ -466,6 +491,7 @@ references:
   url: "https://epub.ur.de/31508/1/Mitteilungen_RVW_2-2014.pdf#page=85"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -479,6 +505,7 @@ references:
   language: de
   title: "Schwerpunkt: Risiko! Wie sicher ist die Werbung mit der
     Sicherheit?"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/33502/1/Mitteilungen_RVW_3-2015_090316.pdf"
 - author:
@@ -489,6 +516,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -510,6 +538,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -532,6 +561,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -554,6 +584,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -576,6 +607,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -598,6 +630,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -619,6 +652,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -644,6 +678,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -667,6 +702,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Risiko! Wie sicher ist die
     Werbung mit der Sicherheit?"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.33502
   editor:
   - family: Dotzler
@@ -685,6 +721,7 @@ references:
   url: "https://epub.ur.de/33502/1/Mitteilungen_RVW_3-2015_090316.pdf#page=84"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -696,7 +733,7 @@ references:
   issue: 4
   issued: 2016
   language: de
-  title: Jubiläumsausgabe 10 Jahre RVW ... und andere Beiträge über
+  title: Jubiläumsausgabe 10 Jahre RVW … und andere Beiträge über
     Werbung und Werbung nach der Werbung
   type: article-journal
   url: "https://epub.ur.de/34935/1/Mitteilungen_RVW_4-2016.pdf"
@@ -704,8 +741,9 @@ references:
   - family: Reimann
     given: Sandra
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -725,8 +763,9 @@ references:
   - family: Greule
     given: Albrecht
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -748,8 +787,9 @@ references:
   - family: Sauerland
     given: Martin
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -769,8 +809,9 @@ references:
   - family: Verdiani
     given: Silvia
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -790,8 +831,9 @@ references:
   - family: Heinemann
     given: Sabine
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -813,8 +855,9 @@ references:
   - family: Polajnar
     given: Janja
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -837,8 +880,9 @@ references:
   - family: Schreckhaas
     given: Markus
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -858,8 +902,9 @@ references:
   - family: Schüller-Zwierlein
     given: André
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -879,8 +924,9 @@ references:
   - family: Depkat
     given: Volker
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -900,8 +946,9 @@ references:
   - family: Reimann
     given: Sandra
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -921,8 +968,9 @@ references:
   - family: Zurstiege
     given: Guido
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -940,10 +988,11 @@ references:
   type: article-journal
   url: "https://epub.ur.de/34935/1/Mitteilungen_RVW_4-2016.pdf#page=56"
 - author:
-  - literal: RVW
+  - family: RVW
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -964,8 +1013,9 @@ references:
   - family: Heinemann
     given: Sabine
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -981,14 +1031,16 @@ references:
   title: "Tagung: „Wahlkampf ist Wortkampf:
     Präsidentschaftswahlkampagnen aus sprachwissenschaftlicher Sicht“
     (in: Notizen)"
+  title-short: Tagung
   type: article-journal
   url: "https://epub.ur.de/34935/1/Mitteilungen_RVW_4-2016.pdf#page=74"
 - author:
   - family: Heise
     given: Sebastian
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -1003,6 +1055,8 @@ references:
   page: 75
   title: "VdK-Interview mit Sandra Reimann anlässlich des Jubiläums „60
     Jahre Fernsehwerbung“ (in: Notizen)"
+  title-short: VdK-Interview mit Sandra Reimann anlässlich des Jubiläums
+    „60 Jahre Fernsehwerbung“ (in
   type: article-journal
   url: "https://epub.ur.de/34935/1/Mitteilungen_RVW_4-2016.pdf#page=75"
 - author:
@@ -1011,8 +1065,9 @@ references:
   - family: Grundl
     given: Ursula
   container-title: Mitteilungen des Regensburger Verbunds für
-    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW ... und andere
+    Werbeforschung – RVW. Jubiläumsausgabe 10 Jahre RVW … und andere
     Beiträge über Werbung und Werbung nach der Werbung
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.34935
   editor:
   - family: Dotzler
@@ -1031,6 +1086,7 @@ references:
   url: "https://epub.ur.de/34935/1/Mitteilungen_RVW_4-2016.pdf#page=75"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1048,6 +1104,7 @@ references:
   language: de
   title: "Schwerpunkt: Aufgetischt! Persuasion und Information bei der
     Vermarktung von Nahrungs- und Genussmitteln"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/36763/1/Mitteilungen_RVW_5-2017.pdf"
 - author:
@@ -1058,6 +1115,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1083,6 +1141,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1109,6 +1168,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1136,6 +1196,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1163,6 +1224,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1188,6 +1250,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1216,6 +1279,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1241,6 +1305,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1266,6 +1331,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1292,6 +1358,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1318,6 +1385,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1347,6 +1415,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1373,6 +1442,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1402,6 +1472,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1428,6 +1499,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1453,6 +1525,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Aufgetischt! Persuasion und
     Information bei der Vermarktung von Nahrungs- und Genussmitteln"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.36763
   editor:
   - family: Gerstl
@@ -1475,6 +1548,7 @@ references:
   url: "https://epub.ur.de/36763/1/Mitteilungen_RVW_5-2017.pdf#page=154"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1488,6 +1562,7 @@ references:
   language: de
   title: "Schwerpunkt: Out of Line. Zur Theorie und Geschichte
     ungewöhnlicher Werbemittel"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/40579/1/Mitteilungen_RVW_6-2018.pdf"
 - author:
@@ -1498,6 +1573,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1519,6 +1595,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1541,6 +1618,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1563,6 +1641,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1587,6 +1666,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1609,6 +1689,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1631,6 +1712,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1653,6 +1735,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1674,6 +1757,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Out of Line. Zur Theorie und
     Geschichte ungewöhnlicher Werbemittel"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.40579
   editor:
   - family: Dotzler
@@ -1692,6 +1776,7 @@ references:
   url: "https://epub.ur.de/40579/1/Mitteilungen_RVW_6-2018.pdf#page=87"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1706,6 +1791,7 @@ references:
   issued: 2019
   language: de
   title: "Schwerpunkt: Autonomes Fahren im Visier der Werbung"
+  title-short: Schwerpunkt
   type: article-journal
   url: "https://epub.ur.de/43467/1/Mitteilungen_RVW_7-2019.pdf"
 - author:
@@ -1718,6 +1804,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1741,6 +1828,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1766,6 +1854,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1789,6 +1878,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1812,6 +1902,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1836,6 +1927,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1859,6 +1951,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1883,6 +1976,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1909,6 +2003,7 @@ references:
   container-title: "Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Schwerpunkt: Autonomes Fahren im Visier der
     Werbung"
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1928,6 +2023,7 @@ references:
   url: "https://epub.ur.de/43467/1/Mitteilungen_RVW_7-2019.pdf#page=74"
 - container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.50903
   editor:
   - family: Dotzler
@@ -1949,6 +2045,7 @@ references:
     given: Sandra
   container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Corona, Wein und Badeschaum
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1971,6 +2068,7 @@ references:
     given: Silke
   container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Corona, Wein und Badeschaum
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -1993,6 +2091,7 @@ references:
     given: Albrecht
   container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Corona, Wein und Badeschaum
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -2014,6 +2113,7 @@ references:
     given: Sandra
   container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Corona, Wein und Badeschaum
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
@@ -2035,6 +2135,7 @@ references:
     given: Sandra
   container-title: Mitteilungen des Regensburger Verbunds für
     Werbeforschung – RVW. Corona, Wein und Badeschaum
+  container-title-short: Mitteilungen des RVW
   doi: 10.5283/epub.43467
   editor:
   - family: Dotzler
