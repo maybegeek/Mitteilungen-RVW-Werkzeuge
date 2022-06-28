@@ -56,7 +56,7 @@ echo "RVW-Mitteilungen"
 echo " "
 pandoc $D_BIBLIO/bib-mitteilungen-web.md \
 --verbose -f markdown -C --biblio=$D_BIBLIO/biblio-mitteilungen.yaml \
---csl=$D_CSL/RVW-web.csl \
+--csl=$D_CSL/Mitteilungen-RVW.csl \
 -t html5 -o $D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
@@ -102,52 +102,52 @@ rsync -avhzPu --checksum \
   docs/
 echo " "
 
-echo "#####"
-echo "# 5 #"
-echo "#####"
-echo "rsync-ing layout/ nach docs/layout/"
-echo " "
-rsync -avhzPu --checksum $D_LAYOUT/ $D_OUT/layout/ --delete
-echo " "
+#echo "#####"
+#echo "# 5 #"
+#echo "#####"
+#echo "rsync-ing layout/ nach docs/layout/"
+#echo " "
+#rsync -avhzPu --checksum $D_LAYOUT/ $D_OUT/layout/ --delete
+#echo " "
 
-echo "#####"
-echo "# 6 #"
-echo "#####"
+# echo "#####"
+# echo "# 6 #"
+# echo "#####"
 
-echo "* pandoc rvw-content/index.md nach docs/index.html"
-pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
-  --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/index.md -o $D_CONT/index.html
+# echo "* pandoc rvw-content/index.md nach docs/index.html"
+# pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
+#   --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/index.md -o $D_CONT/index.html
 
-echo "* pandoc rvw-content/imprint.md nach docs/imprint.html"
-pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
-  --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/imprint.md -o $D_CONT/imprint.html
+# echo "* pandoc rvw-content/imprint.md nach docs/imprint.html"
+# pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
+#   --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/imprint.md -o $D_CONT/imprint.html
 
-echo "* pandoc rvw-content/formalia-mitteilungen.md nach docs/formalia-mitteilungen.html"
-pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
-  --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/formalia-mitteilungen.md -o $D_CONT/formalia-mitteilungen.html
+# echo "* pandoc rvw-content/formalia-mitteilungen.md nach docs/formalia-mitteilungen.html"
+# pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
+#   --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/formalia-mitteilungen.md -o $D_CONT/formalia-mitteilungen.html
 
-echo "* pandoc rvw-content/biblio-rvw.md nach docs/biblio-rvw.html"
-pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
-  --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/biblio-rvw.md -o $D_CONT/biblio-rvw.html
+# echo "* pandoc rvw-content/biblio-rvw.md nach docs/biblio-rvw.html"
+# pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
+#   --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/biblio-rvw.md -o $D_CONT/biblio-rvw.html
 
-echo "* pandoc rvw-content/biblio-mitteilungen.md nach docs/biblio-mitteilungen.html"
-pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
-  --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/biblio-mitteilungen.md -o $D_CONT/biblio-mitteilungen.html
-echo " "
+# echo "* pandoc rvw-content/biblio-mitteilungen.md nach docs/biblio-mitteilungen.html"
+# pandoc -s --wrap=none -C -f markdown -t html5 --verbose --shift-heading-level-by=1 \
+#   --template=$D_LAYOUT/rvw-website.tmpl $D_CONT/biblio-mitteilungen.md -o $D_CONT/biblio-mitteilungen.html
+# echo " "
 
 
-echo "#####"
-echo "# 7 #"
-echo "#####"
-echo "rsync-ing rvw-content/index.html nach docs/index.html"
-echo "rsync-ing rvw-content/imprint.html nach docs/imprint.html"
-echo "rsync-ing rvw-content/formalia-mitteilungen.html nach docs/formalia-mitteilungen.html"
-echo "rsync-ing rvw-content/biblio-rvw.html nach docs/biblio-rvw.html"
-echo "rsync-ing rvw-content/biblio-mitteilungen.html nach docs/biblio-mitteilungen.html"
-rsync -avhzPu --checksum --delete \
-  $D_CONT/index.html \
-  $D_CONT/imprint.html \
-  $D_CONT/formalia-mitteilungen.html \
-  $D_CONT/biblio-rvw.html \
-  $D_CONT/biblio-mitteilungen.html \
-  $D_OUT
+# echo "#####"
+# echo "# 7 #"
+# echo "#####"
+# echo "rsync-ing rvw-content/index.html nach docs/index.html"
+# echo "rsync-ing rvw-content/imprint.html nach docs/imprint.html"
+# echo "rsync-ing rvw-content/formalia-mitteilungen.html nach docs/formalia-mitteilungen.html"
+# echo "rsync-ing rvw-content/biblio-rvw.html nach docs/biblio-rvw.html"
+# echo "rsync-ing rvw-content/biblio-mitteilungen.html nach docs/biblio-mitteilungen.html"
+# rsync -avhzPu --checksum --delete \
+#   $D_CONT/index.html \
+#   $D_CONT/imprint.html \
+#   $D_CONT/formalia-mitteilungen.html \
+#   $D_CONT/biblio-rvw.html \
+#   $D_CONT/biblio-mitteilungen.html \
+#   $D_OUT
