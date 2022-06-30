@@ -120,7 +120,6 @@ pandoc $D_BIBLIO/RVW-web.md \
 echo " "
 
 echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
-echo "# 9                                                 #"
 echo "# diff                                              #"
 echo "# file1 = rvw-test/biblio-mitteilungen-biblatex.htm #"
 echo "# file2 = rvw-test/biblio-mitteilungen-yaml.htm     #"
@@ -137,19 +136,87 @@ $D_TEST/bib-mitteilungen-web.htm \
 $D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
-echo "# # # # # # # # # # # # #"
-echo "# .bib to .htm          #"
-echo "# RVW-Publikationen.bib #"
-echo "# => RVW-web.htm        #"
-echo "# # # # # # # # # # # # #"
+
+# und nun für RVW-Publikationen jahresweise gruppiert
+# und RVW-Publikationen alphabetisch
+
+echo "# # # # # # # # # # # # # # # # # # # #"
+echo "# test .bib to .htm                   #"
+echo "# RVW-Publikationen.bib               #"
+echo "# => RVW-Publikationen-biblatex.htm   #"
+echo "# # # # # # # # # # # # # # # # # # # #"
 echo " "
 pandoc $D_BIBLIO/RVW-web.md \
 --verbose \
 -f markdown \
 -C --biblio=$D_BIBLIO/RVW-Publikationen.bib \
---csl=$D_CSL/Mitteilungen-RVW.csl \
+--csl=$D_CSL/Mitteilungen-RVW-group-by-year.csl \
+--lua-filter=$D_BIBLIO/RVW-web.lua \
+-t html5 -o $D_TEST/RVW-Publikationen-biblatex.htm
+echo " "
+
+echo "# # # # # # # # # # # # # # # # # # # #"
+echo "# test .yaml to .htm                  #"
+echo "# RVW-Publikationen.yaml              #"
+echo "# => RVW-Publikationen-yaml.htm       #"
+echo "# # # # # # # # # # # # # # # # # # # #"
+echo " "
+pandoc $D_BIBLIO/RVW-web.md \
+--verbose \
+-f markdown \
+-C --biblio=$D_TEST/RVW-Publikationen.yaml \
+--csl=$D_CSL/Mitteilungen-RVW-group-by-year.csl \
+--lua-filter=$D_BIBLIO/RVW-web.lua \
+-t html5 -o $D_TEST/RVW-Publikationen-yaml.htm
+echo " "
+
+echo "# # # # # # # # # # # # # # # # # # # #"
+echo "# test .json to .htm                  #"
+echo "# RVW-Publikationen.json              #"
+echo "# => RVW-Publikationen-json.htm       #"
+echo "# # # # # # # # # # # # # # # # # # # #"
+echo " "
+pandoc $D_BIBLIO/RVW-web.md \
+--verbose \
+-f markdown \
+-C --biblio=$D_TEST/RVW-Publikationen.json \
+--csl=$D_CSL/Mitteilungen-RVW-group-by-year.csl \
+--lua-filter=$D_BIBLIO/RVW-web.lua \
+-t html5 -o $D_TEST/RVW-Publikationen-json.htm
+echo " "
+
+echo "# # # # # # # # # # # # # #"
+echo "# Hauptumwandlung         #"
+echo "# .yaml to .htm           #"
+echo "# RVW-Publikationen.yaml  #"
+echo "# => RVW-web.htm          #"
+echo "# # # # # # # # # # # # # #"
+echo " "
+pandoc $D_BIBLIO/RVW-web.md \
+--verbose \
+-f markdown \
+-C --biblio=$D_BIBLIO/RVW-Publikationen.bib \
+--csl=$D_CSL/Mitteilungen-RVW-group-by-year.csl \
 --lua-filter=$D_BIBLIO/RVW-web.lua \
 -t html5 -o $D_TEST/RVW-web.htm
+echo " "
+
+echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
+echo "# 9                                                 #"
+echo "# diff                                              #"
+echo "# file1 = rvw-test/RVW-Publikationen-biblatex.htm   #"
+echo "# file2 = rvw-test/RVW-Publikationen-yaml.htm       #"
+echo "# file3 = rvw-test/RVW-Publikationen-json.htm       #"
+echo "# file4 = rvw-test/RVW-web.htm                      #"
+echo "# file5 = rvw-biblio/RVW-web.htm                    #"
+echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
+echo " "
+diff --unified=0 --from-file \
+$D_TEST/RVW-Publikationen-biblatex.htm \
+$D_TEST/RVW-Publikationen-yaml.htm \
+$D_TEST/RVW-Publikationen-json.htm \
+$D_TEST/RVW-web.htm \
+$D_BIBLIO/RVW-web.htm
 echo " "
 
 echo "# # # # # # # # # # # # #"
