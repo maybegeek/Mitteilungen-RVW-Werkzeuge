@@ -742,9 +742,10 @@ references:
   container-title: Wortbildung im Deutschen zwischen Sprachsystem und
     Sprachgebrauch
   editor:
-  - dropping-particle: "&"
-    family: Sascha Michel
-    given: Hilke Elsen
+  - family: Elsen
+    given: Hilke
+  - family: Michel
+    given: Sascha
   id: "ag:2011:doppel"
   issued: 2011
   page: 225-263
@@ -1005,9 +1006,9 @@ references:
     Praxis der Interkultur
   editor:
   - family: Ehrhardt
-    given: C.
+    given: Claus
   - family: Scialdone
-    given: M. P.
+    given: Maria Paolo
   id: "uk:2015:inter"
   issued: 2015
   page: 33-54
@@ -1314,8 +1315,9 @@ references:
   url: "https://www.fsk.gwi.uni-muenchen.de/?p=1021"
 - author:
   - family: Ottmann
+    given: Solveig
+  - family: Reimann
     given: Sandra
-    suffix: Solveig & Reimann
   collection-number: 2
   collection-title: Werbung – Konsum – Geschichte
   container-title: Grenzenlose Werbung. Zwischen Konsum und Audiovision
