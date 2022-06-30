@@ -9,48 +9,54 @@ D_CONT=rvw-content
 echo "#####"
 echo "# 1 #"
 echo "#####"
+
 echo ".bib nach .yaml konvertieren"
 echo "RVW-Publikationen.bib nach"
 echo "RVW-Publikationen.yaml."
 echo " "
-pandoc $D_BIBLIO/RVW-Publikationen.bib \
---verbose -s -f biblatex -t markdown-smart \
---template=$D_BIBLIO/RVW-Publikationen-yaml-template.txt \
+pandoc $D_BIBLIO/RVW-Publikationen.bib --verbose -s -f biblatex \
+-t markdown-smart --template=$D_BIBLIO/RVW-Publikationen-yaml-template.txt \
 -o $D_BIBLIO/RVW-Publikationen.yaml
+echo " "
+
+echo ".bib nach .yaml konvertieren"
+echo "biblio-mitteilungen.bib nach"
+echo "biblio-mitteilungen.yaml."
+echo " "
+pandoc $D_BIBLIO/biblio-mitteilungen.bib --verbose -s -f biblatex \
+-t markdown-smart --template=$D_BIBLIO/biblio-mitteilungen-yaml-template.txt \
+-o $D_BIBLIO/biblio-mitteilungen.yaml
+echo " "
+
+echo ".bib nach .json konvertieren"
+echo "RVW-Publikationen.bib nach"
+echo "RVW-Publikationen.json."
+echo " "
+pandoc $D_BIBLIO/RVW-Publikationen.bib --verbose -s -f biblatex \
+-t csljson -o $D_BIBLIO/RVW-Publikationen.json
+echo " "
+
+echo ".bib nach .json konvertieren"
+echo "biblio-mitteilungen.bib nach"
+echo "biblio-mitteilungen.json."
+echo " "
+pandoc $D_BIBLIO/biblio-mitteilungen.bib --verbose -s -f biblatex \
+-t csljson -o $D_BIBLIO/biblio-mitteilungen.json
 echo " "
 
 echo "#####"
 echo "# 2 #"
 echo "#####"
-echo ".bib nach .yaml konvertieren"
-echo "biblio-mitteilungen.bib nach"
-echo "biblio-mitteilungen.yaml."
-echo " "
-pandoc $D_BIBLIO/biblio-mitteilungen.bib \
---verbose -s -f biblatex -t markdown-smart \
---template=$D_BIBLIO/biblio-mitteilungen-yaml-template.txt \
--o $D_BIBLIO/biblio-mitteilungen.yaml
-echo " "
 
-echo "#######"
-echo "# 3.1 #"
-echo "#######"
+
 echo ".yaml nach .htm für hugo"
-echo "RVW-web.md mit"
-echo "RVW-web.yaml mit"
-echo "RVW-web.csl und"
-echo "RVW-web.lua nach"
-echo "RVW-web.htm."
-echo " "
 pandoc $D_BIBLIO/RVW-web.md \
 --verbose -f markdown -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml \
---csl=$D_CSL/RVW-web.csl --lua-filter=$D_BIBLIO/RVW-web.lua \
+--csl=$D_CSL/Mitteilungen-RVW-group-by-year.csl --lua-filter=$D_BIBLIO/RVW-web.lua \
 -t html5 -o $D_BIBLIO/RVW-web.htm
 echo " "
 
-echo "#######"
-echo "# 3.2 #"
-echo "#######"
+
 echo ".yaml nach .htm für hugo"
 echo "RVW-Mitteilungen"
 echo " "
@@ -60,45 +66,34 @@ pandoc $D_BIBLIO/bib-mitteilungen-web.md \
 -t html5 -o $D_BIBLIO/bib-mitteilungen-web.htm
 echo " "
 
-echo "#######"
-echo "# 3.3 #"
-echo "#######"
+
 echo ".yaml nach .htm für hugo"
 echo "RVW-Publikationen"
 echo "alphabetisch"
 echo " "
 pandoc $D_BIBLIO/RVW-web.md \
 --verbose -f markdown -C --biblio=$D_BIBLIO/RVW-Publikationen.yaml \
---csl=$D_CSL/RVW-web.csl \
+--csl=$D_CSL/Mitteilungen-RVW.csl \
 -t html5 -o $D_BIBLIO/RVW-alpha-web.htm
 echo " "
 
 echo "#####"
-echo "# 4 #"
+echo "# 3 #"
 echo "#####"
-echo "rsync-ing to docs/"
-echo "* biblio-mitteilungen.bib"
-echo "* biblio-mitteilungen.yaml"
-echo "* RVW-Publikationen.bib"
-echo "* RVW-Publikationen.bib"
-echo "* Mitteilungen-RVW.csl"
-echo "* RVW-web.csl"
-echo "* RVW-web.htm"
-echo "* RVW-web-alpha.htm"
-echo "* RVW-web.lua"
-echo "* bib-mitteilungen-web.htm"
-echo " "
+
 rsync -avhzPu --checksum \
   $D_BIBLIO/biblio-mitteilungen.bib \
   $D_BIBLIO/biblio-mitteilungen.yaml \
+  $D_BIBLIO/biblio-mitteilungen.json \
   $D_BIBLIO/RVW-Publikationen.bib \
   $D_BIBLIO/RVW-Publikationen.yaml \
+  $D_BIBLIO/RVW-Publikationen.json \
   $D_BIBLIO/RVW-web.htm \
   $D_BIBLIO/RVW-alpha-web.htm \
   $D_BIBLIO/bib-mitteilungen-web.htm \
   $D_BIBLIO/RVW-web.lua \
   $D_CSL/Mitteilungen-RVW.csl \
-  $D_CSL/RVW-web.csl \
+  $D_CSL/Mitteilungen-RVW-group-by-year.csl \
   docs/
 echo " "
 
