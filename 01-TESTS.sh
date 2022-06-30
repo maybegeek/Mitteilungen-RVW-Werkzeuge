@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#!/usr/bin/bash
 
 D_BIBLIO=rvw-biblio
 D_CSL=rvw-csl
@@ -202,7 +202,6 @@ pandoc $D_BIBLIO/RVW-web.md \
 echo " "
 
 echo "# # # # # # # # # # # # # # # # # # # # # # # # # # #"
-echo "# 9                                                 #"
 echo "# diff                                              #"
 echo "# file1 = rvw-test/RVW-Publikationen-biblatex.htm   #"
 echo "# file2 = rvw-test/RVW-Publikationen-yaml.htm       #"
@@ -219,16 +218,46 @@ $D_TEST/RVW-web.htm \
 $D_BIBLIO/RVW-web.htm
 echo " "
 
-echo "# # # # # # # # # # # # #"
-echo "# .bib to .htm          #"
-echo "# RVW-Publikationen.bib #"
-echo "# => RVW-alpha-web.htm  #"
-echo "# # # # # # # # # # # # #"
+echo "# # # # # # # # # # # # # # # # # # # # #"
+echo "# test json/yaml/bib-to-html conversion #"
+echo "# => RVW-alpha-json.htm                 #"
+echo "# => RVW-alpha-yaml.htm                 #"
+echo "# => RVW-alpha-biblatex.htm             #"
+echo "# # # # # # # # # # # # # # # # # # # # #"
 echo " "
-pandoc $D_BIBLIO/RVW-web.md \
---verbose \
--f markdown \
+pandoc $D_BIBLIO/RVW-web.md --verbose -f markdown \
+-C --biblio=$D_TEST/RVW-Publikationen.json \
+--csl=$D_CSL/Mitteilungen-RVW.csl \
+-t html5 -o $D_TEST/RVW-alpha-json.htm
+echo " "
+pandoc $D_BIBLIO/RVW-web.md --verbose -f markdown \
+-C --biblio=$D_TEST/RVW-Publikationen.yaml \
+--csl=$D_CSL/Mitteilungen-RVW.csl \
+-t html5 -o $D_TEST/RVW-alpha-yaml.htm
+echo " "
+pandoc $D_BIBLIO/RVW-web.md --verbose -f markdown \
 -C --biblio=$D_BIBLIO/RVW-Publikationen.bib \
+--csl=$D_CSL/Mitteilungen-RVW.csl \
+-t html5 -o $D_TEST/RVW-alpha-biblatex.htm
+echo " "
+
+echo "# # # # # # # # # # # # # #"
+echo "# RVW-Publikationen.yaml  #"
+echo "# => RVW-alpha-web.htm    #"
+echo "# # # # # # # # # # # # # #"
+echo " "
+pandoc $D_BIBLIO/RVW-web.md --verbose -f markdown \
+-C --biblio=$D_TEST/RVW-Publikationen.yaml \
 --csl=$D_CSL/Mitteilungen-RVW.csl \
 -t html5 -o $D_TEST/RVW-alpha-web.htm
 echo " "
+
+
+echo "RVW-Publikationen, alphabetisch"
+echo "diff ..."
+diff --unified=0 --from-file \
+$D_TEST/RVW-alpha-biblatex.htm \
+$D_TEST/RVW-alpha-yaml.htm \
+$D_TEST/RVW-alpha-json.htm \
+$D_TEST/RVW-alpha-web.htm \
+$D_BIBLIO/RVW-alpha-web.htm
