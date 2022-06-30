@@ -1334,9 +1334,12 @@
     "container-title": "Wortbildung im Deutschen zwischen Sprachsystem und Sprachgebrauch",
     "editor": [
       {
-        "dropping-particle": "&",
-        "family": "Sascha Michel",
-        "given": "Hilke Elsen"
+        "family": "Elsen",
+        "given": "Hilke"
+      },
+      {
+        "family": "Michel",
+        "given": "Sascha"
       }
     ],
     "id": "ag:2011:doppel",
@@ -1803,11 +1806,11 @@
     "editor": [
       {
         "family": "Ehrhardt",
-        "given": "C."
+        "given": "Claus"
       },
       {
         "family": "Scialdone",
-        "given": "M. P."
+        "given": "Maria Paolo"
       }
     ],
     "id": "uk:2015:inter",
@@ -2380,8 +2383,11 @@
     "author": [
       {
         "family": "Ottmann",
-        "given": "Sandra",
-        "suffix": "Solveig & Reimann"
+        "given": "Solveig"
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
       }
     ],
     "collection-number": "2",
