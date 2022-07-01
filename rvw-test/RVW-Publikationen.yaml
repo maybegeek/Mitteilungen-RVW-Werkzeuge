@@ -18,6 +18,7 @@ references:
     given: Martin
   id: "sr:2003:zeit"
   issued: 2003
+  language: de-DE
   note: Diskurs- und kulturgeschichtliche Perspektiven. Beiträge zu
     einer Tagung anlässlich der Emeritierung Georg Stötzels
   page: 197-216
@@ -38,6 +39,7 @@ references:
   id: "gg:2005:histor"
   issue: 2
   issued: 2005
+  language: de-DE
   page: 175-181
   title: Das Historische Werbefunkarchiv der Universität Regensburg
   type: article-journal
@@ -52,6 +54,7 @@ references:
     given: Sandra
   id: "fg:2006:histo"
   issued: 2006
+  language: de-DE
   page: 33-37
   publisher: edition vulpes
   publisher-place: Regensburg
@@ -66,6 +69,7 @@ references:
     Informationswissenschaft
   id: "gg:2006:histori"
   issued: 2006
+  language: de-DE
   publisher: Institut für Bibliotheks- und Informationswissenschaft der
     Humboldt-Universität zu Berlin
   publisher-place: Berlin
@@ -85,6 +89,7 @@ references:
     given: Sandra
   id: "gg:2006:histo"
   issued: 2006
+  language: de-DE
   page: 39-43
   publisher: edition vulpes
   publisher-place: Regensburg
@@ -99,6 +104,7 @@ references:
   id: "gg:2006:persil"
   issue: 18
   issued: 2006
+  language: de-DE
   page: 56-61
   title: "Weißer Riese und Persil-Frau: Das Historische Werbefunkarchiv
     der Universität Regensburg"
@@ -115,6 +121,7 @@ references:
     given: Sandra
   id: "ag:2006:histo"
   issued: 2006
+  language: de-DE
   page: 53-57
   publisher: edition vulpes
   publisher-place: Regensburg
@@ -126,6 +133,7 @@ references:
     given: Sandra
   id: "sr:2006:fasz"
   issued: 2006
+  language: de-DE
   publisher: edition vulpes
   publisher-place: Regensburg
   title: "Faszination Hörfunkwerbung – im Wandel: Das Historische
@@ -141,6 +149,7 @@ references:
   id: "gg:2007:radio"
   issue: 4
   issued: 2007
+  language: de-DE
   page: 34-36
   title: Vorm Radio
   type: article-journal
@@ -156,6 +165,7 @@ references:
     given: Claudia
   id: "ag:2007:cool"
   issued: 2007
+  language: de-DE
   note: Festschrift für Franz Simmler zum 65. Geburtstag
   page: 391-410
   publisher: Weidler Buchverlag
@@ -174,6 +184,7 @@ references:
     given: Elke
   id: "sr:2007:medialisierung"
   issued: 2007
+  language: de-DE
   page: 213-232
   publisher: Logo Verlag
   publisher-place: Berlin
@@ -192,6 +203,7 @@ references:
     given: Katja
   id: "sr:2007:trauben"
   issued: 2007
+  language: de-DE
   page: 401-416
   publisher: Narr Francke Attempto
   publisher-place: Tübingen
@@ -205,6 +217,7 @@ references:
     given: Katja
   id: "sr:2007:wisskontakt"
   issued: 2007
+  language: de-DE
   publisher: Narr Francke Attempto
   publisher-place: Tübingen
   title: Wissenschaften im Kontakt. Kooperationsfelder der Deutschen
@@ -222,6 +235,7 @@ references:
     given: Sandra
   id: "ef:2008:ziele"
   issued: 2008
+  language: de-DE
   page: 15-19
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -239,6 +253,7 @@ references:
     given: Sandra
   id: "pf:2008:schulter"
   issued: 2008
+  language: de-DE
   page: 11-14
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -256,6 +271,7 @@ references:
     given: Sandra
   id: "ag:2008:texte"
   issued: 2008
+  language: de-DE
   page: 89-96
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -274,6 +290,7 @@ references:
     given: Sandra
   id: "bh:2008:musik"
   issued: 2008
+  language: de-DE
   page: 37-57
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -290,6 +307,7 @@ references:
     given: Sandro M.
   id: "uk:2008:angl"
   issued: 2008
+  language: de-DE
   page: 177-191
   publisher: Winter
   publisher-place: Heidelberg
@@ -308,6 +326,7 @@ references:
     given: Sandra
   id: "uk:2008:leiden"
   issued: 2008
+  language: de-DE
   page: 75-88
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -325,6 +344,7 @@ references:
     given: Sandra
   id: "sn:2008:spot"
   issued: 2008
+  language: de-DE
   page: 59-65
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -342,6 +362,7 @@ references:
     given: Sandra
   id: "sr:2008:immer"
   issued: 2008
+  language: de-DE
   page: 167-187
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -358,6 +379,7 @@ references:
     given: Ulrike A.
   id: "sr:2008:kaffee"
   issued: 2008
+  language: de-DE
   page: 175-194
   publisher: Waxmann
   publisher-place: Münster
@@ -368,6 +390,7 @@ references:
     given: Sandra
   id: "sr:2008:mehrmed"
   issued: 2008
+  language: de-DE
   publisher: Gunter Narr Verlag
   publisher-place: Tübingen
   title: MEHRmedialität in der werblichen Kommunikation. Synchrone und
@@ -385,6 +408,7 @@ references:
     given: Christopher
   id: "sr:2008:slogan"
   issued: 2008
+  language: de-DE
   note: Festschrift für Dagmar Neuendorff zum 60. Geburtstag
   page: 219-232
   publisher: Könighausen & Neumann
@@ -404,6 +428,7 @@ references:
     given: Sandra
   id: "ss:2008:digital"
   issued: 2008
+  language: de-DE
   page: 67-73
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -416,6 +441,7 @@ references:
     given: Sandra
   id: "sr:2008"
   issued: 2008
+  language: de-DE
   publisher: LIT Verlag
   publisher-place: Berlin
   title: "Werbung hören: Beiträge zur interdisziplinären Erforschung der
@@ -436,6 +462,7 @@ references:
     given: Alfred
   id: "sr:2009:zehet"
   issued: 2009
+  language: de-DE
   page: 251-272
   publisher: edition vulpes
   publisher-place: Regensburg
@@ -461,6 +488,7 @@ references:
     given: Michael
   id: "sr:2009:kontr"
   issued: 2009
+  language: de-DE
   page: 199-251
   publisher: Peter Lang Verlag
   publisher-place: Frankfurt
@@ -477,6 +505,7 @@ references:
     given: Maximilian
   id: "cw:2009:kultur"
   issued: 2009
+  language: de-DE
   page: 21-30
   publisher: TU Chemnitz
   publisher-place: Chemnitz
@@ -499,6 +528,7 @@ references:
     given: Ralph Philipp
   id: "fjma:2010:kultid"
   issued: 2010
+  language: de-DE
   page: 203-230
   publisher: Leipziger Universitätsverlag
   publisher-place: Leipzig
@@ -512,6 +542,7 @@ references:
     given: Francisco Javier
   id: "fjma:2010:werbge"
   issued: 2010
+  language: de-DE
   publisher: Leipziger Universitätsverlag
   publisher-place: Leipzig
   title: Werbegeschichte als Kulturgeschichte. Spanien 1940–1989
@@ -527,6 +558,7 @@ references:
     given: Martin
   id: "dv:2010:verdicht"
   issued: 2010
+  language: de-DE
   page: 16-43
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -544,6 +576,7 @@ references:
     given: Martin
   id: "bd:2010:mechan"
   issued: 2010
+  language: de-DE
   page: 44-72
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -561,6 +594,7 @@ references:
     given: Martin
   id: "dd:2010:nikol"
   issued: 2010
+  language: de-DE
   page: 74-100
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -578,6 +612,7 @@ references:
     given: Martin
   id: "hf:2010:kreativ"
   issued: 2010
+  language: de-DE
   page: 114-141
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -594,6 +629,7 @@ references:
     given: Martin
   id: "pf:2010:cross"
   issued: 2010
+  language: de-DE
   page: 102-112
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -610,6 +646,7 @@ references:
     given: Martin
   id: "bh:2010:ohr"
   issued: 2010
+  language: de-DE
   page: 148-170
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -626,6 +663,7 @@ references:
     given: Martin
   id: "sr:2010:ohr"
   issued: 2010
+  language: de-DE
   page: 172-197
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -643,6 +681,7 @@ references:
     given: Martin
   id: "ds:2010:media"
   issued: 2010
+  language: de-DE
   page: 142-147
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -661,6 +700,7 @@ references:
     given: Martin
   id: "sm:2010:subtil"
   issued: 2010
+  language: de-DE
   page: 216-247
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -678,6 +718,7 @@ references:
     given: Martin
   id: "cw:2010:ads"
   issued: 2010
+  language: de-DE
   page: 198-215
   publisher: Universitätsverlag
   publisher-place: Regensburg
@@ -691,6 +732,7 @@ references:
     given: Martin
   id: "sr:2010:sauerland"
   issued: 2010
+  language: de-DE
   publisher: Universitätsverlag
   publisher-place: Regensburg
   title: Wissen schaf(f)t Werbung
@@ -714,6 +756,7 @@ references:
     given: Alexander
   id: "fjma:2011:span"
   issued: 2011
+  language: de-DE
   page: 121-141
   publisher: LIT Verlag
   publisher-place: Berlin
@@ -728,6 +771,7 @@ references:
   - literal: Regensburger Universitätsstiftung
   id: "bd:2011:cult"
   issued: 2011
+  language: de-DE
   page: 15-19
   publisher: Aumüller Druck
   publisher-place: Regensburg
@@ -748,6 +792,7 @@ references:
     given: Sascha
   id: "ag:2011:doppel"
   issued: 2011
+  language: de-DE
   page: 225-263
   publisher: ibidem-Verlag
   publisher-place: Stuttgart
@@ -769,6 +814,7 @@ references:
     given: Stephan
   id: "sr:2011:phraseme"
   issued: 2011
+  language: de-DE
   page: 201-218
   publisher: Georg Olms Verlag
   publisher-place: Hildesheim
@@ -784,6 +830,7 @@ references:
     given: Nina
   id: "fjma:2012:histo"
   issued: 2012
+  language: de-DE
   page: 395-410
   publisher: Narr Francke Attempto Verlag
   publisher-place: Tübingen
@@ -799,6 +846,7 @@ references:
     given: Nina
   id: "ag:2012:werbekomm"
   issued: 2012
+  language: de-DE
   page: 339-350
   publisher: Narr Francke Attempto Verlag
   publisher-place: Tübingen
@@ -822,6 +870,7 @@ references:
     given: Ulrike
   id: "ag:2012:salat"
   issued: 2012
+  language: de-DE
   page: 375-400
   publisher: Hirzel
   publisher-place: Stuttgart
@@ -844,6 +893,7 @@ references:
     given: Sabine
   id: "uk:2012:alter"
   issued: 2012
+  language: de-DE
   page: 177-218
   publisher: Edizioni dell’Orso
   publisher-place: Alessandria
@@ -860,6 +910,7 @@ references:
     given: Nina
   id: "sr:2012:korpora"
   issued: 2012
+  language: de-DE
   page: 483-493
   publisher: Narr Francke Attempto Verlag
   publisher-place: Tübingen
@@ -880,6 +931,7 @@ references:
     given: Holger
   id: "sr:2012:produkt"
   issued: 2012
+  language: de-DE
   page: 161-175
   publisher: Logos Verlag
   publisher-place: Berlin
@@ -896,6 +948,7 @@ references:
     given: Hartmut
   id: "fjma:2013:spanien"
   issued: 2013
+  language: de-DE
   page: 163-183
   publisher: Winter
   publisher-place: Heidelberg
@@ -914,6 +967,7 @@ references:
     given: Katrin
   id: "sr:2013:produktn"
   issued: 2013
+  language: de-DE
   note: Gesammelte Beiträge zu Ehren von Josef Egginger und Günter
     Schneeberger
   page: 151-168
@@ -934,6 +988,7 @@ references:
     given: Brigitte
   id: "ks:2013:werbung"
   issued: 2013
+  language: de-DE
   page: 139-154
   publisher: Tribun
   publisher-place: Brno
@@ -951,6 +1006,7 @@ references:
     given: Peter
   id: "ag:2014:werbeanz"
   issued: 2014
+  language: de-DE
   page: 337-356
   publisher: Weidler-Verlag
   publisher-place: Berlin
@@ -966,6 +1022,7 @@ references:
     given: Lenka
   id: "ks:2014:typo"
   issued: 2014
+  language: de-DE
   page: 325-352
   publisher: Stauffenburg Verlag
   publisher-place: Tübingen
@@ -990,6 +1047,7 @@ references:
     given: Martin
   id: "bd:2015:sieben"
   issued: 2015
+  language: de-DE
   page: 245-268
   publisher: Fink
   publisher-place: Paderborn
@@ -1011,6 +1069,7 @@ references:
     given: Maria Paolo
   id: "uk:2015:inter"
   issued: 2015
+  language: de-DE
   page: 33-54
   publisher: Waxmann
   publisher-place: Münster
@@ -1021,6 +1080,7 @@ references:
   - family: Wikipedia
   id: "wiki:werbefunk"
   issued: 2015
+  language: de-DE
   publisher: Online seit 2008
   title: Historisches Werbefunkarchiv. Wikipedia, Die freie Enzyklopädie
   url: "https://w.wiki/45m7"
@@ -1032,6 +1092,7 @@ references:
   id: "uk:2016:bedeutung"
   issue: 1
   issued: 2016
+  language: de-DE
   page: 20-33
   title: Die Bedeutung von Suprasegmentalia bei der Untertitelung
   type: article-journal
@@ -1047,6 +1108,7 @@ references:
   id: "uk:2016:listing"
   issue: 1
   issued: 2016
+  language: de-DE
   page: 1-4
   title: "Verstehen durch Hören und Lesen. Teil 1: Interlinguale
     Untertitelung in Theorie und Praxis"
@@ -1067,6 +1129,7 @@ references:
     given: Damaris
   id: "sr:2016:sankt"
   issued: 2016
+  language: de-DE
   page: 271-291
   publisher: De Gruyter
   publisher-place: Berlin
@@ -1084,6 +1147,7 @@ references:
     given: Dorota
   id: "sr:2016:streng"
   issued: 2016
+  language: de-DE
   page: 29-40
   publisher: Wydawnictwo Uniwersytetu Łódzkiego
   publisher-place: Łódź
@@ -1099,6 +1163,7 @@ references:
   id: "jf:2017:vegan"
   issue: 8
   issued: 2017
+  language: de-DE
   page: 897-901
   title: Rechtliche Grenzen für Bezeichnungen veganer Lebensmittel nach
     der EuGH-Entscheidung „TofuTown“
@@ -1115,6 +1180,7 @@ references:
     given: Stefan
   id: "sr:2017:luther"
   issued: 2017
+  language: de-DE
   page: 124-131
   publisher: Evangelische Verlagsanstalt
   publisher-place: Leipzig
@@ -1134,6 +1200,7 @@ references:
     given: Christoph
   id: "jf:2018:uwg"
   issued: 2018
+  language: de-DE
   note: Seit 1. Edition 01.03.2018 (Neueditionen alle drei Monate)
   publisher: C.H. Beck
   publisher-place: München
@@ -1149,6 +1216,7 @@ references:
   id: "jf:2018:block"
   issue: 12
   issued: 2018
+  language: de-DE
   page: 1405-1410
   title: Sieg der Werbeblocker als Impuls für Zugangsschranken im
     Internet?
@@ -1163,6 +1231,7 @@ references:
     given: Ulrike A.
   id: "sr:2018:bild"
   issued: 2018
+  language: de-DE
   page: 95-115
   publisher: Waxmann
   publisher-place: Münster
@@ -1183,6 +1252,7 @@ references:
     given: Marie-Christin
   id: "sr:2018:zahn"
   issued: 2018
+  language: de-DE
   page: 95-114
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1204,6 +1274,7 @@ references:
     given: Sabine
   id: "gh:2019:anzeigen"
   issued: 2019
+  language: de-DE
   page: 95-110
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1222,6 +1293,7 @@ references:
     given: Marcus
   id: "sh:2019:itdig"
   issued: 2019
+  language: de-DE
   page: 447-468
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1240,6 +1312,7 @@ references:
     given: Sabine
   id: "sh:2019:werbef"
   issued: 2019
+  language: de-DE
   page: 27-42
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1254,6 +1327,7 @@ references:
   - literal: GfM-AG Auditive Medienkultur und Sound Studies
   id: "so:2019:werbeschall"
   issued: 2019
+  language: de-DE
   note: 16. Juni 2019
   title: Die Werbeschallplatte als akustisches Dokument. Ein Kommentar
     zur Werbeforschung
@@ -1266,6 +1340,7 @@ references:
     given: Sabine
   id: "sh:2019:werbeg"
   issued: 2019
+  language: de-DE
   publisher: Springer VS
   publisher-place: Wiesbaden
   title: Werbegeschichte(n) – Markenkommunikation zwischen Tradition und
@@ -1276,6 +1351,7 @@ references:
     given: Doris
   id: "dg:2020:wahlpl"
   issued: 2020
+  language: de-DE
   publisher: Böhlau
   publisher-place: Köln
   title: Wahlplakate der Spitzenkandidaten der Parteien. Die
@@ -1291,6 +1367,7 @@ references:
   id: "og:2020:kaufen"
   issue: 79
   issued: 2020
+  language: de-DE
   page: 79-82
   title: "#KaufNurWasDuBrauchst. Werbung in der Krise"
   type: article-journal
@@ -1309,6 +1386,7 @@ references:
     given: Elissa
   id: "sh:2020:parm"
   issued: 2020
+  language: de-DE
   title: So ein Käse…! Zu Markenschutz und -kommunikation von Parmigiano
     Reggiano und Pecorino Romano
   type: chapter
@@ -1330,6 +1408,7 @@ references:
     given: Mario
   id: "or:2020:anzeigen"
   issued: 2020
+  language: de-DE
   page: 79-108
   publisher: De Gruyter
   publisher-place: Berlin
@@ -1345,6 +1424,7 @@ references:
   id: "sr:2020:heute"
   issue: 1
   issued: 2020
+  language: de-DE
   title: "Unternehmenskommunikation heute und interkulturell: Angewandte
     Linguistik am Beispiel Deutsche Sprache in Unternehmen in Ungarn"
   title-short: Unternehmenskommunikation heute und interkulturell
@@ -1367,6 +1447,7 @@ references:
     given: Karin
   id: "sr:2020:schall"
   issued: 2020
+  language: de-DE
   page: 91-125
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1382,6 +1463,7 @@ references:
     given: Yvonne
   id: "zy:2021:adscreen"
   issued: 2021
+  language: de-DE
   publisher: Amsterdam University Press
   publisher-place: Amsterdam
   title: Advertising and the Transformation of Screen Cultures
@@ -1405,6 +1487,7 @@ references:
     given: Elin
   id: "hs:2021:it"
   issued: 2021
+  language: de-DE
   page: 59-69
   publisher: Department of Archives; Research, Uppsala, Institute for
     Language; Folklore
@@ -1431,6 +1514,7 @@ references:
     given: Elisabeth
   id: "hs:2021:vw"
   issued: 2021
+  language: de-DE
   page: 253-278
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1443,6 +1527,7 @@ references:
     given: Ulrike A.
   id: "uk:2021:st"
   issued: 2021
+  language: de-DE
   publisher: Narr Francke Attempto
   publisher-place: Tübingen
   title: Die Stimme als Zeitzeugin. Werberhetorik im Hörfunk
@@ -1464,6 +1549,7 @@ references:
     given: Elisabeth
   id: "rs:2021:autonome"
   issued: 2021
+  language: de-DE
   page: 279-293
   publisher: Springer VS
   publisher-place: Wiesbaden
@@ -1485,6 +1571,7 @@ references:
     given: Heinz-Helmut
   id: "rs:2021:finn"
   issued: 2021
+  language: de-DE
   page: 369-383
   publisher: Verlag Empirische Pädagogik
   publisher-place: Landau
@@ -1507,6 +1594,7 @@ references:
     given: Amir
   id: "rs:2021:israel"
   issued: 2021
+  language: de-DE
   page: 171-192
   publisher: Weidler Buchverlag
   publisher-place: Berlin
@@ -1530,6 +1618,7 @@ references:
     given: Berbeli
   id: "rs:2021:nach"
   issued: 2021
+  language: de-DE
   page: 217-246
   publisher: De Gruyter
   publisher-place: Berlin
@@ -1551,6 +1640,7 @@ references:
     given: Karin
   id: "rg:2021:nach"
   issued: 2021
+  language: de-DE
   page: 213-232
   publisher: LIT Verlag
   publisher-place: Münster
