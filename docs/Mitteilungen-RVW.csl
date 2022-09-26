@@ -21,7 +21,7 @@
   <category field="communications"/>
   <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
   <issn>2198-0500</issn>
-  <updated>2022-06-28T12:15:00+02:00</updated>
+  <updated>2022-09-26T15:30:00+02:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
 </info>
 
@@ -181,37 +181,10 @@
 </macro>
 
 <macro name="publisher">
-  <choose>
-    <if type="report thesis" match="any">
-      <group delimiter=": ">
-        <text variable="publisher-place"/>
-        <text variable="publisher"/>
-      </group>
-    </if>
-    <else>
-    <!-- from @misc (bibtex) bib2json -> no-type
-      <choose>
-      <if variable="event" match="none">
-        <choose>
-        <if type="no-type" >
-          <choose>
-          <if variable="publisher publisher-place genre title title-short" match="all">
-          </if>
-          <else>
-            <text variable="genre" suffix=", "/>
-          </else>
-        </choose>
-        </if>
-        </choose>
-      </if>
-      </choose>
-    -->
-      <group delimiter=": ">
-        <text variable="publisher-place"/>
-        <text variable="publisher"/>
-      </group>
-    </else>
-  </choose>
+  <group delimiter=": ">
+    <text variable="publisher-place"/>
+    <text variable="publisher"/>
+  </group>
 </macro>
 
 <macro name="event">
@@ -430,8 +403,7 @@
         <text macro="issued" suffix=" "/>
         <group delimiter=". ">
           <text macro="title"/>
-          <group>
-            <text term="in" text-case="capitalize-first" suffix=": "/>
+          <group prefix="In: ">
             <text macro="container-contributors"/>
             <text macro="secondary-contributors"/>
             <group delimiter=" ">
