@@ -2888,5 +2888,118 @@
     "publisher-place": "Münster",
     "title": "„Nachhaltigkeit ist uns wichtig“. Textgrammatik und der Nachhaltigkeitsbericht",
     "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "Sabine"
+      }
+    ],
+    "container-title": "Beiträge zur Namenforschung. Themenheft: Werbende Namen",
+    "container-title-short": "Beiträge zur Namenforschung",
+    "editor": [
+      {
+        "family": "Lobin",
+        "given": "Antje"
+      },
+      {
+        "family": "Janich",
+        "given": "Nina"
+      }
+    ],
+    "id": "sh:2022:zitr",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "257-282",
+    "title": "Von Zitrönchen, Enten, Göttinnen und Freunden: zum Markenframe von Citroën",
+    "title-short": "Von Zitrönchen, Enten, Göttinnen und Freunden",
+    "type": "article-journal",
+    "volume": "57"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "Sabine"
+      }
+    ],
+    "collection-number": "34",
+    "collection-title": "Europäische Kulturen in der Wirtschaftskommunikation",
+    "container-title": "Werbung und PR im digitalen Zeitalter. Grenzen, Übergänge und neue Formate",
+    "editor": [
+      {
+        "family": "Nielsen",
+        "given": "Martin"
+      },
+      {
+        "family": "Ditlevsen",
+        "given": "Marianne Grove"
+      },
+      {
+        "family": "Pedersen",
+        "given": "Anne Grethe Julius"
+      }
+    ],
+    "id": "sh:2023:zitr",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "229-246",
+    "publisher": "Springer VS",
+    "publisher-place": "Wiesbaden",
+    "title": "Das centenaire chevronné – zur digitalen Markenkommunikation bei Citroën (oder Zitrön?)",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaunzner",
+        "given": "Ulrike A."
+      }
+    ],
+    "collection-number": "12",
+    "collection-title": "Handbücher zur Rhetorik",
+    "container-title": "Handbuch Werberhetorik",
+    "editor": [
+      {
+        "family": "Janich",
+        "given": "Nina"
+      },
+      {
+        "family": "Pappert",
+        "given": "Steffen"
+      },
+      {
+        "family": "Roth",
+        "given": "Kersten Sven"
+      }
+    ],
+    "id": "ku:2020:stimme",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "329-351",
+    "publisher": "De Gruyter",
+    "publisher-place": "Berlin",
+    "title": "Rhetorik der Hörfunkwerbung und der Stimme",
+    "type": "chapter"
   }
 ]
