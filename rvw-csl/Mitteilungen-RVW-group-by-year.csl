@@ -21,7 +21,7 @@
   <category field="communications"/>
   <summary>Zitationsstil für die Mitteilungen des Regensburger Verbunds für Werbeforschung (RVW)</summary>
   <issn>2198-0500</issn>
-  <updated>2022-09-26T15:30:00+02:00</updated>
+  <updated>2023-04-06T12:00:00+02:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License (CC BY-SA 4.0)</rights>
 </info>
 
@@ -130,7 +130,7 @@
 </macro>
 
 <macro name="series">
-  <group font-style="normal" prefix=" (=&#8202;" suffix=")">
+  <group font-style="normal" prefix=" (=&#8239;" suffix=")">
     <text variable="collection-title" />
     <text variable="collection-number" prefix=", "/>
   </group>
@@ -295,12 +295,12 @@
           <text variable="issue" prefix="(" suffix=")"/>
         </else>
       </choose>
-      <text variable="page" prefix=". S.&#8201;"/>
+      <text variable="page" prefix=". S.&#8239;"/>
     </if>
     <else-if type="legal_case">
       <text variable="volume" prefix=", "/>
       <text variable="container-title" prefix=" "/>
-      <text variable="page" prefix=" S.&#8201;"/>
+      <text variable="page" prefix=" S.&#8239;"/>
     </else-if>
     <else-if type="bill book graphic legal_case motion_picture report song chapter" match="any">
       <group prefix=". " delimiter=". ">
@@ -312,7 +312,7 @@
           <number variable="number-of-volumes" form="numeric"/>
           <text term="volume" form="short" prefix=" " plural="true"/>
         </group>
-        <text variable="page" prefix=" S.&#8201;"/>
+        <text variable="page" prefix=" S.&#8239;"/>
       </group>
     </else-if>
   </choose>
