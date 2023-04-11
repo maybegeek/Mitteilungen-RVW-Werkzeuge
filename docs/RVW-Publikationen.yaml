@@ -1712,4 +1712,32 @@ references:
   publisher-place: Berlin
   title: Rhetorik der Hörfunkwerbung und der Stimme
   type: chapter
+- author:
+  - family: Reimann
+    given: Sandra
+  - family: Wolff
+    given: Christian
+  collection-number: 88
+  collection-title: Edition Medienwissenschaft
+  container-title: Staunen – Rechnen – Rätseln. Explorationen des
+    Medialen
+  editor:
+  - family: Bachmann
+    given: Vera
+  - family: Fleig
+    given: Michael
+  - family: Heibach
+    given: Christiane
+  - family: Ottmann
+    given: Solveig
+  - family: Roesler-Keilholz
+    given: Silke
+  id: "rw:2023:distant"
+  issued: 2023
+  language: de-DE
+  page: 261-277
+  publisher: transcript
+  publisher-place: Bielefeld
+  title: Distant Listening für Hörfunkspots
+  type: chapter
 ---
