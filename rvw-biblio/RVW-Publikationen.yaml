@@ -1740,4 +1740,24 @@ references:
   publisher-place: Bielefeld
   title: Distant Listening für Hörfunkspots
   type: chapter
+- collection-number: 35
+  collection-title: Europäische Kulturen in der Wirtschaftskommunikation
+  editor:
+  - family: Schmidt
+    given: Christopher M.
+  - family: Heinemann
+    given: Sabine
+  - family: Banholzer
+    given: Volker Markus
+  - family: Nielsen
+    given: Martin
+  - family: Siems
+    given: Florian U.
+  id: "sh:2023:sozt"
+  issued: 2023
+  language: de-DE
+  publisher: Springer VS
+  publisher-place: Wiesbaden
+  title: Soziale Themen in Unternehmens- und Wirtschaftskommunikation
+  type: book
 ---
