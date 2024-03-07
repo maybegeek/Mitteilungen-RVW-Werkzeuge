@@ -3091,5 +3091,49 @@
     "publisher-place": "Wiesbaden",
     "title": "Soziale Themen in Unternehmens- und Wirtschaftskommunikation",
     "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Šichová",
+        "given": "Kateřina"
+      }
+    ],
+    "collection-number": "3",
+    "collection-title": "Proverbium Online Supplement Series",
+    "container-title": "Standing on the Shoulders of Giants. A Festschrift in honour of Wolfgang Mieder on the occasion of his 80th birthday",
+    "editor": [
+      {
+        "family": "Babič",
+        "given": "Saša"
+      },
+      {
+        "family": "Carson Williams",
+        "given": "Fionnuala"
+      },
+      {
+        "family": "Grandl",
+        "given": "Christian"
+      },
+      {
+        "family": "Litovkina",
+        "given": "Anna T."
+      }
+    ],
+    "id": "ks:2024:sprich",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "311-332",
+    "publisher": "Faculty of Humanities; Social Sciences",
+    "publisher-place": "Osijek",
+    "title": "„Sprichwort ist geil“: Sprichwörter in Werbung, Werbung in Sprichwörtern",
+    "title-short": "„Sprichwort ist geil“",
+    "type": "chapter"
   }
 ]
