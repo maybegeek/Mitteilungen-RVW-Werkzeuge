@@ -490,7 +490,7 @@ references:
   issued: 2009
   language: de-DE
   page: 199-251
-  publisher: Peter Lang Verlag
+  publisher: Peter Lang
   publisher-place: Frankfurt
   title: Kontrastive Analysen deutscher und finnischer Bankwerbungen –
     drei Fallstudien
@@ -1785,5 +1785,151 @@ references:
   title: "„Sprichwort ist geil“: Sprichwörter in Werbung, Werbung in
     Sprichwörtern"
   title-short: „Sprichwort ist geil“
+  type: chapter
+- author:
+  - family: Knott
+    given: Christina
+  container-title: Praxis Grundschule. differenziertes Material für alle
+    Fächer
+  container-title-short: Praxis Grundschule
+  id: "ck:2023:wjuma"
+  issue: 2
+  issued: 2023
+  language: de-DE
+  page: 28-35
+  title: Werbung nur für Jungs oder Mädchen. Lesen in multiplen
+    Dokumenten
+  type: article-journal
+  volume: 2023
+- author:
+  - family: Knott
+    given: Christina
+  container-title: D Eins. Sprache, Literatur, Medien. Deutsch Gymnasium
+    10. Arbeitsheft
+  container-title-short: D Eins. Sprache, Literatur, Medien
+  id: "ck:2023:reflarb"
+  issued: 2023
+  language: de-DE
+  page: 80-91
+  publisher: Westermann
+  publisher-place: Braunschweig
+  title: Sprache reflektieren
+  type: article-journal
+- author:
+  - family: Knott
+    given: Christina
+  container-title: D Eins. Sprache, Literatur, Medien. Deutsch Gymnasium
+    10
+  container-title-short: D Eins. Sprache, Literatur, Medien
+  id: "ck:2023:reflaus"
+  issued: 2023
+  language: de-DE
+  note: \[+ digitale Austausch-/Ergänzungsmodule 316.1, 318.1-3, 320.1\]
+  page: 302-321
+  publisher: Westermann
+  publisher-place: Braunschweig
+  title: Sprache reflektieren
+  type: article-journal
+- author:
+  - family: Knott
+    given: Christina
+  container-title: D Eins. Sprache, Literatur, Medien. Deutsch Gymnasium
+    9. Schülerband
+  container-title-short: D Eins. Sprache, Literatur, Medien
+  id: "ck:2022:reflsch"
+  issued: 2022
+  language: de-DE
+  note: \[+ digitale Austausch-/Ergänzungsmodule 283.1-4, 284.1-4,
+    292.1-3\]
+  page: 280-299
+  publisher: Westermann
+  publisher-place: Braunschweig
+  title: Sprache reflektieren
+  type: article-journal
+- author:
+  - family: Knott
+    given: Christina
+  container-title: D Eins. Sprache, Literatur, Medien. Deutsch Gymnasium
+    9. Arbeitsheft
+  container-title-short: D Eins. Sprache, Literatur, Medien
+  id: "ck:2022:reflarb"
+  issued: 2022
+  language: de-DE
+  page: 81-93
+  publisher: Westermann
+  publisher-place: Braunschweig
+  title: Sprache reflektieren
+  type: article-journal
+- author:
+  - family: Reimann
+    given: Sandra
+  container-title: Jahrbuch für Internationale Germanistik. Wege der
+    Germanistik in transkultureller Perspektive. Akten des XIV.
+    Kongresses der Internationalen Vereinigung für Germanistik (IVG)
+    (Bd. 6)
+  editor:
+  - family: Auteri
+    given: Laura
+  - family: Barrale
+    given: Natascia
+  - family: Di Bella
+    given: Arianna
+  - family: Hoffmann
+    given: Sabine
+  id: "sr:2022:textton"
+  issued: 2022
+  language: de-DE
+  page: 137-150
+  publisher: Peter Lang
+  publisher-place: Bern
+  title: Text und Ton – Zur Textgrammatik in akustischer Werbung
+  type: chapter
+- author:
+  - family: Reimann
+    given: Sandra
+  container-title: Blog der Aue-Stiftung (Helsinki)
+  id: "sr:2023:tanz"
+  issued: 2023
+  language: de-DE
+  note: 22. Februar 2023
+  title: „Tanz der Nordlichter“, „Saunahonig“ und „Arktischer König“ –
+    Deutschsprachige Produktnamen mit Nord-Touch und mehr
+  type: chapter
+  url: "https://www.aue-stiftung.org/de/blog/sandra-reimann-tanz-der-nordlichter-saunahonig-und-arktischer-koenig-deutschsprachige-produktnamen-mit-nord-touch-und-mehr/"
+- author:
+  - family: Reimann
+    given: Sandra
+  collection-number: 84
+  collection-title: Budapester Beiträge zur Germanistik
+  container-title: "Amtskommunikation: Kurze Einführung in eine
+    besondere Welt"
+  editor:
+  - family: Péteri
+    given: Attila
+  id: "sr:2023:lekt"
+  issued: 2023
+  language: de-DE
+  page: 64-68
+  publisher: ELTE Germanisztikai Intézet
+  title: "Lektion 9. Ausblick auf benachbarte Bereiche: Die Geschäfts-
+    und Unternehmenskommunikation. Gastbeitrag"
+  title-short: Lektion 9. Ausblick auf benachbarte Bereiche
+  type: chapter
+- author:
+  - family: Reimann
+    given: Sandra
+  collection-title: De Gruyter Reference
+  container-title: Handbuch Literatur und Kultur der
+    Wirtschaftswunderzeit
+  editor:
+  - family: Neuhaus
+    given: Stefan
+  - family: Mattern
+    given: Nicole
+  id: "sr:2024:werb"
+  issued: 2024
+  language: de-DE
+  page: 38-61
+  title: Werbung der Zeit des Wirtschaftswunders
   type: chapter
 ---
