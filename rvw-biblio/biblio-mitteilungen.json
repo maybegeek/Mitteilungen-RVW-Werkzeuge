@@ -3675,5 +3675,192 @@
     "title": "„Zeit im Fluss“ mit dem Werbefunkarchiv (in: Notizen)",
     "title-short": "„Zeit im Fluss“ mit dem Werbefunkarchiv (in",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.583964",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/58396/1/Mitteilungen_RVW_10-2022-2024.pdf",
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:10",
+    "issue": "Heft 10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "title": "Schwerpunkt: Goldfunde im Archiv",
+    "title-short": "Schwerpunkt",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.583964",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/58396/1/Mitteilungen_RVW_10-2022-2024.pdf#page=4",
+    "author": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Goldfunde im Archiv",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:10:editorial",
+    "issue": "Heft 10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "4",
+    "title": "Editorial",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.583964",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/58396/1/Mitteilungen_RVW_10-2022-2024.pdf#page=5",
+    "author": [
+      {
+        "family": "Kaunzner",
+        "given": "Ulrike A."
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Goldfunde im Archiv",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:10:mehrsprach",
+    "issue": "Heft 10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "5-17",
+    "title": "Mehrsprachigkeit in der Werbekommunikation lokaler Unternehmen der Emilia-Romagna: eine Pilotstudie an der Universität Modena und Reggio Emilia",
+    "title-short": "Mehrsprachigkeit in der Werbekommunikation lokaler Unternehmen der Emilia-Romagna",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.583964",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/58396/1/Mitteilungen_RVW_10-2022-2024.pdf#page=18",
+    "author": [
+      {
+        "family": "Harmia",
+        "given": "Smilla"
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Goldfunde im Archiv",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:10:weleda",
+    "issue": "Heft 10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "18-24",
+    "title": "Weleda – Eins mit der Natur. Anmerkungen zum deutsch-finnischen Vergleich der Nachhaltigkeitskommunikation auf Instagram",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5283/epub.583964",
+    "ISSN": "2198-0500",
+    "URL": "https://epub.uni-regensburg.de/58396/1/Mitteilungen_RVW_10-2022-2024.pdf#page=26",
+    "author": [
+      {
+        "family": "Lohr",
+        "given": "Dieter"
+      },
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      }
+    ],
+    "container-title": "Mitteilungen des Regensburger Verbunds für Werbeforschung – RVW. Schwerpunkt: Goldfunde im Archiv",
+    "container-title-short": "Mitteilungen des RVW",
+    "editor": [
+      {
+        "family": "Dotzler",
+        "given": "Bernhard J."
+      },
+      {
+        "family": "Reimann",
+        "given": "Sandra"
+      }
+    ],
+    "id": "rvw:10:goldfund",
+    "issue": "Heft 10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "26-80",
+    "title": "Ein Goldstück aus der Sammlung Geldmacher. Dokumente aus dem Archiv",
+    "type": "article-journal"
   }
 ]
