@@ -1970,6 +1970,11 @@ references:
     given: Sabine
   container-title: Lingua italiana, mercato globale delle lingue,
     impresa italiana nel mondo
+  editor:
+  - family: Turchetta
+    given: Barbara
+  - family: Vedovelli
+    given: Massimo
   id: "sh:2024:italia"
   issued: 2024
   language: it-IT

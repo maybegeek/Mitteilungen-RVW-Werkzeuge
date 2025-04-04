@@ -3460,6 +3460,16 @@
     "collection-number": "",
     "collection-title": "",
     "container-title": "Lingua italiana, mercato globale delle lingue, impresa italiana nel mondo",
+    "editor": [
+      {
+        "family": "Turchetta",
+        "given": "Barbara"
+      },
+      {
+        "family": "Vedovelli",
+        "given": "Massimo"
+      }
+    ],
     "id": "sh:2024:italia",
     "issued": {
       "date-parts": [
