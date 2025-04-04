@@ -1934,4 +1934,48 @@ references:
   publisher-place: Berlin
   title: Werbung der Zeit des Wirtschaftswunders
   type: chapter
+- author:
+  - family: Heinemann
+    given: Sabine
+  collection-number: 35
+  collection-title: metaphorik.de. Internationales Journal zur
+    Metaphorik in Sprache, Literatur, Medien
+  container-title: Multimodel Metaphors II
+  editor:
+  - family: Döring
+    given: Martin
+  - family: Heinemann
+    given: Sabine
+  - family: Mutz
+    given: Katrin
+  - family: Osthus
+    given: Dietmar
+  - family: Polzin-Haumann
+    given: Claudia
+  - family: Spörl
+    given: Uwe
+  - family: Visser
+    given: Judith
+  id: "sh:2024:multimod"
+  issued: 2024
+  language: de-DE
+  page: 17-52
+  publisher: Wehrhahn Verlag
+  publisher-place: Hannover
+  title: Multimodal metaphors and their use in advertising and political
+    cartoons – a research overview
+  type: chapter
+- author:
+  - family: Heinemann
+    given: Sabine
+  container-title: Lingua italiana, mercato globale delle lingue,
+    impresa italiana nel mondo
+  id: "sh:2024:italia"
+  issued: 2024
+  language: it-IT
+  page: 103-114
+  publisher-place: Firenze
+  title: L’Italia in vendita – il frame ITALIA nella comunicazione di
+    marca italiana, francese e tedesca
+  type: chapter
 ---
