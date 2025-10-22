@@ -1983,4 +1983,21 @@ references:
   title: L’Italia in vendita – il frame ITALIA nella comunicazione di
     marca italiana, francese e tedesca
   type: chapter
+- author:
+  - family: Lohr
+    given: Dieter
+  container-title: Regensburger Almanach 2025. 80 Jahre Kriegsende. 80
+    Jahre Frieden. 80 Jahre Erinnerung
+  editor:
+  - family: Kupfer
+    given: Carola
+  id: "dl:2025:frieden"
+  issued: 2025
+  language: de-DE
+  page: 54-59
+  publisher: MZ-Buchverlag
+  publisher-place: Regensburg
+  title: „Jetzt wieder in Friedensqualität“ – Werbung in Regensburg in
+    den vergangenen 80 Jahren
+  type: chapter
 ---
