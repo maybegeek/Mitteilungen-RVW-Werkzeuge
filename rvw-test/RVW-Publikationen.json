@@ -3512,5 +3512,52 @@
     "publisher-place": "Regensburg",
     "title": "„Jetzt wieder in Friedensqualität“ – Werbung in Regensburg in den vergangenen 80 Jahren",
     "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinemann",
+        "given": "Sabine"
+      }
+    ],
+    "collection-number": "",
+    "collection-title": "",
+    "container-title": "Names in Times of Crisis: age of pandemic, energetic deficiency, and war",
+    "editor": [
+      {
+        "family": "Cotticelli-Kurras",
+        "given": "Paola"
+      },
+      {
+        "family": "Cotugno",
+        "given": "Francesca"
+      },
+      {
+        "family": "Merlin",
+        "given": "Stella"
+      },
+      {
+        "family": "Pisaniello",
+        "given": "Valerio"
+      },
+      {
+        "family": "Dentella",
+        "given": "Anna"
+      }
+    ],
+    "id": "sh:2025:toaster",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "105-121",
+    "publisher": "Narr Francke Attempto",
+    "publisher-place": "Tübingen",
+    "title": "Ökologisch nachhaltig mit Toastern und kultigen Mäuschen? Frames in der Markenkommunikation von Citroën Ami und Fiat Topolino",
+    "type": "chapter"
   }
 ]
